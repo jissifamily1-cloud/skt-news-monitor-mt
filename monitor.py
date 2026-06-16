@@ -373,6 +373,13 @@ def main():
         print("ERROR: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID 미설정")
         sys.exit(1)
 
+    # TEMP DIAG: 봇이 보는 실제 chat id 조회 (채널 chat_id 확인용 — 확인 후 제거)
+    try:
+        _diag = _http_get("https://api.telegram.org/bot%s/getUpdates" % BOT_TOKEN)
+        print("DIAG getUpdates:", _diag[:1500])
+    except Exception as _e:
+        print("DIAG getUpdates err:", _e)
+
     state = load_state()
     seen = set(state["seen_urls"])
     seen_titles = set(state.get("seen_titles", []))
