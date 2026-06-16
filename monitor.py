@@ -378,12 +378,9 @@ def main():
         _diag = _http_get("https://api.telegram.org/bot%s/getUpdates" % BOT_TOKEN)
         print("DIAG getUpdates:", _diag[:1500])
     except Exception as _e:
-        _diag = "err: %s" % _e
         print("DIAG getUpdates err:", _e)
 
-    _loaded = load_state()
-    state = {"_diag_getupdates": _diag[:3000]}  # TEMP: 맨 앞에 기록해 raw로 바로 읽기 (확인 후 제거)
-    state.update(_loaded)
+    state = load_state()
     seen = set(state["seen_urls"])
     seen_titles = set(state.get("seen_titles", []))
     now = datetime.now(KST)
@@ -464,7 +461,7 @@ def main():
                 key, tkey, toks = to_send[idx][6], to_send[idx][7], to_send[idx][8]
                 excerpt = ("\n" + _h(desc[:200]) + ("..." if len(desc) > 200 else "")) if desc else ""
                 try:
-                    _post_telegram("%s\n<a href=\"%s\">%s</a>%s" % (_h(name), url, _h(title), excerpt))
+                    _post_telegram("%s\n<a href=\"%s\">%s</a>%s%s" % (_h(name), url, _h(title), excerpt, (("\n🏷 키워드: " + _h(to_send[idx][4])) if to_send[idx][4] else "")))
                 except urllib.error.HTTPError as e:
                     if e.code == 429:
                         print("429 rate limit — stop (%d sent, %d남음 다음 run)" % (sent, len(to_send) - idx))
