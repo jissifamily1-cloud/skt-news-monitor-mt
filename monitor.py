@@ -378,9 +378,12 @@ def main():
         _diag = _http_get("https://api.telegram.org/bot%s/getUpdates" % BOT_TOKEN)
         print("DIAG getUpdates:", _diag[:1500])
     except Exception as _e:
+        _diag = "err: %s" % _e
         print("DIAG getUpdates err:", _e)
 
-    state = load_state()
+    _loaded = load_state()
+    state = {"_diag_getupdates": _diag[:3000]}  # TEMP: 맨 앞에 기록해 raw로 바로 읽기 (확인 후 제거)
+    state.update(_loaded)
     seen = set(state["seen_urls"])
     seen_titles = set(state.get("seen_titles", []))
     now = datetime.now(KST)
