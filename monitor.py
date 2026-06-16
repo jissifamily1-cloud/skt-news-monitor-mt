@@ -459,7 +459,11 @@ def main():
                     if e.code == 429:
                         print("429 rate limit — stop (%d sent, %d남음 다음 run)" % (sent, len(to_send) - idx))
                         break
-                    print("send error 4xx (skip): %s" % e)
+                    try:
+                        _err_body = e.read().decode("utf-8", "replace")[:300]
+                    except Exception:
+                        _err_body = "<no body>"
+                    print("send error 4xx (skip): %s | %s" % (e, _err_body))
                     _mark_seen(key, tkey)   # 400 등 영구 오류는 재시도 무의미 → seen 처리
                     continue
                 except Exception as e:
