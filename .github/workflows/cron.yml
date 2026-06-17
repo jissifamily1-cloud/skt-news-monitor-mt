@@ -2,6 +2,11 @@ name: mt-news-monitor
 
 on:
   workflow_dispatch:
+  schedule:
+    # GitHub cron은 UTC 기준. KST = UTC+9.
+    # KST 06:00~21:59 동안 5분 간격 자동 실행 (= UTC 21:00~23:59 + 00:00~12:59)
+    - cron: "*/5 21-23 * * *"
+    - cron: "*/5 0-12 * * *"
 
 permissions:
   contents: write
