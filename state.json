@@ -1,12 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260617128900061?input=1195m",
-  "https://www.dailymedi.com/news/news_view.php?wr_id=937466",
-  "https://www.etoday.co.kr/news/view/2594462",
-  "https://www.g-enews.com/view.php?ud=2026061715020384246ed0c62d49_1",
-  "https://www.hankyung.com/article/202606171994i",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403153",
   "https://www.headlinejeju.co.kr/news/articleView.html?idxno=594594",
   "https://www.sedaily.com/article/20056915",
   "https://dealsite.co.kr/articles/163750",
@@ -3000,27 +2994,17 @@
   "http://enews.imbc.com/News/RetrieveNewsInfo/508621",
   "https://www.donga.com/news/Opinion/article/all/20260617/134132738/2",
   "http://coinreaders.com/242766",
-  "http://www.fnnews.com/news/202606172253054484"
+  "http://www.fnnews.com/news/202606172253054484",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2203330",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2203327",
+  "https://zdnet.co.kr/view/?no=20260617230653",
+  "http://www.dailypop.kr/news/articleView.html?idxno=99748",
+  "https://www.yna.co.kr/view/AKR20260617175400007?input=1195m",
+  "https://www.tokenpost.kr/news/breaking/370405"
  ],
- "last_run": "2026-06-17T23:05:55.005986+09:00",
+ "last_run": "2026-06-17T23:10:59.016924+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-06-17T17:10:22.999678+09:00",
-   "팔아야 당장 MSTR 규모의 갖고있다면 인프라"
-  ],
-  [
-   "2026-06-17T17:10:22.999678+09:00",
-   "커져 삼성전자 생산 역할 주도 젠슨 열풍에"
-  ],
-  [
-   "2026-06-17T17:10:22.999678+09:00",
-   "잡겠다 테슬라 중국 두뇌 선언한 전쟁 전기차들 넘어"
-  ],
-  [
-   "2026-06-17T17:10:22.999678+09:00",
-   "이재명 15조 가져온 실험 정부 성공할까 반도체가 초과세수 미래투자"
-  ],
   [
    "2026-06-17T17:15:21.888328+09:00",
    "7월 초정밀 나노코리아 피지컬 가공부터 AI까지 오는 8일"
@@ -3792,15 +3776,13 @@
   [
    "2026-06-17T23:05:24.874993+09:00",
    "때문 수출 부인 차단은 통신사 의혹"
+  ],
+  [
+   "2026-06-17T23:10:28.359987+09:00",
+   "4년간 폴렌자산운용 500억달러 운용자산 감소 놓쳐"
   ]
  ],
  "seen_titles": [
-  "[포토]KT의에이전틱AI",
-  "반도체다음주자는‘K-방산주’…중동찍고유럽도뚫는다",
-  "시스윈로보틱스,삼성전자평택반도체사업장에AMR납품",
-  "현대모비스,휴머노이드로봇이새성장축…\"적정주가90만원제시\"-메리...",
-  "정부‘국방반도체’드라이브거는데…NH금융硏“리스크고려해야”",
-  "반도체산단용수관로매설에경기광주시장당선인'1인시위'",
   "10cm내외절개로무릎인공관절로봇수술가능",
   "최태원의‘3대근육’인재론…AI시대인재상전면재편",
   "\"수직으로쌓는다\"…삼성전자,세계최초42나노3D적층트랜지스터구...",
@@ -6794,7 +6776,13 @@
   "'유퀴즈'S사그만둔20대버스기사\"초봉5천만원…만족해\"",
   "매연20%뿜는건설기계,전동화개조허용해야[기고/임기상]",
   "모건스탠리\"비트코인(BTC),2030년100만달러목표달성가능\"",
-  "앤스로픽수출차단은韓통신사때문?…통신3사,의혹부인"
+  "앤스로픽수출차단은韓통신사때문?…통신3사,의혹부인",
+  "[금융]신한금융통합앱출시/KB국민카드포인트지역화폐전환/네...",
+  "현대건설,초개인화시대AI주거솔루션고도화",
+  "\"N2SF전환대응\"...한싹,‘시큐어게이트V4.0’출시",
+  "[맥락읽기]희토류다음은'AI'인가...전략자산이된인공지능",
+  "이강철감독믿음에응답한kt힐리어드…\"내가끝내겠다\"",
+  "폴렌자산운용,엔비디아놓쳐4년간운용자산500억달러감소"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
