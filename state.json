@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.e-science.co.kr/news/articleView.html?idxno=130737",
-  "https://www.ajunews.com/view/20260617150821342",
-  "http://www.digitalbizon.com/news/articleView.html?idxno=2343155",
-  "https://www.dt.co.kr/article/12068145",
-  "https://www.dt.co.kr/article/12068147",
-  "https://www.dailian.co.kr/news/view/1656864/?sc=Naver",
-  "https://www.tfmedia.co.kr/news/article.html?no=205185",
-  "https://news.unn.net/news/articleView.html?idxno=593599",
-  "https://magazine.hankyung.com/business/article/202606172332b",
   "https://www.livesnews.com/news/article.html?no=62039",
   "http://www.breaknews.com/1214830",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=722768",
@@ -3000,9 +2991,18 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260618053407nbZ",
   "https://www.munhwa.com/article/11596328",
   "https://www.sedaily.com/article/20057068",
-  "https://www.mediapen.com/news/view/1105017"
+  "https://www.mediapen.com/news/view/1105017",
+  "https://www.dt.co.kr/article/12068146",
+  "https://www.starnewskorea.com/sports/2026/06/18/2026061716233416456",
+  "https://www.mk.co.kr/article/12076988",
+  "https://www.g-enews.com/view.php?ud=2026061717564586170c8c1c064d_1",
+  "http://www.fnnews.com/news/202606180529135167",
+  "https://www.mt.co.kr/entertainment/2026/06/18/2026061805043411947",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02184486645483032",
+  "https://www.g-enews.com/view.php?ud=202606180530347759e250e8e188_1",
+  "https://www.newspim.com/news/view/20260617000935"
  ],
- "last_run": "2026-06-18T05:35:57.777472+09:00",
+ "last_run": "2026-06-18T05:40:46.097345+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3307,15 +3307,6 @@
   ]
  ],
  "seen_titles": [
-  "미래에셋자산운용,'TIGERITETF'순자산3조원돌파…토큰화사업도...",
-  "美비자벽에좌절한해외인재…100명만데려와도K과학살아난다",
-  "최재천“AI혁명보다더중요한것있다···코로나가남긴경고”[20...",
-  "최운열한공회장\"회계기본법등3대입법…1천150명선발과도\"",
-  "제르코닉스,관계관리AI서비스'코센티오'오픈베타출시",
-  "코레일,라이다로승강장안전지킨다…철도유지관리도AI·데이터시대",
-  "[조성준의스케치]갤럭시S26선방에도웃지못한삼성MX...AI폰·폴더블...",
-  "\"2030년까지기업10%이상AI퍼스트로경쟁우위확보\"…가트너트렌드...",
-  "식약처“첨단바이오의약품전문가양성”…워크숍개최",
   "포티넷코리아,서울아이티고등학교재학생멘토링…사이버보안인재육...",
   "너도나도'슈퍼앱'외치지만…여전히앱따로,고객만'갸우뚱'",
   "체외충격파실손문턱높아진다…부위당6회넘으면보상제한",
@@ -6306,7 +6297,16 @@
   "AI가지키는바다…'해양안전어벤져스'총출동",
   "“‘삼전닉스’반도체주도주안바뀐다…내년6월까지상승가능”",
   "조현준의승부수…서울도심에‘AI데이터센터’개관",
-  "[美증시]연준금리인상시사에3대지수'충격'...반도체만올랐다"
+  "[美증시]연준금리인상시사에3대지수'충격'...반도체만올랐다",
+  "원스토어노조,SK스퀘어앞집회…“헐값·졸속매각반대”",
+  "[오피셜]'LG→삼성→두산→KIA→롯데→SSG→한화→KT→NC→키움'KBO리...",
+  "인하서인상으로바뀐연준..워시“물가안정의지강력”[월가월부]",
+  "中전자제품제조사롱치어,美·中무역긴장속'美AI기기시장'조...",
+  "[뉴욕증시]국채수익률급등에일제히하락…스페이스X,5%급락",
+  "\"돈이렇게버는구나\"...조혜련180%·신기루70%수익,어떤주식샀나...",
+  "코스피잘나가는데…우리는왜계속불안한가[김학균의투자레슨]",
+  "[뉴욕증시]'연준쇼크'에나스닥354P급락...국채금리폭등",
+  "[ETF시황]SK하이닉스레버리지ETF수익률상위권휩쓸어"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
