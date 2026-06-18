@@ -7,7 +7,7 @@
 발송: run당 MAX_SEND_PER_RUN건, 메시지 간 SEND_INTERVAL_SEC 간격, 429시 안전 중단
       성공한 건만 seen 처리하고 save_state는 항상 실행 → 크래시·재발송 루프 방지
 실행: GitHub Actions (cron-job.org 트리거, 06~22시 KST)
-야간: 22시~06시 발행분은 06시 첫 실행에서 모아보기로 일괄 발송
+야간: 22시~06시는 발송 안 함(코드 시간대 가드). 아침 첫 실행도 당일 06시 이후 발행분만 발송
 
 환경변수:
   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID (필수)
@@ -46,6 +46,9 @@ from config import (
     FETCH_COUNT_NIGHT,
     MAX_SEEN_URLS,
     PRESS_MAP,
+    ALLOW_DOMAINS,
+    ACTIVE_START_HOUR,
+    ACTIVE_END_HOUR,
 )
 
 KST = timezone(timedelta(hours=9))
@@ -366,6 +369,12 @@ def blocked_url(url):
     return any(k in url.lower() for k in BLOCK_URL_KEYWORDS)
 
 
+def allowed_press(url):
+    """기사 도메인이 ALLOW_DOMAINS(허용 언론사)에 속하면 True. 아니면 발송 제외."""
+    host = _host_of(url)
+    return any(host == d or host.endswith("." + d) for d in ALLOW_DOMAINS)
+
+
 # ---------- 메인 ----------
 
 def main():
@@ -378,12 +387,22 @@ def main():
         _diag = _http_get("https://api.telegram.org/bot%s/getUpdates" % BOT_TOKEN)
         print("DIAG getUpdates:", _diag[:1500])
     except Exception as _e:
+        _diag = "err: %s" % _e
         print("DIAG getUpdates err:", _e)
 
-    state = load_state()
+    _loaded = load_state()
+    state = {"_diag_getupdates": _diag[:3000]}  # TEMP: 맨 앞에 기록해 raw로 바로 읽기 (확인 후 제거)
+    state.update(_loaded)
     seen = set(state["seen_urls"])
     seen_titles = set(state.get("seen_titles", []))
     now = datetime.now(KST)
+
+    # 발송 허용 시간대(예: 06~22시) 밖이면 수집·발송 생략 (야간 제외).
+    # state를 저장하지 않고 빠져나가 last_run을 보존 → 아침 첫 실행이 정상 동작.
+    if not (ACTIVE_START_HOUR <= now.hour < ACTIVE_END_HOUR):
+        print("outside active window %02d-%02d KST (now %02d시) — skip"
+              % (ACTIVE_START_HOUR, ACTIVE_END_HOUR, now.hour))
+        return
 
     # 마지막 실행 이후 발행분 커버 (야간 공백 포함). 최소 RECENCY_MINUTES 보장.
     last_run = None
@@ -394,11 +413,17 @@ def main():
     default_cutoff = now - timedelta(minutes=RECENCY_MINUTES)
     cutoff = min(last_run, default_cutoff) if last_run else default_cutoff
 
-    # 마지막 실행과 2시간 이상 공백이면 야간 모아보기 모드
+    # 야간(당일 06시 이전) 기사 제외 — 아침 첫 실행이 밤사이 기사를 몰아보내지 않도록
+    # cutoff를 당일 ACTIVE_START_HOUR(06:00)로 고정.
+    window_start = now.replace(hour=ACTIVE_START_HOUR, minute=0, second=0, microsecond=0)
+    if cutoff < window_start:
+        cutoff = window_start
+
+    # 마지막 실행과 2시간 이상 공백이면(=아침 첫 실행) 모아보기 모드
     night_mode = last_run is not None and (now - last_run) > timedelta(hours=2)
     night_range = None
     if night_mode:
-        night_range = "%s ~ %s" % (last_run.strftime("%m-%d %H:%M"), now.strftime("%m-%d %H:%M"))
+        night_range = "%s ~ %s" % (window_start.strftime("%m-%d %H:%M"), now.strftime("%m-%d %H:%M"))
 
     articles = fetch_all(FETCH_COUNT_NIGHT if night_mode else FETCH_COUNT)
     print("fetched: %d, night_mode: %s" % (len(articles), night_mode))
@@ -421,7 +446,7 @@ def main():
         tkey = re.sub(r"\s+", "", title)[:60]
         if (key and key in seen) or tkey in seen_titles:
             continue
-        if (pub and pub < cutoff) or blocked_url(url) or not match_keyword(title):
+        if (pub and pub < cutoff) or blocked_url(url) or not allowed_press(url) or not match_keyword(title):
             _mark_seen(key, tkey)   # 발송 대상 아님 → 즉시 seen 처리
             continue
         candidates.append((title, url, pub, source, match_keyword(title), desc, key, tkey))
@@ -453,7 +478,7 @@ def main():
             )
             if night_range:
                 try:
-                    _post_telegram("야간 모아보기 %s" % night_range)
+                    _post_telegram("오늘 뉴스 모아보기 %s" % night_range)
                 except Exception as e:
                     print("header send error: %s" % e)
             sent = 0
@@ -461,7 +486,7 @@ def main():
                 key, tkey, toks = to_send[idx][6], to_send[idx][7], to_send[idx][8]
                 excerpt = ("\n" + _h(desc[:200]) + ("..." if len(desc) > 200 else "")) if desc else ""
                 try:
-                    _post_telegram("%s\n<a href=\"%s\">%s</a>%s%s" % (_h(name), url, _h(title), excerpt, (("\n🏷 키워드: " + _h(to_send[idx][4])) if to_send[idx][4] else "")))
+                    _post_telegram("%s\n<a href=\"%s\">%s</a>%s" % (_h(name), url, _h(title), excerpt))
                 except urllib.error.HTTPError as e:
                     if e.code == 429:
                         print("429 rate limit — stop (%d sent, %d남음 다음 run)" % (sent, len(to_send) - idx))
