@@ -248,3 +248,17 @@ PRESS_MAP = {
     "mediapen.com": "미디어펜",
     "delighti.co.kr": "딜라이트닷넷",
 }
+
+
+# 발송 허용 언론사 화이트리스트 — 도메인이 여기 없으면 발송 제외
+ALLOW_DOMAINS = [
+    "chosun.com", "joongang.co.kr", "donga.com", "hani.co.kr",
+    "khan.co.kr", "yna.co.kr", "news1.kr", "newsis.com",
+    "hankyung.com", "mk.co.kr", "sedaily.com", "edaily.co.kr",
+    "etoday.co.kr", "ajunews.com", "asiae.co.kr", "mt.co.kr",
+    "digitaltoday.co.kr", "etnews.com", "zdnet.co.kr", "dt.co.kr",
+]
+
+# 발송 허용 시간대 (KST) — 06:00~21:59만 발송
+ACTIVE_START_HOUR = 6
+ACTIVE_END_HOUR = 22
