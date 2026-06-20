@@ -382,8 +382,8 @@ def main():
         print("ERROR: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID 미설정")
         sys.exit(1)
 
-        state = load_state()
-seen = set(state["seen_urls"])
+    state = load_state()
+    seen = set(state["seen_urls"])
     seen_titles = set(state.get("seen_titles", []))
     now = datetime.now(KST)
 
