@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.natv.go.kr/natv/news/newsView.do?newsId=513621",
-  "http://www.lawissue.co.kr/view.php?ud=20260626173233959067191f6c6e_12",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1094574",
-  "http://www.bizwnews.com/news/articleView.html?idxno=139512",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=222657",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=403150",
-  "https://www.news1.kr/society/court-prosecution/6209874",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305349&inflow=N",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678528",
   "http://www.fnnews.com/news/202606261316023545",
   "https://www.yna.co.kr/view/PYH20260626092000013?input=1196m",
   "https://www.news1.kr/politics/assembly/6209851",
@@ -3000,9 +2991,18 @@
   "https://www.hankyung.com/article/202606271197h",
   "https://www.news1.kr/finance/blockchain-fintech/6210025",
   "https://www.dongponews.net/news/articleView.html?idxno=58996",
-  "https://www.lecturernews.com/news/articleView.html?idxno=205018"
+  "https://www.lecturernews.com/news/articleView.html?idxno=205018",
+  "https://www.lecturernews.com/news/articleView.html?idxno=205076",
+  "https://www.lecturernews.com/news/articleView.html?idxno=204985",
+  "https://www.lecturernews.com/news/articleView.html?idxno=205122",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2284062",
+  "https://www.sentv.co.kr/article/view/sentv202606270007",
+  "https://www.nocutnews.co.kr/news/6539483",
+  "https://www.tfmedia.co.kr/news/article.html?no=205371",
+  "https://biz.heraldcorp.com/article/10790030",
+  "https://www.dt.co.kr/article/12069728"
  ],
- "last_run": "2026-06-27T08:30:50.787529+09:00",
+ "last_run": "2026-06-27T08:35:52.656575+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3148,18 +3148,13 @@
   [
    "2026-06-27T08:25:15.541824+09:00",
    "산단 제안 김장호 공급 전국적 구미시장의 주목받는 1000원"
+  ],
+  [
+   "2026-06-27T08:35:15.136510+09:00",
+   "핫해진 외국 가장 언론서 조명 한국 집중 고교 호황에"
   ]
  ],
  "seen_titles": [
-  "국민의힘\"보완수사권폐지반대…반도체호남행무리\"",
-  "한국교통안전공단,경영평가3년연속‘A’등급…국토부산하유일",
-  "서울지하철,7월부터'대용량리튬배터리'반입제한",
-  "[2026부산모빌리티쇼]BMW그룹코리아,'2026부산모빌리티쇼'서지역...",
-  "'매관매직'김건희,1심징역7년선고",
-  "'매관매직'혐의김건희,1심징역7년···\"영부인지위사익추구활용...",
-  "'매관매직'김건희,반클리프목걸이·디올백수수모두유죄…\"반성도...",
-  "김건희’매관매직혐의’에징역7년선고…남은재판은?",
-  "사토시나카모토는양자컴퓨터를예상했나…110만BTC분산보관재조명",
   "정부R&D200조원투자...2030년6G상용화",
   "국가과학기술자문회의제7회심의회의발언",
   "한성숙청문회'부동산의혹'공방…청문보고서채택난항예상(종합)",
@@ -6150,7 +6145,16 @@
   "전국적주목받는김장호구미시장의반도체산단1000원공급제안",
   "이름바꾸고토스와맞손…이승윤의스토리,리브랜딩효과볼까[코인현...",
   "'세상을바꾼과학,기억되지않은이름들'…벨기에서과학인문세미나",
-  "연세대학교안종현교수,과기정통부'리더연구'선정…2차원반도체기..."
+  "연세대학교안종현교수,과기정통부'리더연구'선정…2차원반도체기...",
+  "아주대학교소프트웨어융합대학,기초연구실사업3개연구팀동시선정...",
+  "국립중앙도서관,AI시대도서관혁신이끌아이디어공모",
+  "[나동준시선의ESG]병원이사회회의록공개를요구하다",
+  "美NYT,충북반도체고\"한국서가장핫한고교\"로집중조명",
+  "'닉스레버리지'ETF,4주만에개인순매수1위재등",
+  "정옥임\"장동혁,한동훈파징계언급?의원들쉽게보는것\"[한판승부]",
+  "美FTC,스페이스X의광통신스타트업인수신속승인",
+  "스페이스X,광통신스타트업인수…美당국,신속승인",
+  "“반도체호황에가장핫해진한국고교”…외국언론서집중조명"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
