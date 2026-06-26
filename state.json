@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.paxetv.com/news/articleView.html?idxno=275724",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04500166645485656",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=43166",
-  "https://www.news1.kr/politics/president/6209559",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=219315",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536636",
-  "http://www.fnnews.com/news/202606261427106451",
-  "https://www.newspim.com/news/view/20260626000675",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=723341",
   "http://www.press9.kr/news/articleView.html?idxno=78505",
   "http://www.segyebiz.com/newsView/20260626510106?OutUrl=naver",
   "http://www.iminju.net/news/articleView.html?idxno=165889",
@@ -3000,15 +2991,20 @@
   "https://www.nocutnews.co.kr/news/6539469",
   "https://www.joongang.co.kr/article/25440243",
   "https://www.wikitree.co.kr/articles/1143460",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595867"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595867",
+  "https://www.sedaily.com/article/20060753",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=735306",
+  "https://www.ekn.kr/web/view.php?key=20260626020136943",
+  "http://www.yonhapnewstv.co.kr/news/AKR202606261949326ra",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595904",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536718",
+  "https://www.ngonews.kr/news/articleView.html?idxno=231792",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4091625",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6833195_37004.html"
  ],
- "last_run": "2026-06-26T19:50:56.486458+09:00",
+ "last_run": "2026-06-26T19:55:42.449024+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-06-26T13:55:17.477006+09:00",
-   "IPO 지분 급락 주가 이익 소프트뱅크 소식에 연기"
-  ],
   [
    "2026-06-26T14:00:30.374700+09:00",
    "증시 천국이던 국유은행 YM"
@@ -3467,15 +3463,6 @@
   ]
  ],
  "seen_titles": [
-  "NHN팩토리X,'슈퍼컴퓨터TOP500'국내1위등극",
-  "LS부회장,美전력시장점검…“‘기회의땅’에서에너지패권잡을...",
-  "오산시인수위,세교3지구산업전략구체화",
-  "K팔란티어나온다…2030년까지기업가치1조원신안보기업5개육성",
-  "[오늘뭐했니?]롯데칠성음료·롯데건설·롯데호텔앤리조트·롯데홈쇼핑",
-  "李대통령\"2030년까지美팔란티어와경쟁할기업가치1조기업5개육성...",
-  "SK스퀘어,장중9%넘게급락…170만원선까지밀린뒤반등시도",
-  "고동진,‘호남반도체’에비판…“4류정치,1류기업팔비틀어”[현...",
-  "오세훈\"호남반도체투자는'국정사유화'...사법시스템도망가져\"",
   "李대통령\"2030년까지신안보기업가치1조원기업5개육성\"",
   "중국차안산다더니…수입차판도바꾸는BYD의'가성비공습'",
   "BYD코리아,부산모빌리티쇼서PHEV'씨라이언6DM-i'국내첫공개",
@@ -6466,7 +6453,16 @@
   "강대식\"소년병지원,기재부횡포걸림돌…모든국민의대통령돼야\"",
   "李대통령“한일관계많이개선돼가깝고또가까운나라되길”",
   "경북도의회“수백조반도체투자,정치논리안돼\"...성명발표",
-  "‘호남권반도체투자발표임박’…TK대응전략은?"
+  "‘호남권반도체투자발표임박’…TK대응전략은?",
+  "카페폐업위험예측하는조기경보모형개발됐다",
+  "[이슈]李\"팔란티어와경쟁할혁신기업55개만들것\"…정부,'한국형...",
+  "[패트롤]경산시-대구북구-대구도시개발공사-대구디지털혁신진흥원-계명...",
+  "교황,종전촉구…\"짐승아닌인간으로갈등풀어야\"",
+  "창원시,수돗물악취민원대책‘AI시스템도입’",
+  "삼성,호남반도체에1000조투자?…29일투자계획공개",
+  "기업경영의자유를침해하는위헌적반도체입지강요를즉각중단하라",
+  "김영록전남지사\"반도체클러스터전남·광주로\"",
+  "김건희'매관매직'혐의징역7년‥목걸이·시계·그림모두유죄"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
