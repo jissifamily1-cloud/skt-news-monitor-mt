@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10788858",
-  "https://www.newsis.com/view/NISX20260627_0003685937",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164705",
-  "https://zdnet.co.kr/view/?no=20260626221301",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=91488",
-  "https://www.newsway.co.kr/news/view?ud=2026062615023782110",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=81956",
-  "http://www.breaknews.com/1217305",
-  "https://www.news1.kr/local/kangwon/6209869",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=845254",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008629978&plink=ORI&cooper=NAVER",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008629979&plink=ORI&cooper=NAVER",
@@ -3000,9 +2991,18 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1380372",
   "https://www.newspim.com/news/view/20260626000843",
   "http://www.boannews.com/media/view.asp?idx=144335&kind=2",
-  "https://www.ytn.co.kr/_ln/0101_202606260754576005"
+  "https://www.ytn.co.kr/_ln/0101_202606260754576005",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=202187",
+  "https://www.slist.kr/news/articleView.html?idxno=748132",
+  "https://www.imaeil.com/page/view/2026062808425897662",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678965",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=279264",
+  "https://www.munhwa.com/article/11598693",
+  "http://www.sisacast.kr/news/articleView.html?idxno=97166",
+  "https://www.sportschosun.com/entertainment/2026-06-28/202606280100193490012805",
+  "https://view.asiae.co.kr/article/2026062515415028267"
  ],
- "last_run": "2026-06-28T08:40:51.490287+09:00",
+ "last_run": "2026-06-28T08:45:57.029684+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3068,18 +3068,13 @@
   [
    "2026-06-28T08:25:15.725846+09:00",
    "코스피 발목 좋은 잡은 잘나가던 아니었어 반도체값 오르면"
+  ],
+  [
+   "2026-06-28T08:45:17.100220+09:00",
+   "K고소함 모든 반한 황도 젠슨 참기름의"
   ]
  ],
  "seen_titles": [
-  "김용범“韓판팔란티어키워야…방산신기원시작했다”",
-  "‘전반기까지는지명타자’올스타3루수최정,뜨거운인기에오히려...",
-  "[VS기획]AI는왜‘사주’만났나…운세넘어‘대화형심리플랫폼’...",
-  "한화필리조선소,美최초‘존스법준수’암반설치선인도…유럽전...",
-  "\"유가하락에인플레압력↓…연준인상우려완화시약달러재현\"",
-  "당당하게‘술팔아!’앳된얼굴…술집,모텔단돈만원에뚫렸다[세...",
-  "부산자원순환시설서불…300만원피해",
-  "폭스바겐,10만명감원·공장4곳추가폐쇄검토",
-  "폐배터리→새배터리로만드는혁신기술나왔다…\"성능95%회복\"",
   "AI랠리어디까지…변수는'수요둔화'아닌'신용위험'",
   "'1만피'넘어'1만5000'까지…열쇠는삼전·닉스실적",
   "뉴욕증시,기술주차익실현에일제히하락···반도체급락속순환매...",
@@ -6070,7 +6065,16 @@
   "강영석상주시장퇴임…\"상주발전위한응원·역할이어가겠다\"",
   "국가과학기술자문회의제7회심의회의",
   "정부,중소기업공격표면무료점검...AI위협대비보안지원나서",
-  "고민정\"정청래=친문·친노적통?노무현-문재인-이재명이민주당적통..."
+  "고민정\"정청래=친문·친노적통?노무현-문재인-이재명이민주당적통...",
+  "BYD는통했는데샤오미는왜안통할까",
+  "LG유플러스·GS리테일,인프라안정성과ESG경쟁력강화",
+  "돌봄로봇이뇌건강까지살핀다…영현로보틱스-AICU맞손",
+  "[증시전망]7월코스피향방은...삼전·닉스이익전망이관건",
+  "뉴욕증시,기술주약세에하락...나스닥,5거래일째내려",
+  "국힘이정현“호남반도체,보수가먼저기업투자환영해야”",
+  "[生기업TALK]하나금융그룹,도시첨단물류단지조성부터지역상권회복...",
+  "\"가슴쪽너무밀착\"송해나,'이현이남편'과스킨십사진올렸다가..결...",
+  "젠슨황도반한'K고소함'…참기름의모든것[맛잘알X파일]"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
