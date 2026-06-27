@@ -1,18 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3412167",
-  "https://www.thelec.kr/news/articleView.html?idxno=58658",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421918",
-  "https://www.yna.co.kr/view/AKR20260625163000017?input=1195m",
-  "https://www.newsway.co.kr/news/view?ud=2026062519223019785",
-  "https://www.etnews.com/20260625000429",
-  "http://www.fnnews.com/news/202606251859105738",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05848246645485328",
-  "https://www.mk.co.kr/article/12083339",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845119",
-  "https://www.ajunews.com/view/20260625143103823",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=63066",
   "https://www.seoultimes.news/news/article.html?no=2000097051",
   "https://www.ziksir.com/news/articleView.html?idxno=138079",
   "https://www.thelec.kr/news/articleView.html?idxno=58654",
@@ -3000,15 +2988,23 @@
   "https://www.newsis.com/view/NISX20260626_0003685578",
   "https://biz.heraldcorp.com/article/10790191",
   "http://www.yonhapnewstv.co.kr/news/MYH20260627160416kYl",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790095.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790095.html",
+  "https://www.newspim.com/news/view/20260627000054",
+  "http://www.osen.co.kr/article/G1112829805",
+  "https://www.newspim.com/news/view/20260627000053",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5202392",
+  "https://www.mediapen.com/news/view/1106941",
+  "https://www.segye.com/newsView/20260627505105?OutUrl=naver",
+  "https://www.pressian.com/pages/articles/2026062715085183824",
+  "https://www.segye.com/newsView/20260627504972?OutUrl=naver",
+  "https://www.mt.co.kr/politics/2026/06/27/2026062715423456061",
+  "https://view.asiae.co.kr/article/2026062606090423246",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=552214",
+  "https://www.kpinews.kr/newsView/1065595458292321"
  ],
- "last_run": "2026-06-27T16:10:47.271877+09:00",
+ "last_run": "2026-06-27T16:15:44.483538+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-06-27T10:15:17.899320+09:00",
-   "주목받는 있나요 아이 우리 호황에 국내 입학할"
-  ],
   [
    "2026-06-27T10:20:20.665654+09:00",
    "충북반도체고 외신이 연봉보다 교장 성과급이 많다 주목한 제자"
@@ -3211,18 +3207,6 @@
   ]
  ],
  "seen_titles": [
-  "SKT,SK하이닉스美AI법인에7380억원출자",
-  "SKT,SK하이닉스미국AI회사에7400억원출자",
-  "SK하이닉스美AI법인에계열사자금결집…SKT7384억출자",
-  "SKT,SK하이닉스미국낸드플래시법인에7000억원대출자",
-  "SKT,美SK하이닉스AI투자법인에7000억대투자",
-  "SKT,SK하닉美AI법인에7400억투자",
-  "SKT,SK하이닉스미국AI거점에7384억출자한다",
-  "SKT,'SK하이닉스美AI투자회사'에7천400억출자",
-  "SKT,SK하이닉스미국AI투자법인에7천억원대출자",
-  "SKT,SK하이닉스美AI법인에7384억출자…그룹AI시너지포석",
-  "SKT,SK하이닉스美'AI컴퍼니'에7384억원투자…“신규사업기회발...",
-  "\"AI·망융합가속화…초연결·초지능네트워크가미래비전\"[제17회퓨...",
   "SKT,美‘SK하이닉스낸드법인’에7384억출자…“AI시너지확보”",
   "“공장베테랑노하우,AI가이어받는다”…SKT,철강·자동차공장에독...",
   "[#통신풍향계]SKT'자율네트워크전략'발표-'제조AI에이전트MOU'·...",
@@ -6210,7 +6194,19 @@
   "삼성·SK,AI데이터센터투자본격화…'한국판스타게이트'현실화기대...",
   "李대통령추경시사발언에與“때맞춰내리면단비”",
   "[뉴스1번지]'반도체호남행'공방…이대통령,물부족반박",
-  "李대통령\"돼지눈에는돼지가보이는법\"…누구겨냥쓴소리?"
+  "李대통령\"돼지눈에는돼지가보이는법\"…누구겨냥쓴소리?",
+  "[핌in인천]'新무기와함께'이로운등록,SSG불펜버티는힘회복할까",
+  "\"(김)선빈이를2번에넣을까생각도했지만…\"김호령1번-박재현2번…...",
+  "[핌in대구]'특급좌완'삼성배찬승,데뷔후첫1군말소...어깨염증...",
+  "'변호사4만명'·'AI직격탄'급변하는법조시장…\"대책고민해야\"",
+  "\"역대급불장덕보나\"…직장인10명중7명이상수익권",
+  "나도모르게눈물이‘주르륵’…감성아닌‘안구질환’경고등",
+  "흔들린200조공약…이원택,새만금AI생태계로돌파구찾나",
+  "민주당,‘호남반도체투자직권남용’주장한안철수즉각고발방침",
+  "李대통령\"호남에물충분\"주장에…한동훈\"누구를위한발상이냐\"",
+  "코스피쥐락펴락국민연금…9000피에얼마나팔까[주末머니]",
+  "李대통령\"반도체물부족?…호남,일일100만톤공급가능\"",
+  "삼성전자,'특허괴물'로부터디스플레이특허침해소송"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
