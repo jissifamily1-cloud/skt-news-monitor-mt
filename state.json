@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.hankyung.com/article/2026062608121",
-  "https://www.sedaily.com/article/20060696",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=825203",
-  "https://economist.co.kr/article/view/ecn202606260037",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=314174",
-  "https://www.dizzotv.com/site/data/html_dir/2026/06/25/2026062580147.html",
-  "https://www.dongponews.net/news/articleView.html?idxno=58986",
-  "http://www.ikpnews.net/news/articleView.html?idxno=70803",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305344&inflow=N",
   "https://www.chosun.com/economy/science/2026/06/26/ZQQJX5BEOFGDJL6PN7UIVCUGH4/",
   "https://www.hankookilbo.com/news/article/A2026062614070001479?did=NA",
   "https://www.hankookilbo.com/news/article/A2026062612570004262?did=NA",
@@ -3000,9 +2991,18 @@
   "https://view.asiae.co.kr/article/2026062710132592087",
   "https://www.hankyung.com/article/2026062608351",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678544",
-  "https://www.mk.co.kr/article/12084616"
+  "https://www.mk.co.kr/article/12084616",
+  "https://www.xportsnews.com/article/2165359",
+  "https://www.sentv.co.kr/article/view/sentv202606270020",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714155",
+  "https://www.sedaily.com/article/20060785",
+  "https://www.newscj.com/news/articleView.html?idxno=3412450",
+  "http://www.joseilbo.com/news/news_read.php?uid=570846&class=78",
+  "https://kidd.co.kr/news/246511",
+  "https://view.asiae.co.kr/article/2026062613534223154",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5202347"
  ],
- "last_run": "2026-06-27T10:15:57.519365+09:00",
+ "last_run": "2026-06-27T10:20:54.199037+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3184,18 +3184,13 @@
   [
    "2026-06-27T10:15:17.899320+09:00",
    "주목받는 있나요 아이 우리 호황에 국내 입학할"
+  ],
+  [
+   "2026-06-27T10:20:20.665654+09:00",
+   "충북반도체고 외신이 연봉보다 교장 성과급이 많다 주목한 제자"
   ]
  ],
  "seen_titles": [
-  "주가조정돼도…초고수의픽은'SK하이닉스·삼성전자'[한경프리미엄...",
-  "中,로봇기업100만개돌파…수출1등공신은청소로봇",
-  "흔들린소형준,불안한오원석…KT결국이선수콜업했다\"선발뒤에붙...",
-  "셀트리온,바이오USA서AI·ADC파트너링확대",
-  "셀트리온,바이오USA서경쟁력확인...\"글로벌파트너링고도화추진할...",
-  "삼성전자·SK하이닉스,계속웃을까…반도체'진짜변수'는",
-  "MSCI선진국또불발…한국증시는왜아직도'신흥국'일까",
-  "추미애경기도정의새농정방향,'첨단과학·환경공존농정'",
-  "전남·광주메가시티'초읽기'…지방분권시험대",
   "환자1만명진료에AI활용했더니…진료질높였지만,치료효과는미지...",
   "1000조거론되는'3대메가프로젝트'...용수·전력경제성따져보니",
   "의료진단에AI써봤더니...치료결과를바꾸진못했다",
@@ -6186,7 +6181,16 @@
   "미군조종사가봤다는이란신무기,'해파리드론'의정체[시사쇼]",
   "李대통령,자금지원하고軍기술교류확대…'K방산유니콘육성'판깐...",
   "구혁채과기차관,주한호주대사와AI·양자협력논의",
-  "“우리아이입학할수있나요?”…AI호황에주목받는국내반도체특..."
+  "“우리아이입학할수있나요?”…AI호황에주목받는국내반도체특...",
+  "'골칫거리전락'몸값11억외인,도대체뭐가문제?...감독이직접대화...",
+  "美,앤트로픽'미토스5'사용제한완화",
+  "스페이스X,광통신스타트업메쉬옵티컬인수…AI인프라강화",
+  "“문송합니다”시대저무나…미국에선철학과가컴공보다취업잘된다",
+  "뉴빌리티,휴머노이드강자유니트리와전략적협력…차세대로봇개발",
+  "스페이스X,나스닥1007월7일편입…광통신스타트업도품었다",
+  "KAI,‘2026국토교통기술대전’서우주·미래모빌리티기술력공개",
+  "하헌기\"국힘,한동훈에삼켜질듯\"[시사쇼]",
+  "\"제자성과급이교장연봉보다많다\"…외신이주목한'충북반도체고'"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
