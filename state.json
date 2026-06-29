@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847088",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7172034",
-  "https://www.seoul.co.kr/news/economy/securities/2026/06/29/20260629500249?wlog_tag3=naver",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422411",
-  "https://economist.co.kr/article/view/ecn202606290056",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4091963",
-  "https://www.hankookilbo.com/news/article/A2026062916080000538?did=NA",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=433717",
-  "https://www.newspim.com/news/view/20260629001316",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=433697",
   "https://www.dailian.co.kr/news/view/1661179/?sc=Naver",
   "https://www.energydaily.co.kr/news/articleView.html?idxno=200911",
   "http://www.newsbrite.net/news/articleView.html?idxno=198907",
@@ -3000,9 +2990,19 @@
   "https://www.ggilbo.com/news/articleView.html?idxno=1166441",
   "https://www.ulsanpress.net/news/articleView.html?idxno=578133",
   "https://www.ekn.kr/web/view.php?key=20260629026217415",
-  "https://www.khan.co.kr/article/202606292146015"
+  "https://www.khan.co.kr/article/202606292146015",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=552461",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=589642",
+  "http://www.ddanzi.com/887939097",
+  "https://www.newspim.com/news/view/20260629001445",
+  "https://www.newspim.com/news/view/20260629000529",
+  "https://shindonga.donga.com/3/all/13/6283519/1",
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=206514",
+  "http://www.4th.kr/news/articleView.html?idxno=2113887",
+  "http://www.gnmaeil.com/news/articleView.html?idxno=589626",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=552458"
  ],
- "last_run": "2026-06-29T21:51:12.018989+09:00",
+ "last_run": "2026-06-29T21:55:54.449555+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3679,16 +3679,6 @@
   ]
  ],
  "seen_titles": [
-  "SK하이닉스,1100조원투자선언…서남권에도반도체클러스터",
-  "삼성·SK,반도체등메가프로젝트에4755조투자한다",
-  "반도체오면백화점도온다…호남소비지도바뀌나",
-  "광주은행\"삼전·닉스투자환영…맞춤형지원강화\"",
-  "‘금호’스치기만해도상한가…‘반도체투자’뜻밖의수혜주[나만...",
-  "靑,서남권반도체클러스터속도전예고…\"李정부임기내완공목표\"",
-  "'호남투자'확정에도삼전닉스하락세...코스피8394.65마감",
-  "\"호남덕에컸는데…\"안철수'반도체맹공'에지역민심폭발",
-  "SK용인산단12년단축,특별법은글쎄...용인시\"속도내달라\"",
-  "[영상클립]'제2반도체클러스터'추진논란…용인은우려,호남·충청...",
   "[3대메가프로젝트]SK,AI데이터센터·반도체에총2100조원투자",
   "하나증권,국내주식투자지원이벤트진행내용은?",
   "경북도이철우지사“정치논리배제”…호남권반도체편중구상비판",
@@ -6678,7 +6668,17 @@
   "'로봇핸드'테솔로,2027년상장목표…KB증권주관",
   "'시민중심·미래산업육성'울산시정밑그림윤곽",
   "카이스트,제18대총장에배충식교수선임",
-  "삼성·SK,호남에반도체공장4기짓는다"
+  "삼성·SK,호남에반도체공장4기짓는다",
+  "대구시,상급종합병원의료데이터활용절차일원화…AX'박차'",
+  "통영살인사건,가짜용의자사진확산",
+  "낚시터에서돌아온유시민:아무튼도착만하면된다",
+  "삼성전자·SK하이닉스,반도체'3200조투자'계획공시",
+  "깊이가다른글로벌투자정보GAM-맛보기편(6/29)",
+  "“미중패권경쟁,미국이판흔들고중국은틈파고든다”",
+  "삼성,미래성장위해호남,부산등2655조원투자..반도체등전략투자",
+  "삼성SDS,작년기타온실가스간접배출전년비10.7%↑",
+  "정점식\"이대통령'행정지도'발언은관치개입자백\"",
+  "삼성,3.5조규모협력사금융지원확대"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
