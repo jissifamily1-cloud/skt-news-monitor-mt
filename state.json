@@ -1,34 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=378093",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422408",
-  "https://biz.sbs.co.kr/article_hub/20000319517?division=NAVER",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1326106",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067915",
-  "https://www.inews365.com/news/article.html?no=925431",
-  "https://www.ekn.kr/web/view.php?key=20260629020257241",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1326105",
-  "https://www.idaegu.com/news/articleView.html?idxno=663949",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035482",
-  "https://www.huffingtonpost.kr/article/258320",
-  "https://www.inthenews.co.kr/news/article.html?no=88678",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076935",
-  "https://view.asiae.co.kr/article/2026062916593360820",
-  "https://www.etnews.com/20260629000417",
-  "https://www.mt.co.kr/economy/2026/06/29/2026062914212298001",
-  "https://www.newsis.com/view/NISX20260629_0003687897",
-  "https://www.dailian.co.kr/news/view/1661038/?sc=Naver",
-  "https://www.aitimes.com/news/articleView.html?idxno=212243",
-  "https://www.yna.co.kr/view/AKR20260629095200017?input=1195m",
-  "https://www.hankookilbo.com/news/article/A2026062913150005580?did=NA",
-  "https://www.newsway.co.kr/news/view?ud=2026062916323774156",
-  "https://www.kyosu.net/news/articleView.html?idxno=207069",
-  "https://www.kbsm.net/news/view.php?idx=524889",
-  "https://www.jjan.kr/article/20260629500226",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2443489",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264428",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260629165629Hpb",
   "https://www.mt.co.kr/tech/2026/06/29/2026062914130623522",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4422401",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=82685",
@@ -3000,51 +2972,39 @@
   "http://www.cctimes.kr/news/articleView.html?idxno=914004",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2443590",
   "https://biz.chosun.com/it-science/ict/2026/06/29/SOFG7AFJYBF5HPPAEGQSXI5SRA/",
-  "https://www.ajunews.com/view/20260629211303748"
+  "https://www.ajunews.com/view/20260629211303748",
+  "https://www.mediapen.com/news/view/1107202",
+  "https://www.khan.co.kr/article/202606292117015",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=59031",
+  "https://platum.kr/archives/290016",
+  "https://news.jtbc.co.kr/article/NB12305691?influxDiv=NAVER",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3121034",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=264369",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035504",
+  "https://www.cstimes.com/news/articleView.html?idxno=711538",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=602799",
+  "https://www.sedaily.com/article/20061097",
+  "https://www.newspim.com/news/view/20260629000013",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=552395",
+  "http://www.mdilbo.com/detail/tohfpC/756748",
+  "https://www.ikbc.co.kr/article/view/kbc202606290068",
+  "https://www.ikbc.co.kr/article/view/kbc202606290067",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597598",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=552394",
+  "https://mpmbc.co.kr/NewsArticle/1525195",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=552393",
+  "https://mpmbc.co.kr/NewsArticle/1525194",
+  "https://mpmbc.co.kr/NewsArticle/1525193",
+  "https://www.ikbc.co.kr/article/view/kbc202606290070",
+  "https://www.ikbc.co.kr/article/view/kbc202606290069",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/29/2026062990256.html",
+  "https://news.jtbc.co.kr/article/NB12305675?influxDiv=NAVER",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/29/2026062990254.html",
+  "https://www.khan.co.kr/article/202606292122005"
  ],
- "last_run": "2026-06-29T21:20:46.863947+09:00",
+ "last_run": "2026-06-29T21:25:51.102596+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-06-29T15:20:22.542619+09:00",
-   "인프라 종합서비스 SK에코플랜트는 업체로 매출 진화"
-  ],
-  [
-   "2026-06-29T15:20:22.542619+09:00",
-   "조기 호남 초격차 생산능력 확보"
-  ],
-  [
-   "2026-06-29T15:20:22.542619+09:00",
-   "판이 NPU AI반도체 구호에서 국산 바뀐다 실물로"
-  ],
-  [
-   "2026-06-29T15:20:22.542619+09:00",
-   "800조 다음은 시대 피지컬AI다"
-  ],
-  [
-   "2026-06-29T15:20:22.542619+09:00",
-   "선택한 미국 ADR 투자자와 만나는 SK하이닉스가"
-  ],
-  [
-   "2026-06-29T15:20:22.542619+09:00",
-   "기회 과기정통부 국산 대한민국 반도체에 있다 부총리"
-  ],
-  [
-   "2026-06-29T15:20:22.542619+09:00",
-   "지역위원장 인준 지역구 김용남 사고위로 25개"
-  ],
-  [
-   "2026-06-29T15:25:16.973839+09:00",
-   "2200조 투자 400조원 서남권 팹에 상보 최태원 투입"
-  ],
-  [
-   "2026-06-29T15:25:16.973839+09:00",
-   "인재 한계선 호남에 10만명 양성한다 인력 남방"
-  ],
-  [
-   "2026-06-29T15:25:16.973839+09:00",
-   "대응 부족 로봇산업 농촌 키운다 인력 농업용"
-  ],
   [
    "2026-06-29T15:30:26.381782+09:00",
    "공급망 되나 파고든 빈틈 메모리 글로벌 흔드는 변수"
@@ -3784,37 +3744,13 @@
   [
    "2026-06-29T21:15:20.513554+09:00",
    "소송 삼전 담합 주장 제기 소비자"
+  ],
+  [
+   "2026-06-29T21:25:17.038953+09:00",
+   "나눌까 어떻게 초과이윤 정부 본격 내달 공론화"
   ]
  ],
  "seen_titles": [
-  "[메가프로젝트]서남권반도체800조투자청사진제시…호남인프라‘...",
-  "삼성·SKAI·반도체분야에‘4700조원’투자결정",
-  "이재용은'광주',최태원은'2100조'못박았다…베일벗은'호남반도체...",
-  "[메가프로젝트]현실화된'서남권반도체클러스터'…전력·용수어떻게",
-  "[투자노하우]SK하이닉스ADR로달러유입기대…달러·원하락기대감",
-  "AI산업지도다시그린이재명정부…용인은반도체,송도는바이오'속...",
-  "최태원SK전국AI인프라구축",
-  "국힘충청의원·시도지사,'호남반도체투자'비판",
-  "재생에너지단가압박과장기가뭄우려…호남반도체클러스터의난제...",
-  "반도체·AI로산업지도재편…경기·인천도새성장축",
-  "800조반도체지도서밀린TK…앵커투자없이생색내기논란",
-  "[3대메가프로젝트]경제6단체\"미래동력육성환영…적기지원기대\"",
-  "삼성·SK광주·서남권에반도체800조투자:이재용\"대체불가대한민...",
-  "삼성·SK,반도체·AI에3700조투자한다…광주에반도체Fab구축",
-  "李대통령\"서남권반도체제2클러스터조성\"…10년2000조AI투자본격...",
-  "[로펌은지금]지평,AI-Infra센터출범…AI인프라사업전과정원스톱...",
-  "경제계,메가프로젝트'환영'…“인프라차질없어야”",
-  "정부,2030년까지제조AI에20조투입…'100조부가가치'청사진마련",
-  "정부,'제조AI'에20조쏜다…\"2030년부가가치100조원창출\"",
-  "[메가프로젝트]M.AX에민·관20조원투입…2030년100조원부가가치창...",
-  "[게시판]위로보틱스,휴머노이드'알렉스'시뮬레이션모델공개등단...",
-  "AI로제조업대전환…20조투자해100조경제만든다",
-  "TK\"반도체정책,정치아닌시장원칙으로\"정부기조전환요구",
-  "반도체협회\"신규투자환영…AI리더십확보기대\"",
-  "전남·광주대학총장들,반도체클러스터환영…성공안착지원약속",
-  "대구·경북,국회서호남권반도체편중에“정치논리배제\"촉구",
-  "‘800조반도체’구상에전북도정도불구경,한탄만",
-  "이범석청주시장,민선8기마무리···\"청주를위해일할수있어영광...",
   "[종합2보]삼성·SK그룹,권역별첨단산업구축에3755兆쏟아붓는다",
   "부산한고교여자화장실서촬영중인휴대전화적발",
   "\"2030년피지컬AI로세계1위도약\"…정부,3년내승부낸다",
@@ -6786,7 +6722,35 @@
   "김두은청주김안과대표원장,국가보훈부장관표창수상",
   "강훈식\"'슈퍼패스트'행정필요...기업도전에정부도답해야\"",
   "美소비자들,삼성전자·SK하이닉스·마이크론‘D램가격담합’주장…...",
-  "\"가격담합\"…미국소비자,삼성·SK하이닉스에집단소송"
+  "\"가격담합\"…미국소비자,삼성·SK하이닉스에집단소송",
+  "류현진올스타전뛴다,감독추천선수로합류…신인장찬희·박정민·박...",
+  "‘탈모급여화’에중증환자반발…대국민토론회취소",
+  "[ICT종합]네이버페이및라인게임즈소식외",
+  "정부,'제조AI2030전략'발표…2030년까지20조원투자해부가가치100...",
+  "이대통령\"반도체·피지컬AI·데이터센터3축'한국형AI생태계'구축\"",
+  "이재용삼성회장,\"새반도체단지후보지로광주계획\"",
+  "\"AI에이전트도입해소재매력극대화\"…롯데케미칼,'레드닷디자인...",
+  "원티드랩,자사주10억매입…주주환원·AX'투트랙'",
+  "\"CEO가먼저변해야한다\"인천대,지역기업경영진'AI리터러시'교육",
+  "오픈AIIPO연기가능성에시장출렁...\"과장된공포\"",
+  "미국-이란다시무력충돌...해법못찾는호르무즈갈등[글로벌모닝...",
+  "[미국특징주]구글,AI인프라부족에메타'제미나이'사용제한…컴...",
+  "안철수\"호남반도체투자,땅부자양산할것\"",
+  "전남광주반도체벨트조성,국비·통합지원금매칭결합'촉각'",
+  "\"호남반도체클러스터,원스톱행정·정주여건개선확실하게챙길것...",
+  "천년호남역사상첫대규모투자...국가균형발전신호탄",
+  "팹4기라지만…‘소부장생태계’새로짜야",
+  "與\"野,호남투자에악의적흑색선전\"",
+  "박지원\"서남권반도체클러스터,해남솔라시도가최적\"",
+  "野\"호남반도체,최악의정치개입…나중에감옥갈일\"",
+  "김대중교육감,호남반도체메가투자'환영'",
+  "데이터로증명된'준비된반도체입지'",
+  "[데스크칼럼]뺏고뺏기는싸움아닌,대한민국산업의새로운도약",
+  "호남투자에정치권'환영'·'우려'엇갈려...의혹불식과제",
+  "野\"李관치개입자백,국조해야\"…TK·충청·경기선\"與전당대회경품...",
+  "[비하인드뉴스]국힘TK\"삼성로봇투자당연…호남반도체는정치적...",
+  "[따져보니]호남에반도체공장…전력·용수,충분한가?",
+  "‘반도체초과이윤’어떻게나눌까…정부,내달본격공론화"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
