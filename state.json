@@ -1,9 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068435",
-  "https://www.koreajoongangdaily.com/business/anthropic-weighing-samsung-partnership-to-develop-custom-ai-chips-us-media/12754518",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845978",
   "https://www.sedaily.com/article/20063379",
   "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430622",
   "https://www.sedaily.com/article/20063634",
@@ -3000,9 +2997,12 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16123322",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2425928",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167583",
-  "https://www.sedaily.com/article/20063700"
+  "https://www.sedaily.com/article/20063700",
+  "https://www.g-enews.com/view.php?ud=2026070408295835120c8c1c064d_1",
+  "https://www.dongponews.net/news/articleView.html?idxno=59087",
+  "https://www.kbmaeil.com/article/20260704500030"
  ],
- "last_run": "2026-07-04T08:31:02.801019+09:00",
+ "last_run": "2026-07-04T08:35:53.631960+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3091,9 +3091,6 @@
   ]
  ],
  "seen_titles": [
-  "한화,2040년까지55조원투자…영남에'AI·우주인프라'전초기지구축",
-  "서울AI허브-공군항공우주전투발전단,인공지능교류협력MOU체결",
-  "한수원,인공지능스타트업육성거점KHNPAI누리개소",
   "[박스]'기후보건AI'란무엇인가?",
   "EWC2026,6일개최...한국팬관심높은9개종목치지직독점중계",
   "[지금,대학가는]강남대대학일자리플러스센터,'2026학년도U7대학연...",
@@ -6090,7 +6087,10 @@
   "최근5거래일한미반도체주가등락속상승마감",
   "[인사]대전시4급승진·전보",
   "'스위프트구하기'첫관문통과...우주선링크교신성공",
-  "관세유예직전327개종목‘매수클릭’…트럼프의절묘한타이밍"
+  "관세유예직전327개종목‘매수클릭’…트럼프의절묘한타이밍",
+  "“베트남을첨단IC기지로”…하이퐁,LG이노텍‘10억달러반도체기...",
+  "中최고수준'글로벌디지털경제대회'서한중디지털의료협력모색",
+  "개인‘실탄’줄었다?…예탁금120조원붕괴에도저가매수지속"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
