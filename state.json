@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.sportschosun.com/baseball/2026-07-03/202607030100023310001237",
-  "https://www.agrinet.co.kr/news/articleView.html?idxno=405433",
-  "https://www.agrinet.co.kr/news/articleView.html?idxno=405439",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355511",
-  "https://www.tokenpost.kr/news/insights/374861",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86346",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260703194258CGA",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537853",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537854",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601768",
   "https://www.agrinet.co.kr/news/articleView.html?idxno=405445",
@@ -3000,9 +2992,17 @@
   "https://www.newspim.com/news/view/20260704000026",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8602210",
   "https://nownews.seoul.co.kr/news/newsView.php?id=20260703601012&wlog_tag3=naver",
-  "https://www.kado.net/news/articleView.html?idxno=2059375"
+  "https://www.kado.net/news/articleView.html?idxno=2059375",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260704134215ecJ",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000047586",
+  "https://www.sidae.com/article/2026070413281048342",
+  "https://www.aitimes.com/news/articleView.html?idxno=212427",
+  "https://www.tokenpost.kr/news/insights/375004",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16123534",
+  "https://www.gpkorea.com/news/articleView.html?idxno=144371",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01400566645511240"
  ],
- "last_run": "2026-07-04T13:40:53.427755+09:00",
+ "last_run": "2026-07-04T13:45:55.195144+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3131,14 +3131,6 @@
   ]
  ],
  "seen_titles": [
-  "[포토]김진욱'위기는있어도실점은없다'",
-  "AI시대,'기술농업'으로농정패러다임전환필요",
-  "\"AI·빅데이터기반업무혁신…축산현장서비스강화역점\"",
-  "미래에셋증권,'2026통합보고서'발간…성장청사진공개",
-  "[메타콘2026]틱톡\"범용모델은시작일뿐\"...서비스위한AI최적화가...",
-  "KAIST,'글로벌AI프론티어심포지엄2026'개최…국내외AI석학1000여...",
-  "靑,6일'3대메가프로젝트'민관합동점검회의개최",
-  "전용기늘리는총수들…“이동시간도경쟁력”",
   "이재용최태원다음은?…한화도55조투자",
   "영남권312조투자…‘TK홀대’불만은여전",
   "반도체도중요하지만농업용수는식량안보다",
@@ -6130,7 +6122,15 @@
   "[AI프리뷰]4일수원KT-롯데전,'4위추락위기'KT를구해야할고영표",
   "이대통령“메가프로젝트,지지율관리수단아냐…중요한건성과”",
   "“남는AI연산자원판매”시장뒤흔든메타AI속사정은?[고든정의...",
-  "김성환환경부장관\"위법사항살피겠다\"…홍천양수발전소공사한달..."
+  "김성환환경부장관\"위법사항살피겠다\"…홍천양수발전소공사한달...",
+  "AI로봇벌써이렇게?…역대급'로보컵'인천서",
+  "머스크가흔든우주통신판…한국,독자위성망승부수",
+  "이재명대통령\"메가프로젝트,지지율관리수단아닌국가전략\"",
+  "중국대기업·중동자본까지합세…4조확보한'클링AI',글로벌시장...",
+  "[메타콘2026]염승환LS증권이사\"AI시대한국은'병목'을쥔나라…...",
+  "MBC박소영아나운서,\"굉장한위기에직면했다\"…AI와생존전략토크",
+  "'강적들'민주당파묘전쟁·국힘징계정치격돌관련토론",
+  "'더위피하는계곡나들이,민물고기생식은위험할수있어주의해야'"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
