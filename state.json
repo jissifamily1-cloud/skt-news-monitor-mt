@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112833474",
-  "http://www.osen.co.kr/article/G1112833476",
-  "http://www.osen.co.kr/article/G1112833477",
-  "http://www.osen.co.kr/article/G1112833468",
-  "http://www.osen.co.kr/article/G1112833469",
-  "http://www.osen.co.kr/article/G1112833470",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=659664",
-  "https://www.tokenpost.kr/news/tech/374876",
-  "https://www.sentv.co.kr/article/view/sentv202607030142",
   "https://www.sentv.co.kr/article/view/sentv202607030145",
   "https://www.mk.co.kr/article/12090166",
   "https://www.livebiz.today/news/articleView.html?idxno=203082",
@@ -3000,9 +2991,18 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000047592",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317495",
   "https://www.aitimes.com/news/articleView.html?idxno=212406",
-  "https://www.newsis.com/view/NISX20260704_0003695862"
+  "https://www.newsis.com/view/NISX20260704_0003695862",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=314572",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1095234",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220311",
+  "https://zdnet.co.kr/view/?no=20260704151025",
+  "https://sports.khan.co.kr/article/202607041513003?pt=nv",
+  "https://www.kyeonggi.com/article/20260704580028",
+  "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55868",
+  "https://www.gqkorea.co.kr/2026/07/04/%ec%a4%91%ea%b3%a0%ec%99%80-%eb%a6%ac%ed%8d%bc%eb%b8%8c-%ec%b0%a8%ec%9d%b4%ea%b0%80-%eb%ad%94%eb%8d%b0-%ea%b5%ac%ec%9e%85-%ec%a0%84-%ed%99%95%ec%9d%b8%ed%95%b4%ec%95%bc-%ed%95%a0-%ea%b2%83%eb%93%a4/",
+  "https://kidd.co.kr/news/246603"
  ],
- "last_run": "2026-07-04T15:11:06.910795+09:00",
+ "last_run": "2026-07-04T15:15:50.118702+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3091,15 +3091,6 @@
   ]
  ],
  "seen_titles": [
-  "한인사협세계인문사회학술대회개막…국내외인문사회연구자한자리...",
-  "[뉴스퀘어8PM]'위기의홈플러스'2주안에자금못구하면파산?",
-  "이대통령,6일청와대서'반도체클러스터'점검회의",
-  "수익성힘주는통신3사...2분기합산영업익1.4조원웃돌듯",
-  "아직도김진욱을의심하시나요?4회연속선두타자출루→6이닝7K무실...",
-  "[사진]김진욱'이악물고역투'",
-  "[사진]역투하는김진욱",
-  "[사진]6회역투하는김진욱",
-  "\"한국에역사적기회\"…원전·댐새로짓나",
   "계명문화대,우즈베키스탄서'LUPICGS-L'운영…IT,K-뷰티교육봉사로...",
   "[발행인칼럼-AJA2.0선언②]좋은독자를위한약속,아시아엔의새로...",
   "[리포트]송기헌·이광재상임위원장선출..강원도힘받을까?",
@@ -6090,7 +6081,16 @@
   "김민석전국무총리,6일민주당당대표출마선언",
   "교총,'EBS이사셀프추천'비판에\"회장최적임자판단\"",
   "세계최고AI석학·기업과인사이트공유…'글로벌AI프론티어심포지...",
-  "국힘\"정부의호남반도체몰아주기,김민석당선위한얄팍한수작\""
+  "국힘\"정부의호남반도체몰아주기,김민석당선위한얄팍한수작\"",
+  "李대통령\"3대메가프로젝트,지지율관리용아냐\"",
+  "신상진성남시장,분당중앙과학고미래교육거점으로육성",
+  "글로벌AI석학한자리에…KAIST'AI프론티어심포지엄2026'",
+  "[안광섭AI진테제]메타의클라우드사업진출이의미하는것",
+  "김준상아나“퇴사전하이닉스동기들,억대성과급받아”탄식(전...",
+  "홍준표,“DJ벤처광풍후유증잊었나”...수천조투자현실성에‘돌...",
+  "신산업정책의의의및성공을위한정책제언",
+  "중고와리퍼브,차이가뭔데?구입전확인해야할것들",
+  "아이비테크,로보컵서‘실내자율주행모빌리티’선보여…유통넘어..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
