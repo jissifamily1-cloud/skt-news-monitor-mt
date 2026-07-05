@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10798251",
-  "http://www.legaltimes.co.kr/news/articleView.html?idxno=94886",
-  "https://www.hankookilbo.com/news/article/A2026070508540002014?did=NA",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01275926645511568",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260705093030Bgs",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571524327275",
-  "https://www.yna.co.kr/view/AKR20260704019500017?input=1195m",
-  "https://zdnet.co.kr/view/?no=20260705091523",
-  "https://www.viva100.com/article/20260703500556",
   "https://news.unn.net/news/articleView.html?idxno=594317",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=306306",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=306308",
@@ -3000,15 +2991,20 @@
   "https://www.namdonews.com/news/articleView.html?idxno=915914",
   "https://www.ekn.kr/web/view.php?key=20260705022179352",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008642398&plink=ORI&cooper=NAVER",
-  "https://www.khan.co.kr/article/202607052016025"
+  "https://www.khan.co.kr/article/202607052016025",
+  "https://www.newspim.com/news/view/20260705000156",
+  "https://www.hidomin.com/news/articleView.html?idxno=712047",
+  "https://www.hidomin.com/news/articleView.html?idxno=712049",
+  "https://kjmbc.co.kr/NewsArticle/1526062",
+  "https://kjmbc.co.kr/NewsArticle/1526061",
+  "https://kjmbc.co.kr/NewsArticle/1526064",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=586699",
+  "https://www.yna.co.kr/view/PYH20260703121900013?input=1196m",
+  "https://www.hani.co.kr/arti/politics/politics_general/1266819.html"
  ],
- "last_run": "2026-07-05T20:25:49.803304+09:00",
+ "last_run": "2026-07-05T20:31:15.526562+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-07-05T14:30:36.280958+09:00",
-   "낙점한 메가 프로젝트 수혜주는 SK 리포트"
-  ],
   [
    "2026-07-05T14:40:29.821052+09:00",
    "강원도 4GW급 용지 낙점 동해에 GS 구축"
@@ -3308,18 +3304,13 @@
   [
    "2026-07-05T20:25:16.736158+09:00",
    "상징 재킷 가죽 나온다 경매 젠슨"
+  ],
+  [
+   "2026-07-05T20:30:36.845413+09:00",
+   "추가세수 활용 만든다 미래대응기금"
   ]
  ],
  "seen_titles": [
-  "영남권첨단산업발전비전투자협약식",
-  "이대통령,경남서'국가우주위원회'주재…항공우주산업육성의지",
-  "'전세계한인과학자한자리에'…세계한인과학기술인대회7일개막",
-  "[정책브리핑]2026년07월03일금요일주요정책",
-  "[정치ON]대통령지지율3주만에반등...부동산정책민심은?",
-  "LG유플러스,'익시오로밍콜'출시…해외무료통화100개국확대",
-  "‘호남반도체800조투자’삼성·SK…미국자국투자압박있을까",
-  "“‘삼전닉스’,오를까내릴까”…이번주코스피‘운명’가른다",
-  "김태년위원장,이재명정부3대메가프로젝트는'대전환시기의승부수...",
   "이대통령\"美독립250년축하…한미동맹새도약이룰것\"",
   "삼성전자실적에쏠린눈…변동성장세반등시험대[주간증시전망]",
   "삼성전자,지난해정보보호투자4천억원돌파…역대최대규모",
@@ -6310,7 +6301,16 @@
   "호남반도체팹유력후보지인해남솔라시도부지",
   "“환율안정될까,더흔들릴까”...내일부터외환시장24시간열린다",
   "\"'추가세수'로기금신설…미래투자재원마련\"",
-  "‘젠슨황상징’가죽재킷,경매나온다"
+  "‘젠슨황상징’가죽재킷,경매나온다",
+  "[프로야구]'지각장마'광주NC-KIA전·잠실한화-LG전우천취소…추후...",
+  "'노봉법'부메랑막으려면",
+  "안동의정신문화가세계의길이되다",
+  "\"잠재력은충분한데\"…동부권반도체공백돌파구는?",
+  "공동체의축영산강..통합의물길될까",
+  "김민석전총리내일광주에서당대표출마선언",
+  "[총수家]신동빈롯데그룹회장③ㅣ바이오부터글로벌등…현장경영으...",
+  "이재명대통령,영남권첨단산업발전비전국민보고회",
+  "당·정·청,반도체추가세수활용‘미래대응기금’만든다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
