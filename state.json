@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.viva100.com/article/20260705500467",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=43318",
-  "http://www.bizwnews.com/news/articleView.html?idxno=139989",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355531",
-  "https://www.insight.co.kr/news/561580",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40830",
-  "https://www.kbsm.net/news/view.php?idx=525576",
-  "https://www.techm.kr/news/articleView.html?idxno=153127",
-  "http://www.newstomato.com/ReadNews.aspx?no=1306114&inflow=N",
   "https://www.dt.co.kr/article/12071154",
   "https://www.joongang.co.kr/article/25442484",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030065812&code=61122021&cp=nv",
@@ -3000,15 +2991,20 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361962",
   "https://www.nongmin.com/article/20260709500146",
   "https://www.sedaily.com/article/20066320",
-  "https://zdnet.co.kr/view/?no=20260711140059"
+  "https://zdnet.co.kr/view/?no=20260711140059",
+  "https://www.g-enews.com/view.php?ud=202607111402192414e30fcb1ba8_1",
+  "http://www.breaknews.com/1221045",
+  "https://www.apnews.kr/news/articleView.html?idxno=3049682",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260711140842DOk",
+  "https://www.tokenpost.kr/news/cryptocurrency/376769",
+  "https://www.pressian.com/pages/articles/2026071111160625839",
+  "https://www.hidomin.com/news/articleView.html?idxno=712791",
+  "https://www.etoday.co.kr/news/view/2602676",
+  "https://www.newsis.com/view/NISX20260711_0003705200"
  ],
- "last_run": "2026-07-11T14:05:52.512988+09:00",
+ "last_run": "2026-07-11T14:11:07.991133+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-07-11T08:10:37.188321+09:00",
-   "나스닥서 거래 시작"
-  ],
   [
    "2026-07-11T08:15:21.214462+09:00",
    "타임스스퀘어 재생되는"
@@ -3160,18 +3156,13 @@
   [
    "2026-07-11T13:45:21.667326+09:00",
    "상장에 외신도 화려하다 주목"
+  ],
+  [
+   "2026-07-11T14:10:40.177266+09:00",
+   "같은 SK하이닉스인데 프리미엄 역김치 에서 비싸 얼마나"
   ]
  ],
  "seen_titles": [
-  "SKT,최대15GW규모AI데이터센터추진",
-  "GC녹십자웰빙,2026통증치료최신지견좌담회개최…최신임상지견...",
-  "SKT의대담한도전…1000조원넘는AI데이터센터구축한다",
-  "박지사“결단감사…우주항공·SMR탄력기대”",
-  "우주항공·피지컬AI…영남에312조푼다",
-  "SK·삼성·현대차,영남첨단산업에200조투자",
-  "창원-진주-사천잇는'우주항공벨트'구축한다",
-  "영남에312조원쏜다…반도체ㆍAIㆍ우주항공첨단산업거점도약",
-  "울산서SK·삼성·현대차첨단대도약",
   "金시장,AI데이터센터추가유치총력전",
   "SK·현대차·삼성SDI,울산경제지도확바꾼다",
   "SKT,15GW초대형AI데이터센터구축…亞허브노린다",
@@ -6162,7 +6153,16 @@
   "HD한국조선해양,뱃머리를에너지로돌리다",
   "“벽에딱붙이면고장납니다”…장마철꼭알아야할제습기관리법",
   "테슬라가격인상반전카드로‘FSD라이트’꺼냈다[김기혁의테슬라...",
-  "테슬라,FSD국내판매구독제로전환…월15만원"
+  "테슬라,FSD국내판매구독제로전환…월15만원",
+  "소프트뱅크등세븐일레븐최대2.8조투자…‘편의점경제권’노린다",
+  "AI혁명시대,삼성·SK하이닉스·엔비디아그리고5060세대",
+  "[최태원의청년사다리②]\"경력같은신입\"…출발선앞당긴다",
+  "외신\"SK하이닉스,화려한미국데뷔\"…월가도주목",
+  "솔라나,메인넷1000번째에포크달성과RWA시장성장속투자심리하락",
+  "송기헌의원“산업혁신기반구축사업선정…원주주력산업제조혁신이...",
+  "[인사]구미시",
+  "외신,SK하이닉스美ADR상장에주목⋯“화려하고역사적인데뷔”",
+  "같은SK하이닉스인데美에서16%더비싸…'역김치프리미엄'얼마나갈..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
