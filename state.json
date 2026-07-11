@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html?partner=naver",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223064",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223065",
-  "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html?partner=naver",
-  "https://www.segye.com/newsView/20260708500729?OutUrl=naver",
-  "https://www.venturesquare.net/1096614/",
-  "https://www.koreajoongangdaily.com/business/samsung-electronics-chief-sets-off-to-sun-valley-conference-as-ai-race-heats-up/12759566",
-  "http://coinreaders.com/246499",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260708010002686",
   "https://www.inven.co.kr/webzine/news/?news=318208",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=848653",
   "http://www.segyebiz.com/newsView/20260707519088?OutUrl=naver",
@@ -3000,9 +2991,18 @@
   "https://www.sportschosun.com/baseball/2026-07-11/202607110100071340004440",
   "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=130&CONTENTS_NO=1&bbsGbn=246&bbsSn=246&pNttSn=242613",
   "https://www.newsis.com/view/NISX20260709_0003702707",
-  "https://www.newsis.com/view/NISX20260711_0003705345"
+  "https://www.newsis.com/view/NISX20260711_0003705345",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467608",
+  "https://www.livebiz.today/news/articleView.html?idxno=203260",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264477",
+  "https://www.greened.kr/news/articleView.html?idxno=344823",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539204",
+  "https://www.sportschosun.com/baseball/2026-07-11/202607110100071370004443",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03273446645513536",
+  "https://www.viva100.com/article/20260711500174",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5205306"
  ],
- "last_run": "2026-07-11T18:05:48.007514+09:00",
+ "last_run": "2026-07-11T18:11:09.098523+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3084,18 +3084,13 @@
   [
    "2026-07-11T18:05:16.209207+09:00",
    "최고의 최태원 KHY 티커 까닭 상장 띄운 띄어쓰기"
+  ],
+  [
+   "2026-07-11T18:10:35.992368+09:00",
+   "수술 가능성 휴머노이드로 연구진 투입 중국 의료계 입증"
   ]
  ],
  "seen_titles": [
-  "퍼플렉시티도택한엔비디아(NVDA),CPU승부수에도주가'수직낙하'",
-  "팔란티어방식들고온팩트시트…투자업계맞춤형FDE서비스출시",
-  "BlueOriginNearsaBigFund-RaisingRound",
-  "자유로운AI사용,데이터권리는준비됐나?...게임업계가직면한학습...",
-  "ChủtịchSamsungLeeJae-yongsangMỹdựSunValley,AIsẽlàtâm...",
-  "AI시대맞는기업들,보안리스크대응시스템마련에분주",
-  "OpenAIGPT-5.6SetforWiderReleaseAfterU.S.CommerceApproval,Rep",
-  "이통3사,2분기실적‘비용이갈랐다’…AI투자앞두고체력차‘뚜렷...",
-  "ZhipuAIStockJumpsonReportofCustomAIChipDevelopmentPlans",
   "암호화폐거래소,전통자산까지삼켰다…코인게코,RWA·TradFi무기한선...",
   "비바시티,중기부·MS협업‘2026년마중프로그램’최종선정",
   "SK海力士美国ADR42万亿韩元公募大获成功…股价17%急跌成最大变数",
@@ -6086,7 +6081,16 @@
   "[포토]박철순김경문김용수김동수,두산LG레전드들의시구시타",
   "[기고]중국의PolarSilkRoad전략과북극항로정책",
   "\"피부이식없이화상치료\"…재생기술개발한다",
-  "최태원,SK하이닉스美상장최고의날'SKHY'띄어쓰기티커띄운까닭"
+  "최태원,SK하이닉스美상장최고의날'SKHY'띄어쓰기티커띄운까닭",
+  "LG유플러스,실적성장에자사주기대감까지…투자매력높아졌다",
+  "AI동맹이적으로...애플,오픈AI에'하드웨어영업비밀탈취'소송",
+  "최태원\"AI분야수백억달러투자…HBM등메모리칩공급부족당분간...",
+  "\"SK하이닉스,마이크론제쳤다\"…외신\"화려한美데뷔\"극찬",
+  "최태원“입지·조건맞다면미국반도체추가투자가능”[현장영상]",
+  "[포토]박철순과김경문의포옹",
+  "아틀라스‘바이킹로우’…보스턴다이나믹스직원들과월드컵응원",
+  "목돈900만원안써도된다⋯테슬라역대급‘FSD구독제’한국상륙",
+  "미연구진,중국휴머노이드로수술…의료계투입가능성입증"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
