@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.dongascience.com/news/view/78882",
-  "https://www.etoday.co.kr/news/view/2602515",
-  "https://view.asiae.co.kr/article/2026071011382438696",
-  "https://www.yna.co.kr/view/AKR20260710104500061?input=1195m",
-  "https://view.asiae.co.kr/article/2026070916443098023",
-  "https://www.cstimes.com/news/articleView.html?idxno=712995",
-  "https://www.dailian.co.kr/news/view/1665624/?sc=Naver",
-  "https://www.imaeil.com/page/view/2026071009525120196",
   "https://www.ddaily.co.kr/page/view/2026071009161384574",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422328",
   "https://www.newspim.com/news/view/20260710000535",
@@ -3000,9 +2992,17 @@
   "https://www.wikitree.co.kr/articles/1145973",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607120031&t=NN",
   "https://www.tokenpost.kr/news/economy/376842",
-  "https://www.segye.com/newsView/20260710506691?OutUrl=naver"
+  "https://www.segye.com/newsView/20260710506691?OutUrl=naver",
+  "https://www.newspim.com/news/view/20260710001373",
+  "https://www.yna.co.kr/view/AKR20260711040300546?input=1195m",
+  "https://www.g-enews.com/view.php?ud=202607100751257073ea13369bfa_1",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61471",
+  "https://www.goodkyung.com/news/articleView.html?idxno=289150",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=64050",
+  "https://www.electimes.com/news/articleView.html?idxno=370125",
+  "http://weekly.chosun.com/news/articleView.html?idxno=53341"
  ],
- "last_run": "2026-07-12T06:55:47.840489+09:00",
+ "last_run": "2026-07-12T07:01:14.555534+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3059,14 +3059,6 @@
   ]
  ],
  "seen_titles": [
-  "[단독]넥슨,잠실을e스포츠메카로…‘40년운영권’확보",
-  "남궁민관리미쳤다“84kg근육벌크업→현재67kg”(옥문아)",
-  "SK하이닉스,나스닥서13%급등데뷔…40조실탄쥐고‘AI메모리패권...",
-  "서클주가7%급등,연방은행승인으로스테이블코인신뢰도제고",
-  "[칩톡]TSMC물88%재이용할때삼성·SK아직40%대?…'돌려쓰는물'경...",
-  "[주간매매동향]외국인,한주간삼성전자·SK하이닉스6조'순매도'",
-  "\"돈불려야되는데\"...퇴직연금30%,현금으로만?주식꽉채울방법",
-  "[ETF머니플로우]국내대형주부진에미래에셋자산운용'TIGER미국S&P500...",
   "호남반도체산단,광주군공항부지에…\"추가세수활용긍정검토\"[많...",
   "3년6개월만의금리인상유력…'추가인상'신호나오나[한은미리보기...",
   "[머니플로우]개미들'실탄'떨어졌나…투자자예탁금100조원도'위태'",
@@ -6058,7 +6050,15 @@
   "GPT-5.6솔,50년난제65분증명…인용누락논란",
   "'환율구원투수'드디어등판…'SK하이닉스단비'에외환시장'들썩'",
   "강남3구,전국주택분종합부동산세3분의1차지...다시세부담집중",
-  "李대통령,15년만에몽골‘국빈’방문…사진으로돌아보는한주의..."
+  "李대통령,15년만에몽골‘국빈’방문…사진으로돌아보는한주의...",
+  "[프로야구]롯데김진욱,'5승ERA2.95'1선발로우뚝…5년노력결실",
+  "[인&아웃]'웩더독'몸통을흔드는꼬리",
+  "HL디앤아이한라,자체사업성장본궤도…수익성중심전략통했다",
+  "애플,오픈AI상대로'하드웨어기밀절도'소송…AI동맹,정면충돌로...",
+  "[굿모닝!이법안]AI생성물고지·표시의무완화법⋯\"인공지능사업자...",
+  "[기획보도]③Sh수협은행,'AX대도약'선포6개월...\"은행장부터일반직...",
+  "테슬라FSD를방해하는'현토부'?또다시활개치는음모론…DCAS뭐길래",
+  "[인터뷰]이진숙\"지도부흔들면당앞으로나갈수없어\""
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
