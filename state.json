@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html?partner=naver",
-  "http://coinreaders.com/246762",
-  "https://www.venturesquare.net/1097176/",
-  "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html?partner=naver",
-  "https://gamefocus.co.kr/detail.php?number=176814",
-  "https://vn.asiatoday.co.kr/view.php?key=20260708001117012",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=104236",
-  "https://www.econotimes.com/OpenAI-GPT-56-Set-for-Wider-Release-After-US-Commerce-Approval-Report-Says-1746186",
   "https://www.ekn.kr/web/view.php?key=20260708024290389",
   "https://www.econotimes.com/Zhipu-AI-Stock-Jumps-on-Report-of-Custom-AI-Chip-Development-Plans-1746184",
   "https://www.tokenpost.kr/news/insights/375877",
@@ -3000,15 +2992,19 @@
   "https://www.e-science.co.kr/news/articleView.html?idxno=131810",
   "https://www.munhwa.com/article/11601885",
   "https://www.chosun.com/economy/tech_it/2026/07/11/GJYGZAPHY5HZ3JQJO5GDQXVZZM/",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250512&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250512&CMPT_CD=P0010",
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1546188",
+  "https://www.segye.com/newsView/20260711505412?OutUrl=naver",
+  "https://n.news.naver.com/mnews/article/077/0007088147",
+  "https://www.tokenpost.kr/news/breaking/376632",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=753117",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/11/2026071190096.html",
+  "https://www.lecturernews.com/news/articleView.html?idxno=206058",
+  "https://www.busan.com/view/busan/view.php?code=2026071015271346317"
  ],
- "last_run": "2026-07-11T17:55:52.457621+09:00",
+ "last_run": "2026-07-11T18:01:18.523512+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-07-11T11:55:16.687069+09:00",
-   "충북지사와 국무총리 인사 신용한 나누는"
-  ],
   [
    "2026-07-11T12:05:16.089211+09:00",
    "취업 입시설명회마다 닉스 대학보다 반도체고 삼전 북새통"
@@ -3091,14 +3087,6 @@
   ]
  ],
  "seen_titles": [
-  "ThisIsaLotMoreWorryingThantheSupremeCourt’sRulingonExecutiv.",
-  "TheWorkofHelpingA.I.DestroyWork",
-  "HowTerroristGroupsAreUsingA.I.toGainanEdgeinBattle",
-  "오픈AI,GPT-5.6대중출시확정...트럼프AI행정명령절차첫완료사례",
-  "SamsungchiefattendsSunValleyConferenceforfoundrybusinesspush",
-  "그록4.5,AI경쟁구도흔드나…머스크의승부수는‘코딩·에이전트·...",
-  "AI과열우려에도베팅늘리는싱가포르국부펀드…“투자비중최대...",
-  "인공지능의‘보이지않는’인프라",
   "MaximizingKorea’sAImomentum",
   "오픈AI,'챗GPT보이스'실시간대화경험고도화",
   "“특허분석도AI와함께”…IP산업'AX'시대본격화,지식재산처1호A...",
@@ -6090,7 +6078,15 @@
   "최태원의꿈,월가에서현실이됐다…SK하이닉스,AI시대의중심에서...",
   "AI업체들,너도나도엔비디아CPU원해…삼전닉스수혜입을까",
   "오픈AI초고성능모델‘GPT-5.6’정식출시",
-  "오픈AI와구글의굴욕,미국은앤트로픽만남았다"
+  "오픈AI와구글의굴욕,미국은앤트로픽만남았다",
+  "강기윤창원시장,취임후경제계행보",
+  "AI가만든가짜연인에속았다…美노인들120억원뜯긴사연",
+  "AppleOpenAILawsuit",
+  "스페이스X·오픈AI·앤스로픽,美VC최대회수기대",
+  "[박근종칼럼]서민층'주거사다리'걷어차는은행권대출제한,획일적...",
+  "\"화려한美데뷔\"…SK하이닉스상장에외신·월가도주목",
+  "대전시교육청,교육부직업교육혁신지구선정…지역정착형미래인재...",
+  "정부,해외한인기술인재20개팀U턴지원…'K-테크파이오니어즈'출범"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
