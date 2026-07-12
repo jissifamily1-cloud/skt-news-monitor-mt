@@ -1,17 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260710_0003704814",
-  "https://www.ceoscoredaily.com/page/view/2026070915275370054",
-  "https://www.newsis.com/view/NISX20260712_0003705442",
-  "https://www.news1.kr/it-science/mobile/6224466",
-  "https://biz.sbs.co.kr/article_hub/20000321720?division=NAVER",
-  "https://www.sedaily.com/article/20066532",
-  "https://www.yna.co.kr/view/AKR20260710145700017?input=1195m",
-  "https://www.ngonews.kr/news/articleView.html?idxno=232665",
-  "http://www.press9.kr/news/articleView.html?idxno=79283",
-  "https://www.nocutnews.co.kr/news/6546554",
-  "https://www.yna.co.kr/view/AKR20260711039100003?input=1195m",
   "https://www.newsis.com/view/NISX20260710_0003704236",
   "https://www.mt.co.kr/tech/2026/07/12/2026071014281554107",
   "https://www.newsway.co.kr/news/view?ud=2026071016275399714",
@@ -3000,9 +2989,20 @@
   "https://www.tjb.co.kr/news05/bodo/view/id/100844",
   "http://weekly.chosun.com/news/articleView.html?idxno=53341",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=83343",
-  "https://www.hidomin.com/news/articleView.html?idxno=712972"
+  "https://www.hidomin.com/news/articleView.html?idxno=712972",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=355828",
+  "https://www.ekn.kr/web/view.php?key=20260712026501718",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=49088",
+  "https://www.tokenpost.kr/news/breaking/376941",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=49079",
+  "https://www.usmbc.co.kr/NewsArticle/850508",
+  "https://mpmbc.co.kr/NewsArticle/1527137",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=49100",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=49096",
+  "http://www.tjb.co.kr/sub0301/bodo/view/id/100843",
+  "https://www.cstimes.com/news/articleView.html?idxno=713118"
  ],
- "last_run": "2026-07-12T20:55:43.385312+09:00",
+ "last_run": "2026-07-12T21:01:23.125988+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3259,17 +3259,6 @@
   ]
  ],
  "seen_titles": [
-  "[천지일보이슈종합]SK하이닉스낙스닥·대통령몽골순방·장윤기사건...",
-  "SK하닉상장에1400원대진입한환율…미국CPI·금통위주시[주간외환전...",
-  "'60조매물폭탄'없었다…국민연금,하루250억'살얼음매도'",
-  "한화솔루션,1.4조유상증자성공하나…“북미태양광이어‘우주태양...",
-  "\"호남품어야\"與당권경쟁후끈…호남연고자출마러시",
-  "아이폰18프맥300만원우습다…원가·환율이중공습에가격급등",
-  "[글로벌경제지표]美'어닝시즌'본격개막…한국은행기준금리인상...",
-  "하반기성장전략청사진은...美물가상승세완화되나[한동훈의위클리...",
-  "'노조무풍지대'깨진대기업SI업계…집단대응본격화예고",
-  "[김주완칼럼]AI시대에정치는여전히아날로그...'AI는절대로거짓말...",
-  "삼성바이오로직스파업가처분,항고심심리종결…반도체와다른기준...",
   "에어서스펜션이살린주행감…패밀리카교과서볼보XC90",
   "상반기팔린신차2대중1대친환경차…역대첫50%돌파",
   "40년반덤핑통계뜯어보니…중국이바꾼무역구제지도[세쓸통]",
@@ -6258,7 +6247,18 @@
   "대전아파트지하주차장전기차에서불..100여명대피",
   "[인터뷰]이진숙\"지도부흔들면당앞으로나갈수없어\"",
   "리플,8월10억XRP잠금해제앞둬-챗GPT\"단기1.18달러까지상승가능...",
-  "에코프로,전기차150만대분량니켈자원확보나섰다"
+  "에코프로,전기차150만대분량니켈자원확보나섰다",
+  "KT,광고'요즘은이렇게'공개…모델에배우김우빈",
+  "[패트롤]광명시-군포시-김포시-시흥시-안양시",
+  "철강協철강홍보위원회,'2026철강AI영상광고공모전'개최",
+  "세레니티“엔비디아등대형기술주겨냥새공매도식여론전경계”",
+  "페로타임즈손바닥뉴스7월10일(금)",
+  "[대담]송철호전울산시장\"화합의정치\"",
+  "군공항이전다시속도…무안군협의국면전환",
+  "포항철강산단,AI·자원순환사업동시선정…동국제강선도공장구축",
+  "정부,배전망ESS첫도입…2030년재생에너지1GW추가접속",
+  "\"119신고자몇층?\"..'정밀위치측정'기술로고민해결",
+  "코트라,몽골시장'한류소비재'판로개척…1:1상담회서700만달러성..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
