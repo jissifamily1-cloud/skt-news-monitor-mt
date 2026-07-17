@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=828382",
-  "https://sports.khan.co.kr/article/202607141104003?pt=nv",
-  "http://www.metroseoul.co.kr/article/20260714500052",
-  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=94779",
-  "https://www.starnewskorea.com/sports/2026/07/14/2026071410485099775",
-  "http://www.ddanzi.com/889474862",
-  "https://www.newsen.com/news_view.php?uid=202607140722111710",
-  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260714504&PRO_CODE=99",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311179",
-  "https://isplus.com/article/view/isp202607140019",
   "https://www.mydaily.co.kr/page/view/2026071405441523857",
   "https://www.starnewskorea.com/broadcast-show/2026/07/14/2026071408040511976",
   "https://www.news1.kr/entertain/broadcast-tv/6226984",
@@ -3000,19 +2990,21 @@
   "http://www.osen.co.kr/article/G1112841489",
   "https://www.xportsnews.com/article/2173333",
   "https://www.tokenpost.kr/news/cryptocurrency/378809",
-  "https://view.asiae.co.kr/article/2026071719450461689"
+  "https://view.asiae.co.kr/article/2026071719450461689",
+  "http://www.osen.co.kr/article/G1112841497",
+  "http://www.osen.co.kr/article/G1112841496",
+  "https://www.xportsnews.com/article/2173328",
+  "https://www.mydaily.co.kr/page/view/2026071719250507941",
+  "http://www.osen.co.kr/article/G1112841493",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86871",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252026&CMPT_CD=P0010",
+  "https://www.slist.kr/news/articleView.html?idxno=752454",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=806966",
+  "https://www.newsis.com/view/NISX20260717_0003713405"
  ],
- "last_run": "2026-07-17T19:50:51.252561+09:00",
+ "last_run": "2026-07-17T19:55:48.193014+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-07-17T13:55:16.522394+09:00",
-   "세계 시진핑 국가주석 컨퍼런스 연설"
-  ],
-  [
-   "2026-07-17T13:55:16.522394+09:00",
-   "참석 키운다 세계인공지능대회 작정하고 시진핑"
-  ],
   [
    "2026-07-17T14:10:27.434242+09:00",
    "급락 우려에 피크아웃 관련주"
@@ -3135,16 +3127,6 @@
   ]
  ],
  "seen_titles": [
-  "안양권경원·수원FC프리조,K리그17라운드MVP선정",
-  "정청래\"내가바로전통코어핵심지지층붙들적임자\"",
-  "유아인,'뱀피르'복귀설현실화…소속사이적→'호프'시사회참석[이...",
-  "차정원“마음속에남자아이있다”…♥하정우도몰랐던예능감(아근진...",
-  "부경대,AI리더십·정책특강…하정우전수석등참여",
-  "안양권경원,인천전'결승골'로17라운드MVP선정",
-  "'깜짝결승골'베테랑센터백권경원,17라운드MVP선정...'2G연속3골...",
-  "[뉴공아카이브]정청래전더불어민주당대표:정청래“李대통령과의...",
-  "‘하정우♥’차정원“정용화고1때부터친구,영어교사하자더니먼저...",
-  "[자막뉴스]하정우전수석청주서AI강연'행정혁신·기업상생'",
   "하정우전AI수석이짚은청주의AI강점…반도체·배터리등산업주목",
   "‘하정우♥’차정원“눈이높으니까”폭로…“아이비,잘생기면돌싱...",
   "\"내안에꼬마남자있다\"차정원,하정우도기절할'아저씨창법'…역...",
@@ -6134,7 +6116,17 @@
   "[사진]박동원,'추격은지금부터'",
   "우강훈‘LG의두번째투수’[포토]",
   "비트코인6만3000달러선밀려…반도체발불안,크립토로확산",
-  "김윤덕국토장관\"반도체산단조성속도…용인연내부지착공\""
+  "김윤덕국토장관\"반도체산단조성속도…용인연내부지착공\"",
+  "[사진]몸으로타구막은소형준상태살피는김현수",
+  "[사진]소형준,'위기넘길수있어요'",
+  "'그랜드슬램→투런포까지'힐리어드,시즌21·22호연타석홈런폭발…...",
+  "LG웰스5이닝6실점와르르…\"오늘보여주겠죠\"KT힐리어드만루포→...",
+  "[사진]소형준-조대현,'더이상위기없다'",
+  "[게임&콘텐츠]NC문화재단,박현민작가그림책'엄청난막대기'출간外",
+  "우리는모두'AI1학년'입니다...60대인내게찾아온용기",
+  "美의회,창신·양쯔등中메모리칩구매금지촉구…애플등움직임에\"우...",
+  "이상일용인시장\"반도체속도전,정부지원도속도내야\"",
+  "한성숙총리,폭염속서울역쪽방촌방문[뉴시스Pic]"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
