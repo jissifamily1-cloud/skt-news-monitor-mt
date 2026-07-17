@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82428",
-  "https://www.hankookilbo.com/news/article/A2026071609350005311?did=NA",
-  "https://www.hankookilbo.com/news/article/A2026071609390004353?did=NA",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613269",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8613256",
-  "https://www.newspim.com/news/view/20260717000022",
-  "https://www.mt.co.kr/world/2026/07/17/2026071704111540484",
-  "https://www.ekn.kr/web/view.php?key=20260717024043289",
   "https://www.ekn.kr/web/view.php?key=20260717023533254",
   "https://www.medigatenews.com/news/1479276565",
   "https://www.g-enews.com/view.php?ud=202607161433598922fbbec65dfb_1",
@@ -3000,9 +2992,17 @@
   "https://www.sidae.com/article/2026071712164843574",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008662456&plink=ORI&cooper=NAVER",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790101.html",
-  "https://www.busan.com/view/busan/view.php?code=2026071709590558596"
+  "https://www.busan.com/view/busan/view.php?code=2026071709590558596",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61693",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790103.html",
+  "https://biz.sbs.co.kr/article_hub/20000323112?division=NAVER",
+  "https://www.tokenpost.kr/news/insights/378752",
+  "https://www.segye.com/newsView/20260717509059?OutUrl=naver",
+  "https://www.seoul.co.kr/news/politics/president/2026/07/17/20260717500098?wlog_tag3=naver",
+  "https://www.tokenpost.kr/news/cryptocurrency/378751",
+  "https://www.g-enews.com/view.php?ud=2026071704342454602bd56fbc3c_1"
  ],
- "last_run": "2026-07-17T14:35:52.885057+09:00",
+ "last_run": "2026-07-17T14:40:54.681053+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3151,14 +3151,6 @@
   ]
  ],
  "seen_titles": [
-  "AI반도체주급락뉴욕증시약세…엔비디아·마이크론하락세주도",
-  "AI시대,'현장지성'이무기다[AI가바꾸는세상]",
-  "호주수석과학자\"허위정보는중대한위기\"…'사회적회복력'주목",
-  "마이크론,현대모비스등에차량용메모리장기공급",
-  "EU,구글에‘운영체제개방·검색데이터공유’명령",
-  "[미국특징주]구글'제미나이3.5프로'출시지연...내부목표치에못...",
-  "마이크론,현대모비스등과車반도체장기공급계약",
-  "[패트롤]해남군-완도군-진도군",
   "[패트롤]전북도의회-익산시-익산시의회-NH농협은행-하림-익산교육청",
   "한미약품·키움증권,바이오벤처-투자자연결행사개최",
   "\"개발자는쓰는데회사는금지\"…AI코딩무단도입에빗장거는기업...",
@@ -6150,7 +6142,15 @@
   "이상일용인시장\"정부,반도체지원말아닌행동보여야\"",
   "인도최대원전설계도등기밀자료1만9천개해킹…다크웹에유출됐...",
   "발사1초남기고…스페이스X'스타십'자동중단에주가130달러붕괴",
-  "[한수원소식]한수원,공공기관최대규모‘중기기술마켓구매페스티..."
+  "[한수원소식]한수원,공공기관최대규모‘중기기술마켓구매페스티...",
+  "KAI,인도네시아에T-50i고등훈련기6대최종인도완료…'방산협력'...",
+  "KT,휴가철통신품질집중관리…기상재난긴급복구체계가동",
+  "中세계인공지능대회개막…시진핑\"AI,한나라독주안돼\"",
+  "[에너지분석]AI전력난이깨운‘인공태양’…핵융합투자69%급증,44...",
+  "김용범“韓,AI혁명전방위적으로전개…생산적토론필요”",
+  "김용범“韓,AI혁명가장빠르고전방위적…신국가론·신재정론집중...",
+  "비트코인데이터제한논쟁확전…‘투표없는우회’DOG모드나오나",
+  "엔비디아,일본제조현장에피지컬AI이식…글로벌생태계주도"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
