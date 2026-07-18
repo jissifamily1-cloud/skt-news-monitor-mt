@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260717048300004?input=1195m",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47468",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1169352",
-  "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html?partner=naver",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47473",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47474",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47475",
-  "https://www.tokenpost.kr/news/tech/378813",
-  "https://www.starnewskorea.com/sports/2026/07/17/2026071720073652208",
-  "https://www.starnewskorea.com/sports/2026/07/17/2026071720064535610",
   "https://www.starnewskorea.com/sports/2026/07/17/2026071720055633597",
   "http://www.osen.co.kr/article/G1112841517",
   "https://www.starnewskorea.com/sports/2026/07/17/2026071720042110707",
@@ -3000,9 +2990,19 @@
   "https://www.kukinews.com/article/view/kuk202607170043",
   "https://www.kyeonggi.com/article/20260718580039",
   "https://www.yna.co.kr/view/AKR20260718028900009?input=1195m",
-  "https://www.sedaily.com/article/20068984"
+  "https://www.sedaily.com/article/20068984",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545846",
+  "https://www.viva100.com/article/20260718500099",
+  "https://www.mk.co.kr/article/12101397",
+  "http://www.newsprime.co.kr/news/article.html?no=740682",
+  "http://www.kjdaily.com/article.php?aid=1784347839682577208",
+  "https://www.nocutnews.co.kr/news/6549718",
+  "https://mhnse.com/news/articleView.html?idxno=1464618",
+  "https://www.insight.co.kr/news/563552",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=315220",
+  "https://magazine.hankyung.com/business/article/202607181792b"
  ],
- "last_run": "2026-07-18T13:10:59.911387+09:00",
+ "last_run": "2026-07-18T13:15:52.120456+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3131,16 +3131,6 @@
   ]
  ],
  "seen_titles": [
-  "[포토]함덕주,역전부르는토네이도역투",
-  "[사진]치어리더이예빈,'붉은머리띠가잘어울리죠?'",
-  "[사진]치어리더이예빈,'반짝반짝'",
-  "[사진]치어리더이예빈,'빛나는미모'",
-  "[포토]잠실은또만원관중'신난다야구'",
-  "[포토]박동원'1타점따라잡기'",
-  "프로야구kt-LG경기,중계방송22분간중단…\"복구완료\"",
-  "美온다스,1조3000억원에디자인테크놀로지스인수",
-  "최태원만믿습니다…\"메모리만팔아선안돼,'지능'수출해야\"[강경주...",
-  "[날씨]중부지방300㎜이상폭우…돌풍·천둥번개까지'장마절정'",
   "日야스카와전기,피지컬AI기반유연물체핸들링로봇기술공개",
   "레드벨벳스케줄포스터속'AI워터마크'···'시대의흐름'vs'성의없...",
   "TheA.I.TradeSecretsWar+EconomistsSay‘WeMustActNow’+HatGPT",
@@ -6130,7 +6120,17 @@
   "NST·기계연,프라운호퍼와공동연구·기술사업화확대",
   "한성숙총리“호우피해지역에장비·인력총투입…신속복구”",
   "애플,오픈AI로옮긴직원들에경고장…'기밀탈취'공세",
-  "한성숙“집중호우피해국민께위로”...응급복구지시"
+  "한성숙“집중호우피해국민께위로”...응급복구지시",
+  "롤러코스트SK하이닉스,최태원,\"주식가만히갖고있어라\".정말믿어...",
+  "“AI,각국이핵무기처럼관리할것”⋯하정우전수석의경고",
+  "올트먼집에화염병던진20대…“AI기업인처단하라”테러위협비상",
+  "[해외시황]뉴욕증시,AI반도체주'팔자'에3대지수하락…나스닥1.40%...",
+  "애플,오픈AI이직직원40명에경고장…\"기밀유출조사\"",
+  "日키옥시아,美특허패소에3천억원대배상…주가16%급락",
+  "'3대장'중유일,50홈런없는최정...어쩌면그래서더위대한시간의...",
+  "삼성,스파이더맨영상서'갤럭시Z폴드8'첫공개...가로로넓어졌다",
+  "한성숙\"집중호우피해지역불편최소화위해인력총투입\"",
+  "[속보]AI로고용감소…하정우,\"초과세수청년성장에투자해야\""
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
