@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260715127500017?input=1195m",
-  "https://zdnet.co.kr/view/?no=20260715151705",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425170",
-  "https://www.ngonews.kr/news/articleView.html?idxno=233010",
-  "https://www.joongangenews.com/news/articleView.html?idxno=533090",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40990",
-  "https://www.betanews.net/article/view/beta202607140037",
-  "http://www.newsdream.kr/news/articleView.html?idxno=114497",
-  "https://www.greened.kr/news/articleView.html?idxno=345090",
   "https://dealsite.co.kr/articles/165328",
   "https://news.bizwatch.co.kr/article/mobile/2026/07/14/0019",
   "https://www.fetv.co.kr/news/articleView.html?idxno=306437",
@@ -3000,23 +2991,20 @@
   "https://platum.kr/archives/291051",
   "https://www.ytn.co.kr/_ln/0103_202607181854435191",
   "https://www.newstree.kr/newsView/ntr202607180001",
-  "https://news.jtbc.co.kr/article/NB12308934?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12308934?influxDiv=NAVER",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069703",
+  "https://news.tf.co.kr/read/economy/2344503.htm",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685023",
+  "https://www.ytn.co.kr/_ln/0101_202607181858489869",
+  "https://www.thepowernews.co.kr/view.php?ud=202607181407564119caa2b7671d_7",
+  "https://www.sedaily.com/article/20069018",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=266957",
+  "https://biz.chosun.com/topics/topics_social/2026/07/18/WTGYR3XOMFEY3EDCUMFNSKQ5EA/",
+  "https://news.tf.co.kr/read/photomovie/2344501.htm"
  ],
- "last_run": "2026-07-18T19:01:05.394970+09:00",
+ "last_run": "2026-07-18T19:05:49.722887+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-07-18T13:05:18.212368+09:00",
-   "계속 키옥시아 악재 3400억원 미국서 명령 배상 주식"
-  ],
-  [
-   "2026-07-18T13:05:18.212368+09:00",
-   "성과급 현금 바뀐 셈법 올해는 작년엔 주식 이유"
-  ],
-  [
-   "2026-07-18T13:05:18.212368+09:00",
-   "총리 인력 복구 총투입해 호우 국민께 피해 장비 위로"
-  ],
   [
    "2026-07-18T13:10:21.942869+09:00",
    "경고장 애플 공세 기밀 오픈AI로 탈취 직원들에 옮긴"
@@ -3063,15 +3051,6 @@
   ]
  ],
  "seen_titles": [
-  "책임경영앞장…박윤영KT대표,자사주1300주매수",
-  "\"KT넷코어사망사고,KT의다단계하청구조탓\"[전문]",
-  "KT,박윤영대표자사주1300주매입…'책임경영'힘실었다",
-  "KT역대급과징금예고…박윤영위기관리능력은",
-  "박윤영KT대표,자사주매입…\"책임경영의지\"",
-  "박윤영KT대표,취임후첫자사주매입…1300주취득",
-  "KT새노조\"부산하청노동자사망…KT,안전관리책임밝혀야\"",
-  "박윤영KT대표,자사주1300주매수…책임경영의지",
-  "박윤영KT대표,회사주식1300주매입…“책임경영의지”",
   "책임경영나선박윤영KT대표,자사주1300주매입",
   "박윤영KT대표,자사주매입…책임경영의지",
   "박윤영KT대표,회사주식1300주장내매수...\"책임경영의지\"",
@@ -6062,7 +6041,16 @@
   "'키미K3'승부수는가격…프론티어급성능에오퍼스4.8대비태스크...",
   "서해안고속도로화성휴게소승용차화재...차량전소",
   "인천쿠팡물류센터화재...12시간째진화작업",
-  "하루새널뛰는여름날씨…당분간'폭우-폭염'번갈아온다"
+  "하루새널뛰는여름날씨…당분간'폭우-폭염'번갈아온다",
+  "목포공고ai시대마이스터요람체질개선본격화",
+  "애플,오픈AI로이직한직원40명에'증거보전'경고장발송",
+  "인덱스벤처스\"AI부의재분배,자발적이든강제든결국일어날것\"",
+  "유시민발언·한미관계에'시끌'...부동산해법'촉각'",
+  "[정가초점]36세‘청년여전사’의민주당대표출마의변‘절규’",
+  "한국인들놀러갔다가깜짝놀랐다…사람들줄까지세운한국편의점",
+  "李대통령,'쿠팡인천대재앙'에\"진압에총력\"주문",
+  "‘인천쿠팡물류센터화재’외벽타고7층확산…“짙은연기·고열에...",
+  "인천쿠팡물류센터화재진화난항…'국가소방동원령'발령[TF포착]"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
