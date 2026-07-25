@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452279",
-  "https://www.ikbc.co.kr/article/view/kbc202607250018",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3646006",
-  "https://www.viva100.com/article/20260725500170",
-  "https://www.dt.co.kr/article/12074644",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3646004",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590048.html",
-  "https://www.mt.co.kr/politics/2026/07/25/2026072512560767029",
-  "https://www.joongang.co.kr/article/25448083",
   "https://www.mt.co.kr/future/2026/07/25/2026072417361541362",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02174646645518128",
   "https://www.sedaily.com/article/20071717",
@@ -3000,9 +2991,18 @@
   "https://www.segye.com/newsView/20260726501617?OutUrl=naver",
   "https://view.asiae.co.kr/article/2026072409311961519",
   "https://www.yna.co.kr/view/AKR20260725027900017?input=1195m",
-  "https://www.hankyung.com/article/2026072659647"
+  "https://www.hankyung.com/article/2026072659647",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3646261",
+  "https://www.g-enews.com/view.php?ud=2026072607245375979a1f309431_1",
+  "https://biz.heraldcorp.com/article/10820182",
+  "https://www.tournews21.com/news/articleView.html?idxno=139372",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471520",
+  "https://kidd.co.kr/news/246823",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=62009",
+  "https://www.segye.com/newsView/20260726501622?OutUrl=naver",
+  "https://www.news1.kr/economy/trend/6238420"
  ],
- "last_run": "2026-07-26T07:35:59.675424+09:00",
+ "last_run": "2026-07-26T07:40:58.367962+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3087,15 +3087,6 @@
   ]
  ],
  "seen_titles": [
-  "상하이첫AI실체화훈련장,관광객몰려…화웨이-국가센터협력",
-  "상하이AI실체화훈련장데모센터,관광객발길",
-  "KB국민카드,건전성·수익성균형잡았다…\"상반기'내실경영'성과입...",
-  "네이버,엔비디아·브룩필드서14조투자유치…AI팩토리글로벌확장",
-  "李,이재용·젠슨황과'샌프란깐부회동'…건배사는\"우리는식구다\"",
-  "[고려대소식]고려대,'AI진단신뢰도높일핵심기준'입증외",
-  "[속보]이재용\"한·미AI협력필수…두나라강점결합해더크게성장...",
-  "상하이'AI실체화훈련장'첫개소…국가-화웨이공동설계",
-  "李대통령,‘샌프란AI선언’발표…글로벌AI허브도약선언",
   "최태원“한국,AI테스트베드될것…비용낮추고부작용줄여야”",
   "상하이AI실체화훈련장,관광객발길이어져",
   "[속보]이해진의장\"엔비디아·브룩필드,네이버에100억달러투자\"",
@@ -6086,7 +6077,16 @@
   "밥솥넘어생활가전으로…쿠쿠,‘에너지효율’로삼성·LG틈파고든다",
   "[주末머니]테슬라,외형은성장수익성은후퇴…\"로보택시확장과제\"",
   "이통3사2분기희비…SKT회복·LGU+성장,KT주춤",
-  "李대통령\"반도체넘어피지컬AI로…대체불가대한민국만들것\""
+  "李대통령\"반도체넘어피지컬AI로…대체불가대한민국만들것\"",
+  "이재명대통령,샌프란시스코AI서밋서반도체·GPU대규모투자협력...",
+  "유가급등에美FOMC금리인상확률급등",
+  "미리보는세제개편안,결혼세액공제대신보조금주고가업상속공제재...",
+  "용인특례시,생활SOC확충속도…모현주민자치센터증축·남사전궁지...",
+  "독일거리바뀐다…전기차가가솔린·하이브리드제치고왕좌차지",
+  "SSJ첨단소재,‘K-디스플레이’서디스플레이·반도체용실리콘코팅소...",
+  "국내피지컬AI'오픈생태계'구축…정의선\"대한민국,산업주도중심...",
+  "“휴가다녀왔더니악취·먼지가득”…빈집대신관리하는‘스마트가...",
+  "부동산세제개편'3대축'…가액과세·세부담차등·거래세완화유력"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
