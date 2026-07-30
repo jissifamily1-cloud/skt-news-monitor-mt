@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=315812",
-  "http://www.fnnews.com/news/202607301820271317",
-  "http://www.foodnews.co.kr/news/articleView.html?idxno=119568",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2251375",
-  "https://www.namdonews.com/news/articleView.html?idxno=918621",
-  "https://www.ytn.co.kr/_ln/0102_202607301818555970",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1391344",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000290.html",
-  "https://www.dt.co.kr/article/12075791",
   "https://www.newspim.com/news/view/20260730001451",
   "https://biz.sbs.co.kr/article_hub/20000325754?division=NAVER",
   "http://www.finomy.com/news/articleView.html?idxno=258321",
@@ -3000,9 +2991,18 @@
   "https://www.etoday.co.kr/news/view/2609504",
   "https://it.donga.com/109287/",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688559",
-  "https://www.yna.co.kr/view/AKR20260731012100071?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260731012100071?input=1195m",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876627",
+  "https://www.news2day.co.kr/article/20260730500238",
+  "https://www.etnews.com/20260731000007",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05359526645519768",
+  "https://view.asiae.co.kr/article/2026073106530032529",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683726&plink=ORI&cooper=NAVER",
+  "https://news.tf.co.kr/read/ptoday/2349082.htm",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701817",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2291688"
  ],
- "last_run": "2026-07-31T06:50:59.851671+09:00",
+ "last_run": "2026-07-31T06:55:54.870054+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3083,15 +3083,6 @@
   ]
  ],
  "seen_titles": [
-  "HL만도2분기영업이익1070억원…작년동기比2.8%↑",
-  "한화,김동관수석부회장승진…오너가3형제역할분담본격화",
-  "김동관,한화수석부회장승진…3형제경영전면에",
-  "[식품저널창간29주년축사]홍문표한국농수산식품유통공사(aT)사장",
-  "[금융]카카오페이손보펫보험1만건/기업은행자동차반도체지원/...",
-  "[이슈포커스]통합특별시출범한달:이정표없는첫광역통합…전남광...",
-  "[기업]삼성파운드리흑자전환임박...\"가동률최대수준\"",
-  "[포토뉴스]국립한밭대장현준석사과정생,'한국광학회OPC2026'우수논...",
-  "TS,자율주행레벨4상용화논의…모빌리티혁신성장포럼정책세미나...",
   "KT,삼성전자갤럭시워치로산업현장안전관리돕는다",
   "래블업,코스닥상장예비심사승인…공모절차돌입",
   "KT과징금540억…'증거은닉'처벌강화한다",
@@ -6082,7 +6073,16 @@
   "뉴욕증시,반발매수·반도체강세에상승마감...다우1.19%↑[상보]",
   "중고전기차거래57%급증…구매전반드시확인해야할사항은?",
   "오픈AI,GPT-5.6테라·루나가격인하…기업AI비용이슈겨냥",
-  "트럼프,'폐배터리등수출금지'지시…中핵심광물패권견제"
+  "트럼프,'폐배터리등수출금지'지시…中핵심광물패권견제",
+  "뉴욕증시,MS주도반도체주반등에강세마감…하이닉스ADR18%↑",
+  "대형마트,9분기연속뒷걸음…유통업계‘양극화’극명",
+  "박수현충남도지사“천안종축장,대기업유치등첨단산업중심지만...",
+  "올해상반기글로벌M&A4117조원'사상최대'…AI쟁탈전이판키워",
+  "李대통령\"한-칠레FTA위원회10년만에재가동…광물공급망협력\"",
+  "오늘부터'예탁금3천만원'…총량규제도추가",
+  "李대통령\"한-칠레FTA위원회10년만에재가동…핵심광물협력확대\"",
+  "한·칠레,광물공급망·치안공조강화…MOU5건체결·개정",
+  "충청4개시도,핵심철도망6건공동건의…'제2성장축'시동"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
