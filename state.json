@@ -1,10 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=712365",
-  "https://www.seoultimes.news/news/article.html?no=2000098352",
-  "http://www.press9.kr/news/articleView.html?idxno=80401",
-  "https://www.100ssd.co.kr/news/articleView.html?idxno=211623",
   "http://www.seouleconews.com/news/articleView.html?idxno=92762",
   "https://www.job-post.co.kr/news/articleView.html?idxno=222633",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=1868",
@@ -3000,15 +2996,15 @@
   "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1778603",
   "https://bizhankook.com/articles/doosan-sk-siltron-acquisition-2-3-trillion.html",
   "https://www.dt.co.kr/article/12075941",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167116"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167116",
+  "https://view.asiae.co.kr/article/2026080115223269823",
+  "https://www.mt.co.kr/world/2026/08/01/2026080114304581002",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=449930",
+  "https://www.wikitree.co.kr/articles/1148981"
  ],
- "last_run": "2026-08-01T15:21:10.709694+09:00",
+ "last_run": "2026-08-01T15:25:51.828026+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-08-01T09:25:17.966673+09:00",
-   "최저치 11일 ETF유출 비트코인 만의 이란 삼중고"
-  ],
   [
    "2026-08-01T09:45:23.762050+09:00",
    "구마모토 소니 중순 가동 회복 8월 수준 지진 공장"
@@ -3103,10 +3099,6 @@
   ]
  ],
  "seen_titles": [
-  "LG유플러스,AI동화콘텐츠로만들사연모집…우리아이를동화주인...",
-  "LG유플러스,고객사연으로AI동화만든다",
-  "[특징주]외국인'삼성전자·금호타이어'사고'삼성중공업'팔고…기관...",
-  "LG유플러스,'우리아이가동화주인공'이벤트...“고객사연AI동화만...",
   "[LG의AI엔진]③파주데이터센터에모인LG기술",
   "LG유플러스,고객참여형콘텐츠확대…'AI동화제작'이벤트",
   "\"5G과장광고맞다\"...KT,139억원과징금불복소송서졌다",
@@ -6102,7 +6094,11 @@
   "RAM도비싼데,엔비디아·AMDGPU인상보도",
   "두산,SK실트론최종인수계약…2.3조빅딜배경은?",
   "“삼전HBM,내년SK하닉추월”…역전시기당겨졌다",
-  "7월수출,989억弗전년比63%급증…반도체410억弗효자"
+  "7월수출,989억弗전년比63%급증…반도체410억弗효자",
+  "구글,'AI위성사진편집'하루만에철회…\"악용우려\"",
+  "'AI노스트라다무스'의추락…시타델나서자시장은안도",
+  "박용갑\"화합·지역현안해결\"vs장종태\"강한시당·지방선거승리\"",
+  "손풍기는'이곳'위에올려보세요…가족들이더좋아합니다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
