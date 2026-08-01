@@ -1,13 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=150018",
-  "http://www.beyondpost.co.kr/view.php?ud=202607311418554706be44c0aacd_30",
-  "https://www.seoulfn.com/news/articleView.html?idxno=634645",
-  "https://www.ziksir.com/news/articleView.html?idxno=141816",
-  "https://www.m-i.kr/news/articleView.html?idxno=1397644",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=268572",
-  "https://www.businessplus.kr/news/articleView.html?idxno=114924",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/31/2026073100149.html",
   "https://www.greened.kr/news/articleView.html?idxno=346535",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87392",
@@ -3000,15 +2993,18 @@
   "https://www.insight.co.kr/news/565914",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473462",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473461",
-  "https://www.onews.tv/news/articleView.html?idxno=284017"
+  "https://www.onews.tv/news/articleView.html?idxno=284017",
+  "https://www.sedaily.com/article/20074449",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849070",
+  "https://www.betanews.net/article/view/beta202608010001",
+  "https://www.pressian.com/pages/articles/2026080110424023503",
+  "https://www.ddaily.co.kr/page/view/2026080112344526430",
+  "https://www.goodkyung.com/news/articleView.html?idxno=289841",
+  "https://www.chosun.com/economy/tech_it/2026/08/01/DMNVZPAYR5FK7OQ3GAOP3Q64SU/"
  ],
- "last_run": "2026-08-01T13:46:04.003680+09:00",
+ "last_run": "2026-08-01T13:50:55.775169+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-08-01T07:45:30.633700+09:00",
-   "스파크 통할까 에이전트 구글 제미나이"
-  ],
   [
    "2026-08-01T08:05:19.535210+09:00",
    "시그니처 개발 롯데캐슬 호재에 중앙공원 국가도시공원"
@@ -3111,13 +3107,6 @@
   ]
  ],
  "seen_titles": [
-  "\"또다른세상만날땐잠시꺼두셔도좋습니다\"…한석규'스피드011'광...",
-  "SKT,피지컬AI스타트업8개사와맞손…로보틱스생태계키운다",
-  "'독파모'2차평가임박···SKT·LG·업스테이지·모티프,더나은AI모...",
-  "SKT,피지컬AI스타트업8곳과협력…로보틱스생태계확대",
-  "LGAI연구원,'K-엑사원2.0'공개···독파모선발전윤곽",
-  "SKT,피지컬AI스타트업8개사와협력…로봇생태계확대",
-  "SKT,'피지컬AI'스타트업과머리맞댄다…로보틱스생태계강화",
   "\"잠시꺼두셔도좋습니다\"…SKT,한석규와28년만재회→'스피드011'오...",
   "[영상]SKT,배우한석규와28년만에재회…스피드011오마주광고공개",
   "쿠팡도'1인당10만원'배상결정…SKT전철밟나",
@@ -6110,7 +6099,14 @@
   "반도체반등에벼락거지됐다...삼성·하이닉스곱버스탄개미들하루...",
   "방산·오일&가스수요회복효과…세아베스틸지주2분기시장전망웃돌...",
   "컨센서스넘은POSCO홀딩스…철강·리튬동반회복신호",
-  "[현장]수어에서시작된흑백드로잉…김크리스틴선'완고한바위,무..."
+  "[현장]수어에서시작된흑백드로잉…김크리스틴선'완고한바위,무...",
+  "7500억으로15GWAIDC개발…SKT의새승부수[빛이나는비즈]",
+  "[#클라우드월드]LGCNS'상반기매출2조8358억'·이노그리드'K-디자인...",
+  "코스피22%급락에도…고배당·원유·중국ETF두자릿수상승",
+  "AI시대,고전에서답찾는다…강원도교육청·세인트존스칼리지맞손",
+  "[IT백과]AI‘젤브레이킹’과샌드박스이탈,무엇이다를까",
+  "두산,SK실트론2.3조에품는다…반도체전공정진출",
+  "“대화면인데사생활보호기능없어요?”“오히려빠져서다행”...갤..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
