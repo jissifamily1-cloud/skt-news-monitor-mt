@@ -1,10 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.news1.kr/sports/baseball/6245906",
-  "https://www.the-stock.kr/news/articleView.html?idxno=33051",
-  "https://www.sportschosun.com/baseball/2026-07-31/202607310100203770013437",
-  "https://www.mydaily.co.kr/page/view/2026073122180065846",
   "https://sports.khan.co.kr/article/202607312217003?pt=nv",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2291784",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553423658",
@@ -3000,9 +2996,13 @@
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336158",
   "https://zdnet.co.kr/view/?no=20260801104214",
   "https://www.sedaily.com/article/20074624",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849076"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849076",
+  "https://www.sedaily.com/article/20074625",
+  "https://biz.heraldcorp.com/article/10827816",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542878",
+  "http://www.bizwnews.com/news/articleView.html?idxno=142145"
  ],
- "last_run": "2026-08-01T14:40:58.841410+09:00",
+ "last_run": "2026-08-01T14:46:00.518191+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3107,10 +3107,6 @@
   ]
  ],
  "seen_titles": [
-  "[한번에쓱]'역전승자축하는'박영현과KT선수들",
-  "'연패끊은'1위삼성·'4연승'2위kt…반게임차선두경쟁(종합)",
-  "KT박영현,형박정현에'설욕'하고20세이브…\"슬라이더로심리전\"",
-  "래블업,코스닥상장예심'최단기'통과",
   "'역대최초'형에게당한굴욕,오늘은이겼다→KBO17호기록까지…\"무...",
   "\"특별한경험이다\"외국인도韓야구열기에놀랐다,수원시&KT합심해...",
   "토종에이스류현진도,돌아온강백호도막지못했다···KT4연승질주...",
@@ -6106,7 +6102,11 @@
   "데이터센터가일자리를창출한다는뻥",
   "오픈AI'챗GPT'이용자10억명넘었다",
   "‘메모리갑질’하다가중국제쓰겠다는아이폰[트럼프스톡커]",
-  "공병철전남광주광산구의회의장,시군구의장협의회부회장선출"
+  "공병철전남광주광산구의회의장,시군구의장협의회부회장선출",
+  "金“명청대전지옥문”鄭“개혁하고또개혁”宋“유시민에침묵하...",
+  "오픈AI,출시3년8개월만에이용자10억명달성",
+  "7월수출62.8%증가…14개월연속역대최대치경신",
+  "[비즈피플]임병택시흥시장\"바이오·AI로산업대전환…K-시흥완성할..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
