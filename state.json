@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.mk.co.kr/article/12118937",
-  "https://www.etnews.com/20260806000058",
-  "https://www.newspost.kr/news/articleView.html?idxno=224722",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84287",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167426",
-  "https://news.bizwatch.co.kr/article/healthcare/2026/08/06/0004",
-  "https://www.newspost.kr/news/articleView.html?idxno=224717",
-  "http://www.dailypop.kr/news/articleView.html?idxno=101300",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89397",
-  "https://bizhankook.com/articles/toss-busan-international-rock-festival-sponsorship.html",
   "https://biz.sbs.co.kr/article_hub/20000326978?division=NAVER",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03686726645544696",
   "https://www.seoulfn.com/news/articleView.html?idxno=635049",
@@ -3000,15 +2990,21 @@
   "https://www.namdonews.com/news/articleView.html?idxno=919249",
   "https://www.gukjenews.com/news/articleView.html?idxno=3657372",
   "https://byline.network/?p=9004111222614437",
-  "https://www.wikitree.co.kr/articles/1150708"
+  "https://www.wikitree.co.kr/articles/1150708",
+  "http://www.popcornnews.net/news/articleView.html?idxno=128866",
+  "http://www.4th.kr/news/articleView.html?idxno=2115905",
+  "https://www.kbmaeil.com/article/20260806500352",
+  "http://www.incheonnews.com/news/articleView.html?idxno=438990",
+  "https://www.kbmaeil.com/article/20260806500347",
+  "https://www.aitimes.com/news/articleView.html?idxno=213584",
+  "https://news.jtbc.co.kr/article/NB12312005?influxDiv=NAVER",
+  "https://www.aitimes.com/news/articleView.html?idxno=213585",
+  "https://www.sisajournal.com/news/articleView.html?idxno=382595",
+  "https://www.jejumaeil.net/news/articleView.html?idxno=403428"
  ],
- "last_run": "2026-08-06T12:50:50.083093+09:00",
+ "last_run": "2026-08-06T12:55:48.235131+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-08-06T06:50:25.706199+09:00",
-   "변동성 코스피 수급충돌 주범은 자본연 뛰었다 두배"
-  ],
   [
    "2026-08-06T06:55:29.810219+09:00",
    "방안 마련 주주 환원 삼성전자 강화"
@@ -3595,16 +3591,6 @@
   ]
  ],
  "seen_titles": [
-  "﻿출장·경비관리AX속도낸다···비즈플레이-비큐AI'맞손'",
-  "구윤철,기초·퇴직연금개편예고",
-  "한미그룹,'AI부스트프로그램'가동…전사적업무혁신속도",
-  "파로스아이바이오,AI후보물질탐색국책과제선정",
-  "한미그룹,전사AI활용프로그램도입…디지털업무혁신추진",
-  "컨설턴트AI역량강화한다…삼성생명,전문성높인교육체계도입",
-  "식품업계최초…CJ제일제당,AI로K푸드영토확장나선다",
-  "CJ제일제당,AI로식품트렌드읽는다…'푸드AI360'론칭",
-  "“쉬라고만든거맞나요?”…허리도못펴는미화원쪽방휴게실‘공...",
-  "고려대,AI연쇄추론능력극대화하는학습·평가체계구축",
   "동서발전,'제25차사랑의헌혈행사'시행",
   "출범5년만에1000만고객확보…토스증권,국민5명중1명이쓴다",
   "코스피,차익실현매물에6300선후퇴…삼전·닉스'약세'",
@@ -6594,7 +6580,17 @@
   "[특징주]고려아연,코스피폭락장서'나홀로17%폭등'…상반기영업익...",
   "폭염관련지자체의방안과상품들이목끌어",
   "우버자율주행에올인베팅…14조원투입한다",
-  "적수없다…임영웅·유재석누르고광고모델브랜드평판1위차지한'연..."
+  "적수없다…임영웅·유재석누르고광고모델브랜드평판1위차지한'연...",
+  "KT·LG유플러스,나란히'AI보안'카드꺼냈다…스팸차단부터공공인...",
+  "[기자수첩]노조기사썼다고보도자료차단…KT황당한언론대응",
+  "“객관식수능이아이들망쳐”…논·서술형대입개편불붙나",
+  "정부'국가자산'시대선언…인천공공부지활용도달라지나",
+  "영천시,국군사관학교창설공식입장발표…“3사관학교역할보장·정...",
+  "노타,'키미K3'경량화모델2종공개...\"GPU최대50%절감\"",
+  "미국정가돌풍일으킨한국계'홍후보'...트럼프는\"미쳤냐\"공격,왜...",
+  "세무AI스타트업솔로몬랩스,스트라이프출신이창헌리드영입",
+  "구윤철\"기초·퇴직연금손본다\"…개편안조만간발표",
+  "'해외동포선수단맞춤지원'제주,환대로전국체전연다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
