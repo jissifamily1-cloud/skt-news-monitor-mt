@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238461",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=85973",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719583",
-  "http://www.finomy.com/news/articleView.html?idxno=258757",
-  "https://news.mtn.co.kr/news-detail/2026080713381260731",
-  "https://www.newspim.com/news/view/20260807000812",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023693",
-  "https://www.newsis.com/view/NISX20260807_0003740543",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=662047",
   "https://zdnet.co.kr/view/?no=20260804180118",
   "https://www.ddaily.co.kr/page/view/2026080714265867742",
   "https://www.techm.kr/news/articleView.html?idxno=154077",
@@ -3000,9 +2991,18 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691199",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2260061",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691203",
-  "http://www.fnnews.com/news/202608072021211695"
+  "http://www.fnnews.com/news/202608072021211695",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719625",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274398",
+  "https://www.wikitree.co.kr/articles/1151099",
+  "https://www.sedaily.com/article/20077135",
+  "https://www.donga.com/news/Society/article/all/20260807/134438051/1",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2260066",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691204",
+  "https://www.newsis.com/view/NISX20260807_0003741125",
+  "https://www.etoday.co.kr/news/view/2612349"
  ],
- "last_run": "2026-08-07T20:25:53.414515+09:00",
+ "last_run": "2026-08-07T20:30:57.412296+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3335,15 +3335,6 @@
   ]
  ],
  "seen_titles": [
-  "AI만오른게아니었다…월가가금융주에베팅하는이유",
-  "수원특례시이재준시장,'K-브랜드지수'경기도지자체장부문1위",
-  "쿠팡,AI쇼핑기능확대···상품비교·리뷰요약까지지원",
-  "JP모건\"아마존목표가365달러\"-AWS성장세에34%추가상승기대",
-  "네이버페이,25조결제시대…오프라인승부수",
-  "한미그룹,전계열사AI활용확대···우수사례포상",
-  "팔다리들고고관절까지움직였다…바디프랜드'733'타보니[MTN픽]",
-  "박홍근\"국가재정시스템안정성한순간도흔들려선안돼\"",
-  "명지대고아라교수·정유진학생,AI활용식품쇼핑몰창업실무서출...",
   "용인도시공사,행안부지방공기업평가전국1위",
   "[기획]동전주관리종목위기63곳…병합도무력화",
   "[글로벌vs국내보안맞수]멘로시큐리티-소프트캠프RBI시장서격돌",
@@ -6334,7 +6325,16 @@
   "클린스파크,월가매출예상밑돌자주가하락",
   "HD하이드로젠,SOFC양산체계구축…시장진출본격화",
   "테슬라가만들지않은전기보트,유튜버가직접제작했다",
-  "[속보]李대통령\"부동산공급,기존사고방식매달리지말고과감히실..."
+  "[속보]李대통령\"부동산공급,기존사고방식매달리지말고과감히실...",
+  "[EBN오늘(7일)이슈종합]한미그룹경영권분쟁'2라운드'등",
+  "오디에스오'위드히어'조달청혁신제품지정...방음부스없이5분만에...",
+  "SK하이닉스분기배당금발표됐다...추가주주환원방안도3분기안에...",
+  "“비교하고구매결정까지”…쿠팡,쇼핑전과정에AI도입",
+  "생중계된죽음,온라인확산계속…플랫폼은또못막았다",
+  "네이버,2분기매출3조3888억원…전년대비16.2%증가",
+  "애플최상위컴퓨터,맥프로는왜단종됐나?",
+  "[올댓차이나]대만증시,중동정세불투명에속락마감…0.38%↓",
+  "이대통령,부동산2차회의도6시간마라톤…\"기존사고벗어나과감히..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
