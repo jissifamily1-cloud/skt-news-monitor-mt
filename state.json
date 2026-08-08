@@ -1,13 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.tfmedia.co.kr/news/article.html?no=206314",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608070627&t=NN",
-  "https://www.koreajoongangdaily.com/business/sk-hynix-shareholders-uneasy-over-rumored-solidigm-nasdaq-listing/12814257",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93458",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84190",
-  "https://www.sidae.com/article/2026080713565029186",
-  "https://www.veritas-a.com/news/articleView.html?idxno=614790",
   "https://www.veritas-a.com/news/articleView.html?idxno=616047",
   "https://www.tvreport.co.kr/breaking/article/1067137/",
   "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260807&SEQUENCE=0116",
@@ -3000,9 +2993,16 @@
   "https://www.veritas-a.com/news/articleView.html?idxno=616888",
   "https://www.wikitree.co.kr/articles/1151157",
   "https://www.dt.co.kr/article/12077124",
-  "https://www.etnews.com/20260807000034"
+  "https://www.etnews.com/20260807000034",
+  "https://www.etnews.com/20260808000021",
+  "https://www.aitimes.com/news/articleView.html?idxno=213703",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52017",
+  "https://economist.co.kr/article/view/ecn202608080002",
+  "https://www.veritas-a.com/news/articleView.html?idxno=616890",
+  "https://www.hankyung.com/article/2026080712201",
+  "https://www.sedaily.com/article/20077186"
  ],
- "last_run": "2026-08-08T09:35:48.132473+09:00",
+ "last_run": "2026-08-08T09:41:03.610111+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3139,13 +3139,6 @@
   ]
  ],
  "seen_titles": [
-  "[현장]경쟁은치열하게진입은가볍게…컴투스,신작‘제우스’26일...",
-  "리얼월드(RLWRLD),국내로보틱스·시뮬레이션3사와MOU체결…한국발(...",
-  "SKhynixshareholdersuneasyoverrumoredSolidigmNasdaqlisting",
-  "SK하이닉스,용인·청주팹확충에54조투입…AI메모리공급망주도권...",
-  "코스피,외인'팔자'에6200선마감…SK하이닉스4.88%급락",
-  "[사설]'엇박자'당연시하는노동부장관…부처논리넘어서야",
-  "[2027수시특집]'반도체선두'한양대2026정시반도체공학과(SK하이닉스...",
   "[2027수시특집]한양대2026입결정시수능백분위80%평균의예98.38'최...",
   "\"'삼전닉스'왜사라고했냐\"…홍진경,주가하락원망뒤→돌연영상...",
   "SK하이닉스,청주M17팹19조원투자..\"AI메모리수요대응\"",
@@ -6138,7 +6131,14 @@
   "[2027수시특집]인하대2026입결정시수능백분위70%컷의예98.17'최고...",
   "구글,클라우드82%성장에도제프딘·데미스하사비스동반퇴진",
   "오픈AI,차세대모델‘아스트라’출시연기…“해킹위험우려”",
-  "전남정보문화산업진흥원,생성형AI기반콘텐츠제작전문인력본격양..."
+  "전남정보문화산업진흥원,생성형AI기반콘텐츠제작전문인력본격양...",
+  "국립광주과학관,'여름방학AI탐사대'운영…10개AI동아리참가",
+  "오픈AI,허깅페이스자율해킹전말공개…\"에이전트끼리비밀소통\"",
+  "연준긴축부담덜자뉴욕증시강세…S&P500최고치경신",
+  "달라진서학개미장바구니…기술주담았다",
+  "[2027수시특집]4개첨단학과신설이어첨단산업특성화대학'전국유일...",
+  "[책마을]인간은언젠가우주를이해할수있을까",
+  "“다털릴판”…오픈AI,아스트라해킹우려에출시늦춘다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
