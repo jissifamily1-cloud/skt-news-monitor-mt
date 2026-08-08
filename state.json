@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.news1.kr/it-science/internet-platform/6252364",
-  "https://www.dt.co.kr/article/12077017",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271362",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1329104",
-  "http://www.amnews.co.kr/news/articleView.html?idxno=73854",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37386",
-  "https://news.unn.net/news/articleView.html?idxno=595548",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105720",
   "http://www.journalist.or.kr/news/article.html?no=61423",
   "https://www.agrinet.co.kr/news/articleView.html?idxno=406235",
   "https://www.agrinet.co.kr/news/articleView.html?idxno=406223",
@@ -3000,15 +2992,19 @@
   "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55958",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282074",
   "https://www.mydaily.co.kr/page/view/2026080810064408521",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=442526"
+  "http://www.econonews.co.kr/news/articleView.html?idxno=442526",
+  "https://www.lecturernews.com/news/articleView.html?idxno=208016",
+  "https://www.econotimes.com/OpenAI-Restricts-Astra-AI-Over-Cyberattack-Risks-1748964",
+  "http://www.fnnews.com/news/202608081133510666",
+  "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55959",
+  "https://www.sportsseoul.com/news/read/1627319",
+  "https://www.betanews.net/article/view/beta202608080001",
+  "http://www.economytalk.kr/news/articleView.html?idxno=423388",
+  "https://news.tf.co.kr/read/life/2351935.htm"
  ],
- "last_run": "2026-08-08T12:10:53.477349+09:00",
+ "last_run": "2026-08-08T12:15:51.415566+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-08-08T06:10:27.221313+09:00",
-   "트럼프 태양광 수혜 꺼낸 원자재 직접 232조 타격"
-  ],
   [
    "2026-08-08T06:20:22.601969+09:00",
    "경험으로 경쟁 물류업계 도심 속도 고속도로 간다"
@@ -3155,14 +3151,6 @@
   ]
  ],
  "seen_titles": [
-  "방미통위\"가짜뉴스법,美기업겨냥아니다\"…美하원우려반박",
-  "이통3사,개인정보사고면책약관손본다",
-  "\"시장기대치11%뚫은LG유플러스…비용줄이고주력사업날았다\"",
-  "박찬대,민선9기참모진구축…정책수석송현석·정무소통실장송윤찬",
-  "날씨빅데이터콘테스트축산분야우수작4건선정",
-  "AI활용기업8년새6.5배늘었지만…기업규모별격차커졌다",
-  "[앵커선도대학을가다/부산대학교밀양캠퍼스]스마트농업·푸드테크로...",
-  "[FMS2026]삼성·SK,차세대AI메모리기술승부수",
   "네이버\"AI탭,출시한달만에MAU1000만명돌파\"",
   "[농진청국장에게듣는다]\"농가과학영농설계뒷받침···현장체감사...",
   "강충룡제주도의회농수축위원장\"현장이답···농업소득안정·기후...",
@@ -6154,7 +6142,15 @@
   "금융회사의AI거버넌스구축을위한정책과제",
   "美고용충격에금리인상기대후퇴…뉴욕증시3대지수상승",
   "\"형들,코치님들께감사해요\"주전포수를키우려면온마을이필요하다...",
-  "LG전자,'LG로니'백화점팝업체험존운영...현대판교·롯데인천·신..."
+  "LG전자,'LG로니'백화점팝업체험존운영...현대판교·롯데인천·신...",
+  "성균관대학교학부연구생김도연,드론AI식별용저전력반도체기술...",
+  "OpenAIRestrictsAstraAIOverCyberattackRisks",
+  "과열되는與전대..金\"당운영에격정\"鄭\"한번배신하면또배신\"난...",
+  "회사채시장위축과단기금융시장유입:잠재적리스크와대응",
+  "“(박)동원이형에게감사하죠”,‘커리어하이’적는LG불펜‘희망’...",
+  "갤럭시Z플립9단종되면안되는이유",
+  "[주목e-금융]'로보어드바이저',금융권핵심서비스로재편…\"IRP일임...",
+  "변호사사칭개인정보갈취…변협,피싱사이트31곳차단"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
