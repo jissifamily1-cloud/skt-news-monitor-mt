@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260813001126",
-  "https://www.m-i.kr/news/articleView.html?idxno=1402177",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16162751",
-  "https://www.sentv.co.kr/article/view/sentv202608130148",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405565",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405562",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41437",
-  "https://www.etnews.com/20260813000371",
   "https://magazine.hankyung.com/business/article/202608139712b",
   "https://www.pdjournal.com/news/articleView.html?idxno=90061",
   "https://www.hankookilbo.com/news/article/A2026081218560002505?did=NA",
@@ -3000,9 +2992,17 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=314893",
   "https://www.kwnews.co.kr/article/20260813502112",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477236",
-  "https://www.mk.co.kr/article/12120866"
+  "https://www.mk.co.kr/article/12120866",
+  "https://www.thelec.kr/news/articleView.html?idxno=60928",
+  "https://newstapa.org/article/mC67U",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314920",
+  "https://www.nytimes.com/2026/08/13/business/dealbook/lakers-deal-kushner-iger-walter.html?partner=naver",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208044",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260813210538xcB",
+  "http://www.cctimes.kr/news/articleView.html?idxno=921853",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07094646645546992"
  ],
- "last_run": "2026-08-13T21:05:53.925995+09:00",
+ "last_run": "2026-08-13T21:11:08.386425+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3428,17 +3428,13 @@
   [
    "2026-08-13T21:05:22.273018+09:00",
    "장비 렌털 공룡 올라탄"
+  ],
+  [
+   "2026-08-13T21:10:26.387103+09:00",
+   "SK하이닉스의 1000조원 베팅 전쟁 CNBC가 메모리는 최태원"
   ]
  ],
  "seen_titles": [
-  "[스타시승기]폴스타3,패밀리SUV인데...트랙도씹어먹는플래그십",
-  "한주라이트메탈,2분기영업익26억…전년비114%증가",
-  "삼성중공업-KAIST,32년산학협력'상시R&D체제'로전환",
-  "휴림로봇주가,8월13일7,720원2.39%상승마감",
-  "“농사짓는휴머노이드나온다”…대동-레인보우로보틱스맞손",
-  "\"AI스마트글래스활용범죄잡아낸다\"…마에스트로포렌식,차세대포렌...",
-  "한국양자산업협회\"양자,미래성장동력'7대시드프로젝트'선정환영...",
-  "로봇이스스로판단해화물옮긴다…마음AI,과기정통부'피지컬AI'상...",
   "NIA,베트남정보접근센터기반디지털헬스케어·AI협력확대",
   "위밋모빌리티,국토부'혁신프리미어1000'선정",
   "10월부터중간광고규제완화...\"방송시장회복마중물\"",
@@ -6430,7 +6426,15 @@
   "\"전기차수준주행감\"…제네시스,GV80에탑재될차세대하이브리드시...",
   "강원소방,여름철차량안라이터·보조배터리화재주의",
   "차바이오텍,상반기매출6461억원…전년比7.1%↑",
-  "AI데이터센터붐올라탄‘장비렌털공룡’[미장보석주]"
+  "AI데이터센터붐올라탄‘장비렌털공룡’[미장보석주]",
+  "그래파이,170억원시리즈A투자유치",
+  "[K-놀부전]KT의인프라'인질극'",
+  "엔비디아,월가자금에머스크독점까지…삼성·SK하이닉스도기대",
+  "Insidethe$12.5BillionDealfortheLakers",
+  "오케스트로,AI주권확보위한소버린AI데이터센터전략공개",
+  "검찰,'3천5백억대담합'반도체소재업체·임직원기소",
+  "충주탄금공원관광특화자율주행셔틀달린다",
+  "최태원\"메모리는전쟁\"…CNBC가본SK하이닉스의1000조원베팅"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
