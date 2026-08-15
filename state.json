@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202608130106",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240996",
-  "https://www.bloter.net/news/articleView.html?idxno=670908",
-  "https://zdnet.co.kr/view/?no=20260813173231",
-  "https://www.dailian.co.kr/news/view/1678246/?sc=Naver",
-  "https://www.ajunews.com/view/20260813163540921",
-  "https://www.banronbodo.com/news/articleView.html?idxno=32784",
-  "https://www.dt.co.kr/article/12078200",
-  "https://www.chosun.com/economy/tech_it/2026/08/13/KSVLWHZVCJFMNFWBCHNV3V5UWU/",
   "https://www.g-enews.com/view.php?ud=2026081314364078963d7a510102_1",
   "https://www.seoulfn.com/news/articleView.html?idxno=635611",
   "http://www.iminju.net/news/articleView.html?idxno=168035",
@@ -3000,9 +2991,18 @@
   "https://www.newsis.com/view/NISX20260815_0003750676",
   "https://www.mt.co.kr/society/2026/08/15/2026081516524426255",
   "https://www.thepowernews.co.kr/view.php?ud=202608151638471464caa2b7671d_7",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590086.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590086.html",
+  "http://www.osen.co.kr/article/G1112857853",
+  "http://www.osen.co.kr/article/G1112857852",
+  "http://www.inews24.com/view/1995390",
+  "https://www.thepowernews.co.kr/view.php?ud=202608151646446483caa2b7671d_7",
+  "https://www.apnews.kr/news/articleView.html?idxno=3050495",
+  "https://www.nocutnews.co.kr/news/6563510",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878049",
+  "https://imnews.imbc.com/news/2026/politics/article/6845006_36911.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638014"
  ],
- "last_run": "2026-08-15T17:16:02.811611+09:00",
+ "last_run": "2026-08-15T17:20:53.566698+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3071,15 +3071,6 @@
   ]
  ],
  "seen_titles": [
-  "SK하이퍼,C레벨인선완료…글로벌AIDC공략속도",
-  "'보안특화AI'개발에LG참전…SKT·네이버도참여검토",
-  "자본잠식네이버제트,AI스트리머로반전노리나",
-  "SKT,‘A.XK2’구동문턱낮춘다…메모리43%절감",
-  "글로벌무대서터진스타트업저력…모티프·업스테이지1·2위",
-  "독파모2차결과앞두고글로벌성적표…추가합류'모티프3'가장높은...",
-  "[이달의TV광고②]얇아진폴더블·강해진스팀...제품매력펼친광고...",
-  "잇단해킹에흔들린통신3사가입자판도…LG유플러스만웃었다",
-  "‘국대AI’글로벌성적표열어보니...대기업이스타트업에밀렸다",
   "독파모4파전,모티프3글로벌평가선두…47점기록",
   "모티프·업스테이지,글로벌AI성능지표서SKT·LG앞섰다",
   "'독파모4강'글로벌지표공개…국내선'모티프3'선두",
@@ -6070,7 +6061,16 @@
   "전남광주시81주년광복절기념행사…유공자11명포상",
   "검찰,'통일교금품의혹'압수전PC파손전재수보좌진들실형구형",
   "안도걸,민주당전남광주통합특별시당초대위원장선출…“전남·광주...",
-  "유재일《미국을만든세계》,교보문고역사문화분야사흘연속1위"
+  "유재일《미국을만든세계》,교보문고역사문화분야사흘연속1위",
+  "[사진]이강철감독'이상동일대일코치'",
+  "[사진]이상동지도하는이강철감독",
+  "中휴머노이드열풍…유니트리IPO경쟁률8000대1",
+  "민주당당권주자3인,나주서‘호남표심’총력전…정청래·송영길·김...",
+  "최태원9440억재상고…노소영'하이닉스반대정황'기여도쟁점",
+  "비내린광복절서울도심집회…\"부정선거\"vs\"美나가라\"",
+  "전남광주특별시,출범후첫광복절경축식…\"하나된전남광주,더큰...",
+  "민주당권주자3인,전남광주서일제히'호남인연'강조",
+  "민주당전당대회호남경선…잠시뒤투표결과발표"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
