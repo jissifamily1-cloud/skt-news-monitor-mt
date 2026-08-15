@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.sisaweek.com/news/articleView.html?idxno=237295",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444780",
-  "https://news.jtbc.co.kr/article/NB12313360?influxDiv=NAVER",
-  "https://biz.heraldcorp.com/article/10841354",
-  "http://www.tongilnews.com/news/articleView.html?idxno=217211",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=281033",
-  "https://www.sedaily.com/article/20079420",
-  "https://www.joongangenews.com/news/articleView.html?idxno=540137",
   "https://www.ikbc.co.kr/article/view/kbc202608140020",
   "https://www.khan.co.kr/article/202608141024001",
   "https://www.mk.co.kr/article/12127709",
@@ -3000,9 +2992,17 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16164395",
   "https://www.newspim.com/news/view/20260815000145",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168266",
-  "https://www.newsis.com/view/NISX20260815_0003750663"
+  "https://www.newsis.com/view/NISX20260815_0003750663",
+  "https://www.hinews.co.kr/view.php?ud=2026081516515811566cf2d78c68_48",
+  "http://www.globalepic.co.kr/view.php?ud=2026081516501873396cf2d78c68_29",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878046",
+  "https://www.siminsori.com/news/articleView.html?idxno=401053",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459832",
+  "https://www.ziksir.com/news/articleView.html?idxno=143318",
+  "https://www.tbc.co.kr/news/view?pno=20260814173031AE04011&id=209808",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311271"
  ],
- "last_run": "2026-08-15T16:51:03.756748+09:00",
+ "last_run": "2026-08-15T16:55:48.463504+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3079,14 +3079,6 @@
   ]
  ],
  "seen_titles": [
-  "[정당지지율]국민의힘,40대지지율8%…민주당58%",
-  "[한국갤럽]부동산시장에세제개편안영향'부정'45%vs'긍정24%,정부...",
-  "또최저치…이대통령지지율44%로부정평가첫역전ㅣ한국갤럽",
-  "李대통령국정지지율‘취임후최저’44%…7%p하락[한국갤럽]",
-  "이대통령'잘한다'44%,'못한다'46%[한국갤럽]",
-  "이대통령지지율44%,7%p↓...취임후최저[한국갤럽]",
-  "부동산정책불만에…李대통령지지율‘취임후최저’44%[한국갤럽]",
-  "李대통령국정지지율긍정44%·부정46%...오차범위내역전",
   "'취임후최저'...李대통령국정지지율44%,직전조사보다7%p↓",
   "이대통령지지율44%로최저치,부정평가46%···취임후첫‘데드크...",
   "[속보]이대통령긍정평가44%‘취임후최저치’…부정평가46%로첫...",
@@ -6078,7 +6070,15 @@
   "농구월드컵아시아예선2라운드,8월레바논·사우디아라비아만난다...",
   "'부정선거'·'미국비판'…보수·진보단체,광복절서울대규모집회",
   "엔비디아,오픈AI데이터센터채무보증규모절반축소",
-  "쿵푸는해도집안일은'아직'…中로봇업체유니트리청약에8000배주문"
+  "쿵푸는해도집안일은'아직'…中로봇업체유니트리청약에8000배주문",
+  "KT그룹희망나눔재단,'K-AI콘텐츠공모전'시상...대상은소상공인A...",
+  "소상공인돕는AI솔루션'오늘몇그릇',KT공모전대상수상",
+  "'예산통'안도걸의원,민주당전남광주통합시당초대위원장선출…64...",
+  "인천시,제81주년광복절경축행사개최…\"위대한인천의미래열것\"",
+  "[증시동향]국내증시반등중···개미들도구출할까",
+  "[이슈직설]李'4년중임제'개헌승부수…정책예측성높이나,선심재...",
+  "삼익THK,2분기영업이익17억원…분기흑자전환",
+  "아반떼가4200만원?…옵션욕심내다테슬라사겠네"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
