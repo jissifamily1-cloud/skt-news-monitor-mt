@@ -1,17 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=716392",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269954",
-  "https://www.newstnt.com/news/articleView.html?idxno=713499",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855899",
-  "http://www.thebigdata.co.kr/view.php?ud=202608111013123920a47484cf8_23",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240908",
-  "https://www.yna.co.kr/view/AKR20260811053500017?input=1195m",
-  "https://www.etnews.com/20260811000049",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=789830",
-  "https://www.news1.kr/it-science/mobile/6254987",
-  "https://view.asiae.co.kr/article/2026081109084532688",
   "https://www.news1.kr/it-science/cc-newmedia/6254312",
   "http://www.bizwnews.com/news/articleView.html?idxno=142878",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2261983",
@@ -3000,9 +2989,20 @@
   "http://www.osen.co.kr/article/G1112857942",
   "http://www.osen.co.kr/article/G1112857937",
   "https://www.betanews.net/article/view/beta202608150011",
-  "https://www.news1.kr/local/busan-gyeongnam/6260351"
+  "https://www.news1.kr/local/busan-gyeongnam/6260351",
+  "http://www.osen.co.kr/article/G1112857967",
+  "http://www.osen.co.kr/article/G1112857965",
+  "http://www.osen.co.kr/article/G1112857964",
+  "https://m.sports.naver.com/basketball/article/065/0000300741",
+  "http://www.osen.co.kr/article/G1112857961",
+  "http://www.osen.co.kr/article/G1112857963",
+  "http://www.osen.co.kr/article/G1112857962",
+  "http://www.osen.co.kr/article/G1112857966",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=850530",
+  "https://www.ziksir.com/news/articleView.html?idxno=143319",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96409"
  ],
- "last_run": "2026-08-15T19:50:51.017217+09:00",
+ "last_run": "2026-08-15T19:55:45.743222+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3063,17 +3063,6 @@
   ]
  ],
  "seen_titles": [
-  "KT엠모바일,LTE·5G34종요금인하",
-  "'알뜰폰1위'KT엠모바일,LTE·5G34종요금인하…30GB도1만원대",
-  "KT,구글AI결합요금제·롯데백화점RCS도입…디지털서비스경쟁력...",
-  "KT엠모바일,QoS요금제대폭인하…RS도준비",
-  "KT,요금제AI혜택강화…KT엠모바일은‘가성비’승부",
-  "KT엠모바일,중·고용량요금제가격낮췄다…30GB도월1만원대",
-  "KT,구글AI혜택결합한'초이스요금제'신규라인업출시",
-  "KT엠모바일,알뜰폰요금제34종인하…30GB도1만원대",
-  "[위클리오늘]KT,KT엠모바일(8.11)",
-  "\"데이터30GB가1만원대\"…KT엠모바일,요금제34종가격인하",
-  "KT엠모바일,요금제34종인하…1만원대에30GB데이터",
   "비용30%줄여도이익72%↓…LG헬로비전하반기도'먹구름'",
   "우리WON모바일,청년드림요금제가입하면체감가'0원'",
   "[금융]iM뱅크어린이미술대회/iM뱅크고졸취업지원/미래에셋증권...",
@@ -6062,7 +6051,18 @@
   "[사진]김현수,번트파울플라이에호수비",
   "[사진]박찬혁'3점포로앞서간다'",
   "도성훈교육감,성헌고동문들과인천교육미래논의",
-  "리노공업노사,단식농성놓고공방…사측\"압박\"노조\"대화요구\""
+  "리노공업노사,단식농성놓고공방…사측\"압박\"노조\"대화요구\"",
+  "[사진]오원석볼넷에마운드오르는제춘모코치",
+  "[사진]김상수,통산2000경기출장과함께2루타",
+  "[사진]허경민맞이하는이강철감독",
+  "[KBL유소년]'데뷔경기에서만점활약'SKU12마시현이보여준게임체...",
+  "[사진]장진혁,'추격의희생타'",
+  "[사진]김상수'시간끌어보려했는데..'",
+  "[사진]장진혁,'희생타로추격한다'",
+  "[사진]제춘모코치'오원석자신감을가져!'",
+  "김민석,호남서57.54%압승…정청래와24.89%p격차",
+  "'호남결전'승기잡은김민석…누적14%p격차로당권8부능선넘었다",
+  "[k2.live]수원더비가중요한또다른이유...'커피더비'앞두고이정..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
