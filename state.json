@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=440534",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=128089",
-  "http://www.newsdream.kr/news/articleView.html?idxno=116003",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31427",
-  "http://www.popcornnews.net/news/articleView.html?idxno=129206",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167722",
-  "https://news.mtn.co.kr/news-detail/2026081014160469372",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635316",
   "https://www.newscammp.co.kr/news/articleView.html?idxno=6712",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703272",
   "http://www.weeklytoday.com/news/articleView.html?idxno=789781",
@@ -3000,9 +2992,17 @@
   "https://www.ekn.kr/web/view.php?key=20260815020403176",
   "http://www.metroseoul.co.kr/article/20260815500026",
   "https://www.mk.co.kr/article/12128787",
-  "https://www.inven.co.kr/webzine/news/?news=319581"
+  "https://www.inven.co.kr/webzine/news/?news=319581",
+  "https://www.segye.com/newsView/20260814513937?OutUrl=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3665779",
+  "https://www.yna.co.kr/view/AKR20260815043900004?input=1195m",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150637&t=NN",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/514864",
+  "https://www.nocutnews.co.kr/news/6563534",
+  "https://www.kado.net/news/articleView.html?idxno=2066871",
+  "https://www.sedaily.com/article/20079812"
  ],
- "last_run": "2026-08-15T20:01:11.733334+09:00",
+ "last_run": "2026-08-15T20:05:47.390173+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3060,17 +3060,13 @@
   [
    "2026-08-15T19:00:41.528181+09:00",
    "스페이스X 210억 지분 보유 300억 달러 인텔"
+  ],
+  [
+   "2026-08-15T20:05:20.487163+09:00",
+   "태양광 14조 김기혁의 전쟁 머스크의 거침없는 24조 쩐의"
   ]
  ],
  "seen_titles": [
-  "[뉴스워커_우리은행]'우리WON모바일',청년요금제가입자에네이버페...",
-  "\"통신비0원의기적\"…우리WON모바일,8월청년파격이벤트전격개시",
-  "우리은행,우리WON모바일'청년드림요금제'신규가입이벤트",
-  "KB금융,데이터기반지방상권분석보고서발간外",
-  "우리WON모바일,청년드림요금제가입이벤트진행",
-  "대포폰막자'원스트라이크아웃'…알뜰폰·유통점\"처벌만이능사냐\"",
-  "알뜰폰5G도매대가내린다더니…고가요금제는'쏙'",
-  "[은행브리핑]하나은행,독립유공자위한공익신탁MOU외",
   "우리은행알뜰폰,19~39세통신비낮춘다…'체감가0원'이벤트",
   "우리은행,알뜰폰청년요금제0원이벤트",
   "[금융권소식]신한은행ㆍ하나은행ㆍ우리은행(8.10)",
@@ -6062,7 +6058,15 @@
   "“경쟁은남기고피로도는낮춘다”…‘제우스’vs‘이클립스’",
   "與8·17전대,김민석호남에서57.54%득표로누적득표율'과반'고지...",
   "“헬스장예약해줘”AI에게맡겼더니생긴일…앞사람대기자명단서...",
-  "[인터뷰]요시다슈헤이대표\"한국인디게임계,매년눈에띄게성장..."
+  "[인터뷰]요시다슈헤이대표\"한국인디게임계,매년눈에띄게성장...",
+  "갑작스러운옆구리통증에혈뇨까지…여름철‘요로결석’주의",
+  "강화군,서울예술대산학협력단과문화예술발전업무협약체결",
+  "[날씨]연휴둘째날전국에비…남부·제주최대200㎜이상폭우",
+  "'고점론'에줄줄이낮췄는데…\"삼전닉스극단적저평가\"뚝심보인이유...",
+  "‘5만전자주주’김종국“30년동안재테크한번도한적없어”(옥...",
+  "김민석,민주당전남광주경선57.04%압승…정청래31.84%",
+  "\"대통령이름도틀린무안군의회\"…제주항공참사유가족\"무관심일관...",
+  "반도체24조·태양광14조...머스크의거침없는‘쩐의전쟁’[김기혁의..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
