@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=227476",
-  "http://www.cctimes.kr/news/articleView.html?idxno=921875",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209961",
-  "https://www.usmbc.co.kr/NewsArticle/856807",
-  "https://www.asiatime.co.kr/article/20260814500410",
-  "https://www.mt.co.kr/industry/2026/08/14/2026081414371397278",
-  "http://www.breaknews.com/1229188",
-  "https://www.hellot.net/news/article.html?no=114383",
-  "https://www.huffingtonpost.kr/article/259605",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=857095",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693288",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=857084",
@@ -3000,9 +2991,18 @@
   "https://www.iusm.co.kr/news/articleView.html?idxno=1066769",
   "https://news.tf.co.kr/read/economy/2354268.htm",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000003701&cp=nv",
-  "https://www.news1.kr/economy/trend/6260961"
+  "https://www.news1.kr/economy/trend/6260961",
+  "https://www.newsgn.com/news/articleView.html?idxno=568212",
+  "https://www.asiatime.co.kr/article/20260817500074",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307283",
+  "https://www.dt.co.kr/article/12078577",
+  "https://www.tokenpost.kr/news/cryptocurrency/391992",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638313",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000003703&cp=nv",
+  "https://thedrive.co.kr/news/newsview.php?ncode=1065598883726413",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260817010005402"
  ],
- "last_run": "2026-08-17T16:45:56.861762+09:00",
+ "last_run": "2026-08-17T16:50:56.642224+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3231,15 +3231,6 @@
   ]
  ],
  "seen_titles": [
-  "아바코,'피지컬AI'스마트물류시스템개발·실증완료…첨단제조공...",
-  "\"3년만의흑자전환\"…새빗켐,사업구조체질개선성과본격화",
-  "신성에스티,2분기매출598억원…북미ESS사업본격화",
-  "에코앤드림,매출364억1000만원,영업손실60억4000만원",
-  "K-철강,고부가가치·신사업'투트랙'으로활로찾는다",
-  "고려아연자회사케이잼,배터리용동박첫공급",
-  "[AT인터뷰]“막힌혈관뚫는해결사될것”…이부형경북도정무실장...",
-  "써모아이,Pre-A투자유치완료…열화상기술기반사업확대본격화",
-  "충북대,이차전지데이터심화분석부트캠프통해AI융합인재육성",
   "[봇규의헬로BOT]‘AI자산’된1295개프로젝트...노하우·경험으로상...",
   "구자균LS일렉트릭'전략변환장치집중'적중했다:LG엔솔협업으로'E...",
   "[공시]에코프로비엠,반기매출약1조1821억원",
@@ -6230,7 +6221,16 @@
   "울산상장사29곳중20곳상반기영업익개선",
   "R&D·투자세액공제지방은최대1.5배…지방銀기업대출'새먹거리'되...",
   "[단독]전기차보조금,상반기에만71%소진…3분기엔동날듯",
-  "[이번주경제]반도체호황에성장률전망상향되나…가계부채2000조돌..."
+  "[이번주경제]반도체호황에성장률전망상향되나…가계부채2000조돌...",
+  "국힘지도부,밀양가뭄현장점검…'의전논란'여야공방도",
+  "[은행뉴스브리핑]하나은행인천지역경제회복·성장지원",
+  "기부금대신개발자보낸다···게임사의지속가능사회공헌활동'주...",
+  "공공클라우드민감등급영역분리두고IT업계이견",
+  "1억명넘긴젠플로우,바이두쿠쿠AI로정했다",
+  "경북도,이차전지재자원화기업입주추진",
+  "‘메이드인유럽’강화하는EU…K배터리,공급망재편틈새노린다",
+  "“가솔린보다세고연비는25%↑”GV80첫하이브리드실내포착",
+  "'유전자치료'담는첨단재생의료…정부,법적근거마련에R&D지원"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
