@@ -1,7 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=714726",
   "https://www.cbci.co.kr/news/articleView.html?idxno=599913",
   "http://www.yonhapnewstv.co.kr/news/MYH20260820211735MvC",
   "https://www.donga.com/news/Society/article/all/20260820/134515889/2",
@@ -3000,9 +2999,10 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260822182715c2w",
   "https://www.sportschosun.com/baseball/2026-08-22/202608220100131130008373",
   "https://www.ytn.co.kr/_ln/0104_202608221831101277",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546463"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546463",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608220375&t=NN"
  ],
- "last_run": "2026-08-22T18:35:58.078938+09:00",
+ "last_run": "2026-08-22T18:40:53.837710+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3055,7 +3055,6 @@
   ]
  ],
  "seen_titles": [
-  "KT'2026Y트렌드'키워드공개vsLGU+'Simply.U+'레드닷어워드수상",
   "방탄소년단(BTS)정국에84억원하이브주식탈취총책...'징역20년선고...",
   "BTS정국·재력가노려380억탈취…해킹총책징역20년",
   "불법수집개인정보로380억원해킹·탈취한중국인,징역20년",
@@ -6054,7 +6053,8 @@
   "빨라진'개각시계'…집권2년차공직기강'고삐'",
   "\"귀신에홀렸지.그걸어떻게예상하나?\"천하의김경문도놀란한화저...",
   "\"앤트로픽,기업가치2조달러IPO추진\"...성공하면스페이스X제친다",
-  "“오빠해봐요”아동학대무혐의"
+  "“오빠해봐요”아동학대무혐의",
+  "'삼전닉스'에또도전나선다…추격하는中반도체,'6.8조'역대급상장..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
