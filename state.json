@@ -1,8 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.breaknews.com/1230578",
-  "https://www.tokenpost.kr/news/cryptocurrency/394804",
   "https://www.koreajoongangdaily.com/bilingual-news/three-mistakes-by-the-lee-administrations-economic-team-kor/12836458",
   "https://www.gukjenews.com/news/articleView.html?idxno=3670720",
   "https://www.the-today.com/news/articleView.html?idxno=88726",
@@ -3000,9 +2998,11 @@
   "https://www.news1.kr/industry/distribution/6264605",
   "https://www.edaily.co.kr/News/Read?newsId=01111926645550272&mediaCodeNo=257",
   "https://view.asiae.co.kr/article/2026082109493257298",
-  "https://www.news1.kr/local/kangwon/6266456"
+  "https://www.news1.kr/local/kangwon/6266456",
+  "https://www.ikbc.co.kr/article/view/kbc202608230004",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479646"
  ],
- "last_run": "2026-08-23T07:36:00.711092+09:00",
+ "last_run": "2026-08-23T07:40:52.583469+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3087,8 +3087,6 @@
   ]
  ],
  "seen_titles": [
-  "장동혁국민의힘당대표,제정신?...“오너총재시대는오래전끝났다...",
-  "11.05%성장전망대만,AI반도체의존도시험대",
   "ThreemistakesbytheLeeadministration’seconomicteam(KOR)",
   "'맞춤형건강기능식품,제도에서시장으로'컨퍼런스서울코엑스개최",
   "中'육장망'건설본격화…25조위안투자시장열린다",
@@ -6086,7 +6084,9 @@
   "\"추석이빨라졌다\"…유통업계,명절소비선점경쟁",
   "민주당수도권의원들,‘부동산고위당정’에촉각[오늘의여의도]",
   "[사이언스스코프]전기차는정말친환경일까…①과학은자동차의'평생'...",
-  "라면·의료기기·메모리반도체…다양한효자품목에원주수출'역대최..."
+  "라면·의료기기·메모리반도체…다양한효자품목에원주수출'역대최...",
+  "'AI강국'중국서로봇운동회개막…2000여대참가",
+  "에코프로,2차전지밸류체인완성…글로벌공급망승부수"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
