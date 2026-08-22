@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260821000663",
-  "https://www.newspim.com/news/view/20260821000662",
-  "https://www.newsis.com/view/NISI20260821_0021406461",
-  "https://www.newsis.com/view/NISI20260821_0021406462",
-  "https://www.newsis.com/view/NISI20260821_0021406460",
-  "https://www.news1.kr/photos/8066540",
-  "https://www.news1.kr/photos/8066538",
-  "https://www.yna.co.kr/view/PYH20260821097600013?input=1196m",
-  "https://www.news1.kr/photos/8066544",
   "https://www.news1.kr/photos/8066536",
   "https://www.newspim.com/news/view/20260821000635",
   "https://www.etoday.co.kr/news/view/2616856",
@@ -3000,9 +2991,18 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431345",
   "https://www.yna.co.kr/view/AKR20260821080300054?input=1195m",
   "https://www.ytn.co.kr/_ln/0101_202608220525120610",
-  "https://imnews.imbc.com/news/2026/politics/article/6846469_36911.html"
+  "https://imnews.imbc.com/news/2026/politics/article/6846469_36911.html",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431346",
+  "https://biz.sbs.co.kr/article_hub/20000330079?division=NAVER",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260823.99099006141",
+  "https://www.m-i.kr/news/articleView.html?idxno=1404850",
+  "https://www.sedaily.com/article/20082075",
+  "https://www.hankyung.com/article/2026082157487",
+  "https://www.sisajournal.com/news/articleView.html?idxno=384441",
+  "https://biz.chosun.com/policy/policy_sub/2026/08/21/THCKQ7PDA5GGHCRRSZUSRCQMRY/",
+  "https://www.yna.co.kr/view/AKR20260821180400001?input=1195m"
  ],
- "last_run": "2026-08-23T08:10:49.307905+09:00",
+ "last_run": "2026-08-23T08:15:49.038208+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3111,15 +3111,6 @@
   ]
  ],
  "seen_titles": [
-  "규제합리화위원회기획조정특별분과간담회,발언하는한성숙총리",
-  "한성숙국무총리,규제합리화위원회기획조정특별분과간담회주재",
-  "한성숙총리,규제합리화위원회기획조정특별분과위원회와간담회",
-  "총리,규제합리화위원회기획조정특별분과간담회",
-  "한총리,규제합리회위원회기획조정특별분과위원과간담회",
-  "규제합리화위원회기획조정특별분과위원들과기념촬영하는한성숙총...",
-  "한성숙국무총리,규제합리화위원회기획조정특별분과오찬간담회주재",
-  "규제합리화위원회위원들과오찬간담회나선한성숙총리",
-  "규제합리화위원회기획조정특별분과오찬간담회주재하는한성숙총리",
   "박용진부위원장발언듣는한성숙총리",
   "한성숙총리\"규제합리화,첫주례회동핵심어젠다였다…창의·자율성...",
   "한총리“관행에가려진규제찾아라”…창업·벤처규제개선속도",
@@ -6110,7 +6101,16 @@
   "'적자성채무'1천조인데추가세수로미래투자…재정건전성논란재점...",
   "가시화된전남광주통합시조직개편안놓고공무원노조'온도차'",
   "한총리,서울구청장만나\"신속한주택공급에집중\"",
-  "한성숙총리,서울구청장들만나주택공급방안논의"
+  "한성숙총리,서울구청장들만나주택공급방안논의",
+  "예탁금한방에단일종목레버리지거래'뚝'…사이드카는계속",
+  "호주셰일가스승부수…비탈루가스첫공급",
+  "다음주김건희‘매관매직’2심첫공판…‘헌법재판관미임명’한덕...",
+  "與김민석지도부출범후첫고위당정…예산안·부동산논의주목",
+  "서울구청장만난韓총리“모든수단활용주택공급집중”",
+  "韓총리,서울구청장들과간담회…\"주택공급에모든수단활용\"",
+  "韓총리,서울구청장간담회서'주택공급속도전'주문",
+  "韓총리,서울구청장들만나“주택공급에모든수단동원”",
+  "韓총리,서울구청장들과주택공급간담회…\"부동산안정에총력\""
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
