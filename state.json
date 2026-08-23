@@ -1,10 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.news1.kr/sports/soccer/6266479",
-  "https://www.newspim.com/news/view/20260822000124",
-  "https://www.mydaily.co.kr/page/view/2026082222172682838",
-  "https://www.kyeongin.com/article/1769418",
   "https://www.sportsseoul.com/news/read/1630088",
   "https://www.edaily.co.kr/News/Read?newsId=03565366645549616&mediaCodeNo=257",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190132.html",
@@ -3000,9 +2996,13 @@
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260824.22023006391",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260824.22021006388",
   "https://www.dailian.co.kr/news/view/1681239/?sc=Naver",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260824.22005006330"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260824.22005006330",
+  "https://www.kyeongin.com/article/1769471",
+  "https://www.kyeongin.com/article/1769467",
+  "http://www.kwangju.co.kr/article.php?aid=1787481600802570006",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260823193920b4e"
  ],
- "last_run": "2026-08-23T19:41:00.143958+09:00",
+ "last_run": "2026-08-23T19:45:47.780959+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3311,10 +3311,6 @@
   ]
  ],
  "seen_titles": [
-  "송석준국회외교통일위원장,태국대사만나\"한-태경제협정올해안에...",
-  "'갤럭시Z'앞세운삼성전자,시장침체에도출하량선두탈환",
-  "서울시립대,후기학위수여식…1138명새출발",
-  "닛케이0.3%하락6.6만엔선…美日금리상승부담",
   "루빈·톰리,9월서울서이더리움기관논의",
   "삼성,2분기이어연간스마트폰출하량도세계1위되찾을듯",
   "이더리움공동창립자루빈,비트마인톰리의장과다음달나란히방한",
@@ -6310,7 +6306,11 @@
   "[사설]교부금개편·기금신설,미래투자·재정효율화균형을",
   "[해양수산칼럼]북극항로와참다랑어",
   "\"우사인볼트보다빠르다니\"…100m9초39에달린中로봇",
-  "당정서존재감키우는김민석“비거주1주택개편숙의”(종합)"
+  "당정서존재감키우는김민석“비거주1주택개편숙의”(종합)",
+  "반도체·석유제품동시부진…인천수출증가세0.3%둔화",
+  "[뉴스분석]미래대응기금,교부세불교부구조개선에영향주나",
+  "전남광주통합은했지만…공무원사회는지금도‘부글부글’",
+  "삼성,올해애플제치고스마트폰1위탈환기대"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
