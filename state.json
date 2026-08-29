@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3011028",
-  "https://www.donga.com/news/Politics/article/all/20260828/134565014/1",
-  "https://www.sisaweek.com/news/articleView.html?idxno=237584",
-  "https://www.sedaily.com/article/20084583",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50170",
-  "http://www.osen.co.kr/article/G1112865475",
-  "https://www.mediapen.com/news/view/1119692",
-  "https://dgmbc.com/NewsArticle/859305",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004537",
   "https://www.joongangenews.com/news/articleView.html?idxno=543789",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=253227",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=906454",
@@ -3000,9 +2991,18 @@
   "https://www.mk.co.kr/article/12138687",
   "https://www.namdonews.com/news/articleView.html?idxno=921506",
   "http://www.gocj.net/news/articleView.html?idxno=151722",
-  "https://www.vegannews.co.kr/news/article.html?no=385110"
+  "https://www.vegannews.co.kr/news/article.html?no=385110",
+  "https://www.koreadaily.com/article/20260828172805677",
+  "https://www.edaily.co.kr/News/Read?newsId=01895846645552240&mediaCodeNo=257",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423392",
+  "https://www.aitimes.com/news/articleView.html?idxno=214596",
+  "https://www.tokenpost.kr/news/breaking/400157",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3678105",
+  "https://www.viva100.com/article/20260829500029",
+  "https://www.insight.co.kr/news/570790",
+  "https://www.dailian.co.kr/news/view/1683943/?sc=Naver"
  ],
- "last_run": "2026-08-29T09:25:55.804440+09:00",
+ "last_run": "2026-08-29T09:31:05.406877+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3143,15 +3143,6 @@
   ]
  ],
  "seen_titles": [
-  "대웅제약,'대웅얼라이언스'와병·의원공략확대한다",
-  "SKT·카카오·KT,'모두의AI'사업자선정",
-  "'국제지구과학올림피아드'서한국대표단전원메달",
-  "국가통합바이오빅데이터구축사업단,대학생서포터즈2기출범",
-  "野산자위,호남반도체관련“이재용·최태원불러청문회열것”",
-  "SKT·KT·카카오,'모두의AI'사업자선정…일상생활서AI확산한다",
-  "전화·메신저·IPTV더똑똑하게…‘모두의AI’연내나온다",
-  "SKT,국민AI서비스만든다…10월베타서비스계획",
-  "'미리보는KS'삼성-KT전,그라운드사정취소...내일페덱-로건선발...",
   "대구삼성-KT,광주KIA-SSG,대전한화-NC,사직롯데-LG경기우천취소",
   "비로밀린'미리보는한국시리즈'…삼성,김백산아닌페덱선발로연...",
   "결국잠실도그라운드사정으로…KBO전경기취소날벼락,정규시즌일...",
@@ -6142,7 +6133,16 @@
   "“시간이얼마없다”오픈AI·앤트로픽등빅테크기업들이경고한이...",
   "[특징주]SK텔레콤,데이터센터확장기대에상승…목표가25%↑",
   "KAIST,\"신약설계해줘\"...소버린바이오AI'K-Fold'공개",
-  "한국은행,반도체호황에성장률전망3.3%로상향"
+  "한국은행,반도체호황에성장률전망3.3%로상향",
+  "\"기술검증부터합작까지\"...韓모빌리티9개사,브라질시장정조준",
+  "‘정부쌈짓돈’논란,맞을까…미래대응기금뜯어보니[청와대머니워치...",
+  "\"누군10분만에끝내고누군며칠걸려\"···AI가만든새로운'격차'",
+  "텐센트,차세대모델'Hy4프리뷰'오픈출시로기업용시장정조준",
+  "창신메모리,미국방부군관련명단지정소송",
+  "충북대등5개대학생20명,이차전지현장학습초급과정참여",
+  "인천시,‘AI물류’스피드플로어에10억투자…성장펀드로혁신기업...",
+  "\"택배들고고생하는할머니보다가...\"11살초등생이만든'문고리'대...",
+  "한국대표단,제19회국제지구과학올림피아드전원‘메달’"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
