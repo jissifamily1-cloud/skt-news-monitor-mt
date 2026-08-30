@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.mk.co.kr/article/12139800",
-  "https://www.newsis.com/view/NISX20260830_0003768434",
-  "http://www.osen.co.kr/article/G1112866372",
-  "https://www.vegannews.co.kr/news/article.html?no=385367",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4082523",
-  "https://www.hankyung.com/article/2026083014301",
-  "https://www.insight.co.kr/news/570932",
-  "https://biz.chosun.com/industry/business-venture/2026/08/30/FICOG35RBJH3DBWOGMIU72QCGI/",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215770",
   "http://www.metroseoul.co.kr/article/20260830500255",
   "https://www.hankyung.com/article/2026083014161",
   "https://www.joongangenews.com/news/articleView.html?idxno=543927",
@@ -3000,9 +2991,18 @@
   "https://www.sportschosun.com/basketball/2026-08-31/202608310100182760011885",
   "https://www.dt.co.kr/article/12080981",
   "https://www.yna.co.kr/view/AKR20260828038400003?input=1195m",
-  "https://www.news1.kr/industry/sb-founded/6272926"
+  "https://www.news1.kr/industry/sb-founded/6272926",
+  "https://www.mk.co.kr/article/12139803",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=762674",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608281852306200783",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608281127128740707",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63577",
+  "https://www.sedaily.com/article/20084886",
+  "https://www.greened.kr/news/articleView.html?idxno=348766",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608281818507760776",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608281425436420719"
  ],
- "last_run": "2026-08-31T06:21:10.430759+09:00",
+ "last_run": "2026-08-31T06:25:47.307362+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3051,15 +3051,6 @@
   ]
  ],
  "seen_titles": [
-  "조국혁신당김형연최고,이해민'靑AI수석내정'에비례대표의원직...",
-  "[오!쎈인터뷰]“이제는증병해야할때”…’커즈’문우찬의PO출사...",
-  "“로밍과현지이심,무엇이다를까”…출국전비교기준",
-  "내년청년예산43조원…지방취업·주거·자산형성지원대폭확대",
-  "아주대학교,AI컴퓨터공학부출범…지역의사전형첫도입",
-  "\"1만원이면몰카다잡는다\"...카이스트가개발한스마트폰부착형AI...",
-  "中企업계가이소영에바라는것…“민간벤처투자·소상공인회복·기업...",
-  "최태원\"청년들,한·일오가며일하게하자…경제공동체로저출산돌파...",
-  "이대통령,집권2년차경제라인교체…정치인발탁으로정책'속도감...",
   "우송대학교,모든학과교차지원…입증된글로벌경쟁력",
   "신한지주이사회,기관투자자와라운드테이블개최...진옥동\"투자자들...",
   "서산시,공직자인공지능활용역량강화⋯정보화교육추진",
@@ -6050,7 +6041,16 @@
   "드림팀만든일본남자농구.더욱충격적발표.12명의선수,무려23명...",
   "[기고]양자와AI의만남,공진화시대가온다",
   "AI·로봇일상화성큼…유럽최대가전전시회IFA9월개막",
-  "동진쎄미켐,반도체가끌고中매각밀었다…상반기순익급증이유[실..."
+  "동진쎄미켐,반도체가끌고中매각밀었다…상반기순익급증이유[실...",
+  "엔트로픽상장기대감···SKT주가다시달리나",
+  "애플계정해킹으로수백만원무단결제피해속출...2차인증까지뚫린...",
+  "[대경초대석](2)지반조사·공동탐사미래형플랫폼추진…AI기법도...",
+  "건설인력도‘데이터매칭’으로…일용직채용달라진다",
+  "청와대신임인사·국가AI전략위원회부위원장프로필",
+  "미국연준회의록에AI언급급증···물가·고용영향주시",
+  "최태원회장\"저출산해법은경제공동체수준협력강화\"...'결혼의향'...",
+  "[절벽앞건설산업]③사라진일자리...건설의‘고용없는반등’",
+  "건축ㆍ토목설계일감도쏟아진다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
