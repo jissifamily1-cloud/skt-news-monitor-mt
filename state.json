@@ -1,13 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=543895",
-  "https://biz.heraldcorp.com/article/10856327",
-  "https://www.dt.co.kr/article/12080877",
-  "https://www.mt.co.kr/industry/2026/08/30/2026083010325791505",
-  "https://kpenews.com/View.aspx?No=4204485",
-  "https://view.asiae.co.kr/article/2026082717390534533",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577211099304",
   "https://www.chosun.com/economy/money/2026/08/30/C4LDMGV2RFHS3PRFA75SGJ4NWI/",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262765&CMPT_CD=P0010",
   "https://www.seoultimes.news/news/article.html?no=2000099296",
@@ -3000,19 +2993,18 @@
   "https://www.wikitree.co.kr/articles/1156044",
   "http://www.gnmaeil.com/news/articleView.html?idxno=593753",
   "https://www.donga.com/news/Politics/article/all/20260830/134571499/1",
-  "http://www.gnmaeil.com/news/articleView.html?idxno=593769"
+  "http://www.gnmaeil.com/news/articleView.html?idxno=593769",
+  "https://www.etoday.co.kr/news/view/2619444",
+  "https://www.etoday.co.kr/news/view/2619510",
+  "https://www.tokenpost.kr/news/ai/400700",
+  "https://www.tokenpost.kr/news/ai/400701",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358132",
+  "https://www.ytn.co.kr/_ln/0102_202608302114170255",
+  "https://www.khan.co.kr/article/202608302114015"
  ],
- "last_run": "2026-08-30T21:16:01.917119+09:00",
+ "last_run": "2026-08-30T21:21:04.900276+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-08-30T15:15:32.569245+09:00",
-   "유입 트럼프 금지 ESS 질주 외국산 예감 현지생산"
-  ],
-  [
-   "2026-08-30T15:15:32.569245+09:00",
-   "숙제로 완성차 로봇은 5사 임단협 수순 마무리 정년"
-  ],
   [
    "2026-08-30T15:25:24.977252+09:00",
    "끌어올려야 내정자 대한민국 국력 2대 이해민 단계"
@@ -3220,16 +3212,13 @@
   [
    "2026-08-30T20:35:23.051003+09:00",
    "모델 공개됐다 실체 아스트라 차세대"
+  ],
+  [
+   "2026-08-30T21:20:33.025847+09:00",
+   "돌아온 살아남은 김용범"
   ]
  ],
  "seen_titles": [
-  "옛것을본받되새롭게…권원덕,나무에새긴'법고창신'의시간",
-  "[힘내라K산업]④최윤범'트로이카드라이브'결실에도…주총앞두고'...",
-  "안성일죽면로봇관련창고화재…소방대원1명경상",
-  "李정부2기개각임박…법무·중기채우고'경제·금융라인'연쇄이동...",
-  "오픈AI,스페이스X인수된'커서'계약해지…올트먼·머스크또신경전",
-  "SKT,3조800억원투자유치…AI데이터센터'SK호라이즌'신설",
-  "LG유플러스,글로벌'여행동맹'합류…해외혜택넓힌다",
   "‘생애첫차’굴레벗고차급파괴한아반떼…첨단사양·품격올리고...",
   "'전남광주미래산업박람회'내달2일개최...로봇·드론·헬스기업총집...",
   "한화,우주콘퍼런스서“한국판스페이스X필요”공감대",
@@ -6222,7 +6211,14 @@
   "아이폰18프로예약판매9월12일로하루연기…9·1125주년겹친탓",
   "김해복음병원,부인과로봇·응급수술체계강화",
   "6명중4명이70~90년대생…‘젊어진내각’싸늘해진청년민심되돌릴까",
-  "[사설]'아나바다'탄소중립실천,기후재난극복책"
+  "[사설]'아나바다'탄소중립실천,기후재난극복책",
+  "통신3사모두올라탄‘모두의AI’…통신망이어AI관문잡는다[모두...",
+  "AIDC사업따로키운다…SKT·네이버‘별도법인’승부수",
+  "1300억달러AI센터75건,미반발에지연·취소",
+  "10억달러GPU부채,AI인프라금융으로번졌다",
+  "李정부2기내각…경제는'관료',개혁은'강경파'전진배치",
+  "이형일경제부총리후보자\"잠재성장률반등·양극화극복최선다할것...",
+  "살아남은김용범,돌아온하정우"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
