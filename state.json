@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=41646",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721903",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271855173150667",
-  "http://www.inews24.com/view/1999175",
-  "http://www.newstomato.com/ReadNews.aspx?no=1311728&inflow=N",
-  "https://biz.chosun.com/it-science/ict/2026/08/27/2KN73IEUUFEQFC4JHAB4CEYHJI/",
-  "https://www.asiatime.co.kr/article/20260827500326",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=94339",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406836",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445749",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481093",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201091",
@@ -3000,9 +2991,18 @@
   "https://www.namdonews.com/news/articleView.html?idxno=921845",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=644407",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8650693",
-  "https://www.etnews.com/20260831000369"
+  "https://www.etnews.com/20260831000369",
+  "https://platum.kr/archives/293577",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208263",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2465051",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89693",
+  "https://www.newsjeju.net/news/articleView.html?idxno=425185",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=644406",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=644376",
+  "https://www.ktv.go.kr/content/view?content_id=760252",
+  "https://www.namdonews.com/news/articleView.html?idxno=921847"
  ],
- "last_run": "2026-08-31T20:01:21.824234+09:00",
+ "last_run": "2026-08-31T20:05:55.118165+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3483,15 +3483,6 @@
   ]
  ],
  "seen_titles": [
-  "빅리그복귀한송성문,1타점·1볼넷·1도루활약…샌디에이고는3연패",
-  "보조배터리'미신고선적'손보나···칼빼든해운업계",
-  "브리즘,문정비즈밸리에17번째국내직영점…전문직·직장인공략",
-  "[위클리오늘]민경선고양시장,LH신도시사업1처장면담…창릉·탄현...",
-  "창신대,16개학과19개모집단위669명선발",
-  "경남도,\"기업·대학협력,교육·연구에서취업·정주까지확대\"",
-  "입셀\"iPSC연골세포치료제,재생가능성확인…상용화박차\"",
-  "여수시,'대한민국SNS대상'온라인투표참여이벤트",
-  "또살아남은송미령장관…전농\"농민만외면한개각\"",
   "강훈식,조희대대법원장부친상조문...李대통령위로전달",
   "오픈AI,국내첫'게임빌더스서울'개최",
   "전남광주시의회반도체특위,전력·용수·인력대책집중점검",
@@ -6482,7 +6473,16 @@
   "전남광주첫조직개편조례안,시의회기재위서심사",
   "[경일시론]우물안중소기업,글로벌화가살길이다",
   "[경제톡톡]한국은행2달연속금리인상…자산배분전략은?",
-  "손홍래조선대교수팀,반도체소재적용가능한실록산고분자개발…..."
+  "손홍래조선대교수팀,반도체소재적용가능한실록산고분자개발…...",
+  "국민성장펀드직접투자5곳,기업은어떻게후보가되나",
+  "[김승주교수칼럼]국가사이버보안컨트롤타워는무엇을해야하는가",
+  "박상현도의원,원종중앙시장에'뉴트로경관'접목모색",
+  "NCAI,사우디IT전시회서피지컬AI기술력알린다",
+  "제주첫전국장애인체전11일앞두고…31일최종점검",
+  "[경일춘추]반려동물시대예찬,고양이집사의고백",
+  "경상국립대,AI기반우주태양전지국책과제참여",
+  "과기원·출연연인력확대···우수연구자연1억지원",
+  "민형배\"전남광주성공이대한민국성공\"…5조기금운용책임"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
