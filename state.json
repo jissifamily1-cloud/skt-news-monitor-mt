@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112869011",
-  "https://www.sportschosun.com/baseball/2026-09-03/202609030100026210001519",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3074129",
-  "http://www.sisacast.kr/news/articleView.html?idxno=99587",
-  "https://www.segye.com/newsView/20260903515801?OutUrl=naver",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=644684",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=644686",
-  "https://www.segye.com/newsView/20260903515802?OutUrl=naver",
-  "https://www.insight.co.kr/news/571833",
   "https://news.jtbc.co.kr/article/NB12316624?influxDiv=NAVER",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008736908&plink=ORI&cooper=NAVER",
   "https://www.dt.co.kr/article/12082050",
@@ -3000,9 +2991,18 @@
   "https://www.cstimes.com/news/articleView.html?idxno=719351",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236599",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236597",
-  "https://www.khan.co.kr/article/202609040636001"
+  "https://www.khan.co.kr/article/202609040636001",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245411",
+  "https://www.edaily.co.kr/News/Read?newsId=04329606645576512&mediaCodeNo=257",
+  "https://www.todayeconomic.com/news/article.html?no=31980",
+  "https://www.etoday.co.kr/news/view/2621754",
+  "https://www.edaily.co.kr/News/Read?newsId=02355046645576840&mediaCodeNo=257",
+  "https://www.abcn.kr/news/articleView.html?idxno=91315",
+  "https://www.tfmedia.co.kr/news/article.html?no=206968",
+  "https://biz.chosun.com/international/international_general/2026/09/04/27IDOCN5PRCERHEDBX743Y52AA/",
+  "http://www.yonhapnewstv.co.kr/news/MYH202609040643561lP"
  ],
- "last_run": "2026-09-04T06:46:08.365535+09:00",
+ "last_run": "2026-09-04T06:50:59.444171+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3051,15 +3051,6 @@
   ]
  ],
  "seen_titles": [
-  "[사진]스리런김태연,1회부터기선제압",
-  "'이럴수가'한화8연패탈출서막?'문현빈펜스직격→김태연3점포'...",
-  "LG유플러스IT기기지원해AI역량키운다",
-  "하이트진로,조직운영전반혁신'AX리더육성과정'운영",
-  "러트닉‘반도체관세’예고…“美서안만들면대가각오”",
-  "인제대디자인연구소,인문사회연구소지원사업선정",
-  "마산자유무역지역'AI·에너지산단'변신",
-  "‘N%성과급’은빠졌지만…“신기술로고용변화땐쟁의대상”",
-  "LS일렉트릭,KT클라우드AIDC설계부터들어간다...실제발주땐전력기기...",
   "해운대'목줄풀린'대형견…소형견향해돌진",
   "바이트댄스,중국네이멍구에대규모AI데이터센터건설추진",
   "[기획]‘N%성과급’파업못한다",
@@ -6050,7 +6041,16 @@
   "한국교통안전공단\"SDV·미래차'소통기술'국제안전기준마련주도\"",
   "국회가바로잡은노조법,시행반년만에'발목'",
   "[지방이전시즌2]법무부·성평등부세종행,LH는17년만에재분리",
-  "김정관“미반도체관세‘불리하지않은대우’정신하에논의···대..."
+  "김정관“미반도체관세‘불리하지않은대우’정신하에논의···대...",
+  "이통3사5G광고는모두'위법'…과징금서갈렸다",
+  "정부\"티빙해킹범,탈취경로못찾아\"[일문일답]",
+  "SK텔레콤,수능D-77맞아‘수능응원백서’캠페인",
+  "뉴욕증시,금리인상베팅후퇴에상승…나스닥1.40%↑[상보]",
+  "美뉴욕이어로스앤젤레스도학생들AI사용금지",
+  "꿀을채밀하는황금빛벌집인가,태양광발전의미래인가?",
+  "월러연준이사\"8월물가둔화지속하면9월동결지지\"",
+  "뉴욕증시,금리인상우려완화에상승마감",
+  "[글로벌증시]美금리동결기대속뉴욕증시일제히1%대상승"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
