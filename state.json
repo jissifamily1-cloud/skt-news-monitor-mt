@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=88790",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1014158",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=707335",
-  "https://www.hellot.net/news/article.html?no=114739",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85445",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483464",
-  "http://www.newsdream.kr/news/articleView.html?idxno=117424",
-  "https://www.newsis.com/view/NISX20260903_0003774578",
-  "https://zdnet.co.kr/view/?no=20260902160544",
   "https://news.mtn.co.kr/news-detail/2026090309262127534",
   "https://www.edaily.co.kr/News/Read?newsId=01584246645577168&mediaCodeNo=257",
   "https://www.newspim.com/news/view/20260905000017",
@@ -3000,9 +2991,18 @@
   "https://www.dailymedi.com/news/news_view.php?wr_id=939744",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2438605",
   "https://www.the-today.com/news/articleView.html?idxno=89542",
-  "http://www.yonhapnewstv.co.kr/news/MYH202609052041074zY"
+  "http://www.yonhapnewstv.co.kr/news/MYH202609052041074zY",
+  "https://www.sportsworldi.com/newsView/20260905506419",
+  "https://www.sportschosun.com/baseball/2026-09-05/202609050100037150002392",
+  "https://www.newsis.com/view/NISI20260905_0021424825",
+  "https://www.newsis.com/view/NISI20260905_0021424809",
+  "https://www.newsis.com/view/NISI20260905_0021424811",
+  "https://www.newsis.com/view/NISI20260905_0021424821",
+  "https://www.newsis.com/view/NISI20260905_0021424812",
+  "http://www.stoo.com/article.php?aid=108724440795",
+  "https://www.newsis.com/view/NISI20260905_0021424824"
  ],
- "last_run": "2026-09-05T20:45:55.093155+09:00",
+ "last_run": "2026-09-05T20:50:54.353734+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3087,15 +3087,6 @@
   ]
  ],
  "seen_titles": [
-  "네이버,SKT제치고'보안AI'따냈다···700B급모델개발",
-  "[2026GGGF]이진수과기정통부AI정책기획관\"네이버가구글이긴건성...",
-  "에쓰오일,AI데이터센터액침냉각실증나선다",
-  "에퀴닉스,엔비디아와'분산형AI추론'승부수…인프라연결성강화",
-  "에쓰오일·KTNF·GST,AI데이터센터'열'잡는다···액침냉각상용화맞...",
-  "S-OIL,KTNF·GST와AI데이터센터액침냉각실증…국산밸류체인구축",
-  "에퀴닉스,엔비디아·투게더AI와기업용AI추론서비스공개",
-  "어플라이드인튜이션,사우디휴메인과피지컬AI도입전략적협력",
-  "에쓰오일,KTNF·GST와AI데이터센터액침냉각실증테스트추진",
   "S-OIL,KTNF·GST와AI데이터센터액침냉각실증",
   "마키나락스“제조현장반영된AI로완전자율공장구축”",
   "S-OIL,KTNF·GST와손잡고AI데이터센터'액침냉각'국산밸류체인구축",
@@ -6086,7 +6077,16 @@
   "의료AI활용연구활성화…'전문윤리심의체계'가동",
   "단양구경시장,QR코드로여는'AI단양여행'",
   "中닝샤,컴퓨팅파워·전력협동강화…녹색전력소비확대·전력사용...",
-  "'관세장벽'넘는다…미국서철강부터완성차까지"
+  "'관세장벽'넘는다…미국서철강부터완성차까지",
+  "호랑이‘형님들’의품격…양현종10승에김선빈동점타-나성범쐐기...",
+  "KIA연이틀대어잡았다!이범호감독,선수들줄줄이칭찬릴레이→\"...",
+  "김도영40홈런,'다음기회에'",
+  "KIA하주석'호수비'",
+  "나성범,'쐐기'투런포세리머니",
+  "6-3승리KIA,격려하는선수들",
+  "나성범,투런포세리머니",
+  "양현종시즌10승+나성범투런포…KIA,KT상대위닝시리즈확보",
+  "KIA,KT에6-3'승리'"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
