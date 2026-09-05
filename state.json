@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000332816?division=NAVER",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=226243",
-  "http://www.popcornnews.net/news/articleView.html?idxno=131923",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=226235",
-  "https://www.newspim.com/news/view/20260904000630",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=226231",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446435",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609040443&t=NNv",
-  "https://www.bloter.net/news/articleView.html?idxno=672407",
-  "http://www.press9.kr/news/articleView.html?idxno=82231",
   "https://www.koreaherald.com/article/10862994",
   "https://www.job-post.co.kr/news/articleView.html?idxno=226227",
   "https://www.newsis.com/view/NISX20260904_0003776598",
@@ -3000,9 +2990,19 @@
   "http://www.osen.co.kr/article/G1112870673",
   "http://www.osen.co.kr/article/G1112870675",
   "https://www.newstnt.com/news/articleView.html?idxno=716822",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217247"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5217247",
+  "https://www.ekn.kr/web/view.php?key=20260905022251010",
+  "http://www.metroseoul.co.kr/article/20260905500007",
+  "http://www.metroseoul.co.kr/article/20260904500285",
+  "https://www.bntnews.co.kr/article/view/bnt202609050153",
+  "https://www.seoul.co.kr/news/international/topic-global/2026/09/05/20260905500026?wlog_tag3=naver",
+  "https://www.newstnt.com/news/articleView.html?idxno=716816",
+  "https://www.hellot.net/news/article.html?no=114791",
+  "http://www.metroseoul.co.kr/article/20260905500030",
+  "https://www.edaily.co.kr/News/Read?newsId=02289446645577168&mediaCodeNo=257",
+  "http://www.metroseoul.co.kr/article/20260905500019"
  ],
- "last_run": "2026-09-05T19:55:46.665865+09:00",
+ "last_run": "2026-09-05T20:01:13.271561+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3115,16 +3115,6 @@
   ]
  ],
  "seen_titles": [
-  "이재용·최태원,28일뉴욕서젠슨황만난다…수상직접축하",
-  "이재용·최태원회장,오는28일뉴욕에서젠슨황CEO와회동왜?...트럼...",
-  "구광모상대파양청구기각…김영식여사\"끝까지방법찾을것\"",
-  "[미국특징주]엔비디아,허깅페이스129억3000만달러에인수확정",
-  "'유퀴즈'성과터졌다…연예인재출연구설딛고\"7년연속대한민국대...",
-  "[AI프리즘]G20무대에서큰소리친트럼프행정부…겉으론'AI주도'속...",
-  "엔비디아,허깅페이스130억달러에인수…오픈AI견제",
-  "젠슨황의승부수“미국AI인프라에1조달러투자”[글로벌모닝브...",
-  "엔비디아,최대규모M&A나서…허깅페이스130억달러에인수합의",
-  "엔비디아,허깅페이스129억3000만달러에인수…오픈소스플랫폼유지",
   "[단독]이재용-최태원,28일뉴욕서젠슨황과‘깐부회동’",
   "엔스케일,피규어에엔비디아GPU최대10만개35억달러공급…60억달러...",
   "[미국특징주]레노버·에이서,엔비디아RTX칩탑재첫윈도PC10월출...",
@@ -6114,7 +6104,17 @@
   "[사진]땅볼로물러나는김도영",
   "[사진]김도영,'안풀리네'",
   "원주시,의료기기기업과함께한'구인구직해피데이'성료…15개사현장...",
-  "[뉴스추적]호르무즈에천궁까지…거세지는트럼프'한국압박'"
+  "[뉴스추적]호르무즈에천궁까지…거세지는트럼프'한국압박'",
+  "삼성전자DX노조,이재용자택서뉴욕까지…보상격차에압박수위↑",
+  "광명시박승원시장,민선9기목민관클럽상임대표선출",
+  "부산지방중소기업청,‘중소기업AX우수사례’공모전접수",
+  "'가을의로맨틱함이성큼'…곽현주컬렉션이선사한플로럴감성",
+  "“○○전공이연봉1등”의학아니었다…반전결과나온‘이나라’...",
+  "중앙대주재범교수팀,소변35μL로'세포외소포체'정량분석기술개...",
+  "[헬로즈업]로봇이스스로움직이는공장…그뒤엔‘5G특화망’이있...",
+  "경기평택항만공사,평택해경등과제부마리나안전점검실시",
+  "관악구,청년·청소년·반려견과함께하는가을축제[동네방네]",
+  "수원특례시의회,제404회임시회서조례안·추경예산안심사"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
