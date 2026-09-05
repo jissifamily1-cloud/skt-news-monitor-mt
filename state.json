@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155680",
-  "https://www.xportsnews.com/article/2192178",
-  "https://www.xportsnews.com/article/2192180",
-  "https://www.newsis.com/view/NISI20260904_0021424170",
-  "https://www.yna.co.kr/view/PYH20260904167600061?input=1196m",
-  "https://www.newsis.com/view/NISI20260904_0021424168",
-  "https://www.xportsnews.com/article/2192179",
-  "https://www.newsis.com/view/NISI20260904_0021424169",
-  "https://sports.khan.co.kr/article/202609042030003?pt=nv",
-  "https://www.yna.co.kr/view/PYH20260904167100054?input=1196m",
   "https://www.xportsnews.com/article/2192175",
   "https://www.xportsnews.com/article/2192176",
   "https://www.xportsnews.com/article/2192177",
@@ -3000,9 +2990,19 @@
   "https://www.sedaily.com/article/20087419",
   "https://news.jtbc.co.kr/article/NB12316840?influxDiv=NAVER",
   "https://news.tf.co.kr/read/economy/2362328.htm",
-  "https://www.etnews.com/20260904000371"
+  "https://www.etnews.com/20260904000371",
+  "https://www.newsis.com/view/NISX20260904_0003777094",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169559",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484123",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723117",
+  "https://view.asiae.co.kr/article/2026090511022568186",
+  "http://weekly.chosun.com/news/articleView.html?idxno=54999",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/517182",
+  "https://www.pressian.com/pages/articles/2026090511014177364",
+  "https://www.sedaily.com/article/20087486",
+  "https://www.edaily.co.kr/News/Read?newsId=01958166645577168&mediaCodeNo=257"
  ],
- "last_run": "2026-09-05T11:05:51.166495+09:00",
+ "last_run": "2026-09-05T11:11:02.822611+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3151,16 +3151,6 @@
   ]
  ],
  "seen_titles": [
-  "한총리\"신축매입임대주택,전월세시장안정핵심사업\"",
-  "[LCK]\"롤드컵우리가간다!\"DK,KT누르고패자3R진출(종합)",
-  "이호연‘숨고르며’[포토]",
-  "허경민‘우중간안타’[포토]",
-  "3루타치는KIA이호연",
-  "기뻐하는이정현",
-  "KT위즈최원준안타",
-  "배제성‘6이닝무실점’[포토]",
-  "파울타구맞고쓰러진KIA하주석",
-  "올러,22년만에타이거즈진기록썼다…5회만에KT선발타자전원삼...",
   "2루타때리는김도영",
   "이호연‘날카로운타구’[포토]",
   "이호연‘빠졌다’[포토]",
@@ -6150,7 +6140,17 @@
   "500억들고서울에둥지유력…‘한국형인큐텔’윤곽",
   "네팔대홍수피해현장에구호자금135억보낸재벌누구?",
   "\"국내데이터센터,2030년까지18조원투자필요\"",
-  "[IFA2026]샤오미,휴머노이드'사이버원'첫해외공개…“작업성공률..."
+  "[IFA2026]샤오미,휴머노이드'사이버원'첫해외공개…“작업성공률...",
+  "입시업체가본올해관전포인트…N수생·지역의사[2027수시③]",
+  "삼성전자DX노조,이재용자택앞장기집회예고",
+  "웨이비스,GaNRF반도체국산화…방산핵심부품경쟁력키운다",
+  "삼성DX노조,이재용회장자택인근서장기집회…\"보상격차해소\"",
+  "삼전DX노조,이재용자택앞집회예고…\"보상격차해소하라\"",
+  "삼성전자DX노조,이재용자택앞집회예고…\"자사주1000주달라\"",
+  "기안84,‘잔고0원’소상공아이돌유스피어응원“잘하면뜨겠는데...",
+  "마이스터코지정이리공고찾은한병도…\"K-참단소재인재양성현실되도...",
+  "“비싸도너무비싸”…1년새60%가격올랐는데도주차자리가없다",
+  "\"손잡이없애고살림살이좀나아지셨습니까?\"[아車차]"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
