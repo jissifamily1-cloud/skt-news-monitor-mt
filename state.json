@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260906_0021425805",
-  "https://www.newsis.com/view/NISI20260906_0021425808",
-  "https://www.newsis.com/view/NISI20260906_0021425813",
-  "https://www.newsis.com/view/NISI20260906_0021425807",
-  "https://www.kukinews.com/article/view/kuk202609060036",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1097838",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1097839",
-  "https://biz.heraldcorp.com/article/10864027",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1097829",
-  "http://www.jndn.com/article.php?aid=1788683591439101003",
   "https://www.mk.co.kr/article/12145500",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1097910",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1097907",
@@ -3000,9 +2990,19 @@
   "https://sports.hankooki.com/news/articleView.html?idxno=6939189",
   "https://www.news1.kr/sports/baseball/6281514",
   "http://www.newslock.co.kr/news/articleView.html?idxno=135602",
-  "https://www.sedaily.com/article/20087735"
+  "https://www.sedaily.com/article/20087735",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=726951",
+  "https://magazine.hankyung.com/business/article/202609031894b",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260907063332W7k",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=236629",
+  "https://www.hankyung.com/article/2026090449116",
+  "https://www.dailian.co.kr/news/view/1687035/?sc=Naver",
+  "https://www.hankyung.com/article/202608314798Q",
+  "https://www.g-enews.com/view.php?ud=2026090700302241120c8c1c064d_1",
+  "https://www.abcn.kr/news/articleView.html?idxno=91382",
+  "https://economist.co.kr/article/view/ecn202608260057"
  ],
- "last_run": "2026-09-07T06:35:44.671153+09:00",
+ "last_run": "2026-09-07T06:40:57.265987+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3043,16 +3043,6 @@
   ]
  ],
  "seen_titles": [
-  "대니엘‘막아낸다’[포토]",
-  "김도영‘첫타석부터안타’[포토]",
-  "대니엘‘잡아낸다’[포토]",
-  "40홈런도전김도영,시작은안타부터",
-  "안타김도영,주루코치와주먹인사",
-  "이닝무사히마친네일덕아웃복귀",
-  "40홈런도전김도영,오늘은과연",
-  "한화에어로스페이스,협력사AI역량강화…동반성장세미나",
-  "충남도여당에'충남현안국비지원'요청",
-  "77편시화에담긴배움의시간",
   "3000년전대서사시는어떻게천만영화가됐나[오디세이천만돌파]",
   "AI가수위감지해골든타임확보…제천,행안부우수상",
   "통합특별시,AI로계약행정공정·투명성높인다",
@@ -6042,7 +6032,17 @@
   "최연소40홈런은불발됐지만…김도영에겐아직'이기록'이남아있다",
   "최연소기록은놓쳤지만…김도영의'40홈런·홈런왕'은남았다",
   "KT,서울세계불꽃축제에5G네트워크슬라이싱적용...무선CCTV로실시...",
-  "韓파병설에美·이란도“기다린다”·“전쟁참여로간주”신경전[..."
+  "韓파병설에美·이란도“기다린다”·“전쟁참여로간주”신경전[...",
+  "[성과급전쟁①]'억대보너스시대'의역설…'노조·회사·주주'모두가...",
+  "\"안내리면무역끊겠다\"는트럼프…금리에무슨일이",
+  "[AI&]스마트폰이몰카탐지기로…\"5초만에판별\"外",
+  "[메가특구,노동의위기와기회③]노동시간선진국'눈앞'에서과로사...",
+  "개미덕봤던증권주,거래대금급감·고금리에'울상'[종목+]",
+  "트럼프전략의문제점[김구철의소프트파워외교]",
+  "중국의성장엔진교체에주목해야[더머니이스트-조평규의중국본색]",
+  "\"지구-달사이에30기큐브샛띄운다\"…中,5개국규합'3D위성관측망...",
+  "돈되는R&D,일본시니어산업의경우",
+  "“국책은행어디로”…2차이전이바꿀지역금융지도"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
