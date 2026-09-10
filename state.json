@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.yeongnam.com/web/view.php?key=20260910022497902",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=864225",
-  "http://news.ebs.co.kr/ebsnews/allView/60767229/N",
-  "https://www.edaily.co.kr/News/Read?newsId=05120086645578808&mediaCodeNo=257",
-  "http://www.lawissue.co.kr/view.php?ud=20260910184615734f4ab64559d_12",
-  "https://www.newsis.com/view/NISX20260910_0003784925",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1015337",
-  "https://www.hellot.net/news/article.html?no=114896",
   "http://news.lghellovision.net/news/articleView.html?idxno=554687",
   "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1780339",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20260911.22012003572",
@@ -3000,9 +2992,17 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008747947&plink=ORI&cooper=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660706",
   "https://www.bloter.net/news/articleView.html?idxno=673109",
-  "https://zdnet.co.kr/view/?no=20260908174051"
+  "https://zdnet.co.kr/view/?no=20260908174051",
+  "http://www.popcornnews.net/news/articleView.html?idxno=132564",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358796",
+  "https://www.newstnt.com/news/articleView.html?idxno=717775",
+  "https://www.betanews.net/article/view/beta202609100123",
+  "https://en.asiatoday.co.kr/view.php?key=20260910001521177",
+  "https://www.seoulfn.com/news/articleView.html?idxno=637733",
+  "https://www.pressian.com/pages/articles/2026091015115769460",
+  "http://www.mjmedi.com/news/articleView.html?idxno=63116"
  ],
- "last_run": "2026-09-11T06:45:58.417166+09:00",
+ "last_run": "2026-09-11T06:50:57.939338+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3039,14 +3039,6 @@
   ]
  ],
  "seen_titles": [
-  "지역주도로과기원·출연연이설계하는‘지역자율R&D’시동…올해...",
-  "직장내괴롭힘호소뒤사망…가해지목팀장에징역3년구형",
-  "영남대,한·베트남지식포럼…교육교류서산업협력으로",
-  "美진출늘리는중견기업…월드클래스기업협회,법률리스크선제대응",
-  "경북도,1800억원포항로봇파운드리추진…첨단산업생산거점키운다",
-  "‘상향’보다‘안정’…서연고서경쟁률하락,대구경북권대학영향받...",
-  "전재수시장,박홍근장관붙잡고국비확보총력전",
-  "[청경체]모의투자상반기결산…승부가른'꾸준함'",
   "“와인마시러캘리포니아간다”…관광청,프리미엄여행수요공략",
   "현대모비스,‘2026R&D테크데이’개최",
   "중승용차수출,8월까지620만대달해지난해전체웃돌아",
@@ -6038,7 +6030,15 @@
   "\"일반인입니다\"…알고보니총리실간부",
   "호르무즈해협파병“신중해야”“언제하나?”…대정부질문둘쨋날",
   "국가AI전략위,독파모평가방식수술예고[현장+]",
-  "국가AI전략위,독파모평가참여하나…\"과기부와공식협의없어\""
+  "국가AI전략위,독파모평가참여하나…\"과기부와공식협의없어\"",
+  "SKT정재헌GSMA참석·KT서울아산병원AI협력…글로벌·의료AX확대",
+  "\"부담없이정착시킨다\"…스마일게이트'이클립스',파격이벤트·이종...",
+  "[공시]9월11일,코스피상장사42개종목자사주매수신청",
+  "KT,장기고객자녀88명국가대표선수와함께그라운드입장",
+  "‘Low-costAI’DeepSeekenterscapitalrace,picksIPOunderwritersto",
+  "[뉴욕증시]유가107달러'나흘째하락',반도체도꺾여···오라클시간...",
+  "7800억원규모국내첫'바이오특화AI데이터센터'구축에익산시도적...",
+  "[한의사이재준의도서비평]인플레이션시대원자재구명정만들기"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
