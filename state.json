@@ -1,20 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742847",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=318961",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=208541",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609111435454760103690",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=44789",
-  "https://www.mt.co.kr/future/2026/09/11/2026091108293877401",
-  "https://www.ekn.kr/web/view.php?key=20260911024123607",
-  "https://www.socialvalue.kr/news/view/1065592663271606",
-  "http://www.seouleconews.com/news/articleView.html?idxno=93696",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190150.html",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260911094953tND",
-  "https://www.mt.co.kr/world/2026/09/11/2026091114362758732",
-  "https://www.newsis.com/view/NISX20260911_0003785773",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091104421400108389",
   "https://news.ifm.kr/news/articleView.html?idxno=479228",
   "https://www.newsis.com/view/NISX20260908_0003780603",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486210",
@@ -3000,51 +2986,25 @@
   "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026091118105231958?feed=na",
   "https://www.segye.com/newsView/20260911514220?OutUrl=naver",
   "https://www.donga.com/news/Politics/article/all/20260911/134652451/1",
-  "https://www.yna.co.kr/view/AKR20260911164500008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260911164500008?input=1195m",
+  "https://www.pressman.kr/news/articleView.html?idxno=103619",
+  "https://www.mk.co.kr/article/12144442",
+  "https://www.mk.co.kr/article/12144433",
+  "https://www.idjnews.kr/news/articleView.html?idxno=302667",
+  "https://www.wikitree.co.kr/articles/1158884",
+  "https://www.ekn.kr/web/view.php?key=20260911023363783",
+  "http://www.metroseoul.co.kr/article/20260911500259",
+  "https://www.tokenpost.kr/news/breaking/406484",
+  "https://www.segye.com/newsView/20260911514232?OutUrl=naver",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1537256",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1537254",
+  "https://www.asiatime.co.kr/article/20260911500359",
+  "https://www.mk.co.kr/article/12144266",
+  "https://www.hankyung.com/article/2026091196221"
  ],
- "last_run": "2026-09-11T21:01:12.350304+09:00",
+ "last_run": "2026-09-11T21:06:02.540249+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "배터리는 폭주 이렇게"
-  ],
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "화재가 지하철에서 발생한다면 폭주"
-  ],
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "담그는 수조에 폭주 역무원들"
-  ],
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "지하철 폭주 5호선 대응훈련"
-  ],
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "넣으세요 배터리에 수조에 불이나면"
-  ],
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "생태계 우려 도입해야 이언주 붕괴 생산세액공제 산업"
-  ],
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "직원 처신 한동훈 부적절한 사찰 의혹에"
-  ],
-  [
-   "2026-09-11T15:00:45.270494+09:00",
-   "악수하는 구윤철"
-  ],
-  [
-   "2026-09-11T15:05:22.843743+09:00",
-   "메가코스 오산시장 200명 조용호 화장품 잇단 고용 유치 기업"
-  ],
-  [
-   "2026-09-11T15:05:22.843743+09:00",
-   "로봇수술 정교하게 복잡한 탈장도 단일공 하나로 구멍 절개창"
-  ],
   [
    "2026-09-11T15:10:30.356263+09:00",
    "아닌 미래세대 KDI 지출 일회성 자산 세수 이례적"
@@ -3364,23 +3324,17 @@
   [
    "2026-09-11T21:00:43.584789+09:00",
    "ETF 상장 키움증권 자회사 국내 현지서"
+  ],
+  [
+   "2026-09-11T21:05:24.362405+09:00",
+   "로봇도 임금만 협상 옛말 테이블"
+  ],
+  [
+   "2026-09-11T21:05:24.362405+09:00",
+   "장착 아이언맨은 슈트 전신 현실에선 다리만"
   ]
  ],
  "seen_titles": [
-  "귀뚜라미그룹,과학기술원3곳에장학금2억지원",
-  "스카이코어수능관차환진대표,2027학년도9월모의평가국어총평",
-  "건설경기불황에도채용'봇물'…10대건설사,'원전·데이터센터'로판...",
-  "김승원“공소청출범준비”…신약의혹엔“투자자피해무관”",
-  "162조원미래대응기금에‘안전장치’주문…KDI“차입금지·국회통제...",
-  "한전KDN,'에너지ICT·차세대배터리결합'...지능형전력망개척본격...",
-  "‘올해의기술사·기능장’첫선정…소록도지킨기능장등6명",
-  "162조‘미래대응기금’띄운정부…반도체호황세수,불황대비해쌓...",
-  "서울대,‘빅데이터AICEO·전문가과정’교육생모집",
-  "한성숙총리\"AI로규제분석해합리화,한미첨단산업협력확대\"…암...",
-  "李대통령\"인구정책패러다임전면전환…개인정보유출엄정책임물어...",
-  "5대금융그룹계열사최고경영자인사폭풍전야",
-  "샵링커지앤씨,'AI커머스랩'으로2026코리아이커머스페어참가",
-  "[더벨][i-point]한컴위드스피키,음성인증·딥페이크탐지기술입증",
   "[오늘뭐했니?]농협",
   "엑스엘에이트'이벤트켓',스타트업글로벌무대'언어장벽'허문다",
   "[똑똑한교육]웅진씽크빅,대교,아이스크림에듀,윤선생,미래엔,비상...",
@@ -6366,7 +6320,21 @@
   "AX대전환비전선포..대한민국혁신선도",
   "총리실사찰논란에‘불편한한동훈’과한목소리낸국힘",
   "비거주1주택세부담강화에…野“세금이벌금이냐”與“보상체계...",
-  "키움증권미자회사,현지서국내반도체ETF상장"
+  "키움증권미자회사,현지서국내반도체ETF상장",
+  "명절장바구니넘어여행·AI까지...유통가,특별함으로무장",
+  "AX플랫폼,그의트로피사업으로찜하다[CEO라운지]",
+  "김영기HD현대일렉트릭사장“어쩌다슈퍼사이클아닌구조적‘스텝...",
+  "\"성실함으로우뚝선당진신문\"",
+  "‘추적60분’직장경력접고신입지원…‘하닉고시’에몰린직장인들",
+  "[현장]“이게판교지”…게임문화축제GXG가보니",
+  "한국외대수시경쟁률22.05대1‘역대최고’",
+  "지푸,50억달러조달착수…주식·전환사채발행",
+  "‘무한의우주를열다’제46회전국장애인체전개막",
+  "네팔,신원확인된시신고작7%…얼굴인식AI까지동원",
+  "앤트로픽,생물학무기전용가능AI연구차단",
+  "[대학뉴스브리핑]이화여대·숙명여대·중앙대",
+  "‘임금만협상’옛말…AI·로봇도테이블",
+  "아이언맨은'전신슈트'…현실에선손·다리만로봇장착"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
