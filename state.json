@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3692291",
-  "https://biz.sbs.co.kr/article_hub/20000334141?division=NAVER",
-  "https://www.newsis.com/view/NISX20260911_0003786043",
-  "https://thetracker.co.kr/View.aspx?No=4223411",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=310052",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=106130",
-  "https://www.hellot.net/news/article.html?no=114921",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=605902",
-  "https://www.joongangenews.com/news/articleView.html?idxno=547487",
   "https://biz.sbs.co.kr/article_hub/20000334140?division=NAVER",
   "https://www.job-post.co.kr/news/articleView.html?idxno=227186",
   "http://www.beyondpost.co.kr/view.php?ud=2026091114435472726cf2d78c68_30",
@@ -3000,9 +2991,18 @@
   "https://www.fnnews.com/news/202609111942551708",
   "https://view.asiae.co.kr/article/2026091119342283608",
   "https://biz.heraldcorp.com/article/10870241",
-  "https://www.gamechosun.co.kr/webzine/article/view.php?no=225199"
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=225199",
+  "https://www.boannews.com/news/articleView.html?idxno=145799",
+  "https://www.khan.co.kr/article/202609111453001",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41880",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=87824",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600375",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661341",
+  "https://www.fnnews.com/news/202609111948268094",
+  "https://www.newsjeju.net/news/articleView.html?idxno=425765",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661354"
  ],
- "last_run": "2026-09-11T19:50:53.771281+09:00",
+ "last_run": "2026-09-11T19:55:55.500243+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3499,15 +3499,6 @@
   ]
  ],
  "seen_titles": [
-  "'AI가인류멸망'경고에트럼프\"내관심은대중국우위\"",
-  "[마켓+]삼성·LG전자,히트펌프에공들이는이유는?",
-  "앤트로픽,中AI7곳'불법증류'지목…클로드기술빼내학습",
-  "\"극도로위험한인물\"다큐공개되자…머스크\"개똥보다못해\"소송예...",
-  "대구보건대웰니스문화산업최고위과정19기출범…AI시대리더십모색",
-  "이귀순의원\"학생·학교에더가까이\"…광산교육지원청신설촉구",
-  "계명대수학과전임교원전원국가R&D수행…수학·AI융합연구본격화",
-  "[은행브리핑]KB금융,유소년골프유망주위한'빛이음클래스'진행외",
-  "이대통령외교성과묻힐라...홍보나선민주당",
   "KB금융,'KB이노베이션허브IR데이'개최…스타트업투자유치지원",
   "수자원공사,'WSCE2026'서AI기반미래형스마트물도시모델선봬",
   "아산시,미래유니콘7개사발굴'실리콘밸리'본격시동",
@@ -6498,7 +6489,16 @@
   "'쇳물줄여탄소잡는다'…한양대·현대제철,英최고철강논문상쾌...",
   "'10만명불법사찰'삼성노조위원장,유죄판결땐징계해고가능성",
   "“그래도믿을건삼성”삼성그룹주ETF만11%급등…다른그룹주는30...",
-  "레어온,데즈카철완아톰IP신작‘리틀아톰’공식라이선스계약…..."
+  "레어온,데즈카철완아톰IP신작‘리틀아톰’공식라이선스계약…...",
+  "[2026위협인텔리전스리포트]사이버전장나침반'위협인텔리전스'(...",
+  "AI속도전멈출까…샘올트먼“개발늦출수있어”",
+  "엔비디아,팔란티어와핵심공급망위한소버린인텔리전스구현",
+  "\"비상개폐장치대신승무원안내를\"…서울교통공사,5호선배터리화재...",
+  "르노코리아,12~13일전시차36개월무이자⋯'7년·14만km보증'오픈데...",
+  "제주AX대전환비전선포…과제는?",
+  "'AI가스스로판단해도시운영'…연세대,글로벌기관과'K-AI시티'수...",
+  "제주대연구자45명,정부연구사업대거선정…101억원확보",
+  "우지사2차공공기관이전발언…연일후폭풍"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
