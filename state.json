@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.fnnews.com/news/202609190317410940",
-  "https://biz.sbs.co.kr/article_hub/20000335302?division=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/AKR202609190312124II",
-  "https://www.wikitree.co.kr/articles/1160601",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472458",
-  "https://www.newspim.com/news/view/20260919000010",
-  "https://www.tokenpost.kr/news/market/410517",
-  "https://www.tokenpost.kr/news/cryptocurrency/410509",
   "http://www.jeonmin.co.kr/news/articleView.html?idxno=447308",
   "https://www.wikitree.co.kr/articles/1160600",
   "https://www.tokenpost.kr/news/blockchain/410502",
@@ -3000,9 +2992,17 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=549397",
   "http://www.newstown.co.kr/news/articleView.html?idxno=716352",
   "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=243777",
-  "https://www.dt.co.kr/article/12084841"
+  "https://www.dt.co.kr/article/12084841",
+  "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100017.html",
+  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=243968",
+  "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100022.html",
+  "https://biz.heraldcorp.com/article/10878802",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=319830",
+  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=243730",
+  "https://economychosun.com/site/data/html_dir/2026/09/11/2026091100028.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/19/2026091990102.html"
  ],
- "last_run": "2026-09-19T20:25:54.019030+09:00",
+ "last_run": "2026-09-19T20:31:09.293650+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3043,14 +3043,6 @@
   ]
  ],
  "seen_titles": [
-  "트럼프·시진핑국빈만찬에美재계총출동…다이먼·올트먼·젠슨황참...",
-  "순자산144조아시아최고부자...40대男누구일까?",
-  "\"클로드로챗GPT뚫었다\"…내부코드저장소까지접근",
-  "배터리4시간인데303만원…스마트폰없이작동하는이기업의AR안경",
-  "이대통령,UAE행정청장만나...\"협력성과만들어야\"",
-  "[미국특징주]제논파마슈티컬스,우울증임상중단에30%급락",
-  "DTE에너지2.4GW계약…24/7WallSt.148.26달러제시",
-  "TAO2100만개상한…DCG,기관투자통로넓혀",
   "\"AI산업변화대응\"…특장차협회,김제서기술세미나가져",
   "샘올트먼월드스테이블코인슈퍼앱“월드머니”150개국출시…WLD...",
   "274.60ETH탈취한AI봇강의…224명직접배포",
@@ -6042,7 +6034,15 @@
   "[종합]성과급갈등→불신임→조직분리…삼성전자노노갈등에초기업...",
   "경기도국비확보총력…GTX·반도체등민주당에건의",
   "중국,위험화학품5종추가및수출입관리적용",
-  "[속보]오세훈“부동산이지지율하락원인…李대통령,전세난책임져..."
+  "[속보]오세훈“부동산이지지율하락원인…李대통령,전세난책임져...",
+  "[특별기고]박기순성균관대중국대학원교수|AI시대,누가세계의판...",
+  "중국,집적회로배치설계보호조례25년만에개정",
+  "[해외칼럼]트럼프發관세롤러코스터,외국인투자를죽인다",
+  "젠슨황이점찍은‘이것’…AI개발늦춘다는데15%뛰었다[투자360]",
+  "[AI시대,권력대이동-우리은행]AI에이전트로업무프로세스혁신",
+  "중국,L3·L4자율주행차첫강제안전표준제정",
+  "[BOOKS]포토카드부터팬덤까지…K-팝을움직이는경제학",
+  "'가부키와로봇'전통과현대기술조화…개회식\"여기서하나로\""
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
