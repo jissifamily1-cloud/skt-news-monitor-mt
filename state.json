@@ -1,10 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.stoo.com/article.php?aid=108957568903",
-  "https://www.xportsnews.com/article/2197357",
-  "https://www.sportschosun.com/baseball/2026-09-18/202609180100128630008347",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008250",
   "https://www.sportschosun.com/baseball/2026-09-18/202609180100128540008341",
   "https://sports.khan.co.kr/article/202609182155003?pt=nv",
   "https://www.sportsseoul.com/news/read/1636269",
@@ -3000,9 +2996,13 @@
   "https://www.thescoop.co.kr/news/articleView.html?idxno=311634",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522794",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294967",
-  "https://view.asiae.co.kr/article/2026091816110144294"
+  "https://view.asiae.co.kr/article/2026091816110144294",
+  "https://www.mydaily.co.kr/page/view/2026091915204193568",
+  "http://www.metroseoul.co.kr/article/20260919500025",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008328",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34775"
  ],
- "last_run": "2026-09-19T15:35:56.334461+09:00",
+ "last_run": "2026-09-19T15:40:57.374156+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3091,10 +3091,6 @@
   ]
  ],
  "seen_titles": [
-  "'오지환멀티홈런포함4안타4타점'LG,KT8연승저지하고5연승질주",
-  "'오지환힘조절실패'2루타만치면대기록인데,거기서홈런을…LG12-1...",
-  "[포토]승리한LG,KT잡고기분좋은5연승",
-  "'솔로홈런→안타→3루타→투런홈런'오지환사이클링히트아깝다…'신...",
   "36세오지환살아있네!5일만에또멀티포+사이클링미수불방망이,LG5...",
   "‘멀티홈런’오지환의사이클링히트급맹활약…타선대폭발LG,7연승...",
   "‘오지환2홈런4타점-톨허스트12승’LG,5연승질주…‘베테랑3실책...",
@@ -6090,7 +6086,11 @@
   "고금리긴축시대…정부·기업·가계'허리띠'졸라매야",
   "[장덕수의원샷원킬]이재명대통령,지금은'억강부약'이아니라'부약...",
   "한미외교장관회담…대미투자'원만한마무리·신속이행'강조",
-  "앤스로픽이주장한AI속도조절론…中동참가능성은[주末머니]"
+  "앤스로픽이주장한AI속도조절론…中동참가능성은[주末머니]",
+  "노시환·문현빈없는한화,미래를보는라인업…한지윤·박정현·유민...",
+  "[부음]함영진씨(KT그룹홍보팀장)빙부상",
+  "'예비FA'LG출루머신왜선발라인업에서사라졌나…\"허리가좋지않다...",
+  "[박래혁의테크오딧세이]알렉스카프,AI속도조절론을비판하며던진..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
