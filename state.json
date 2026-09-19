@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12319076?influxDiv=NAVER",
-  "https://www.venturesquare.net/1115122/",
-  "https://www.ytn.co.kr/_ln/0103_202609182040014009",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=311594",
-  "https://www.imaeil.com/page/view/2026091820393669403",
-  "https://kjmbc.co.kr/NewsArticle/1537696",
-  "https://www.hankookilbo.com/news/article/A2026091820140000281?did=NA",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318030",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53072",
   "https://www.newspim.com/news/view/20260918000772",
   "https://www.newscj.com/news/articleView.html?idxno=3433953",
   "https://evlounge.donga.com/FOREV/3/all/20260918/134699527/3",
@@ -3000,9 +2991,18 @@
   "https://www.ekn.kr/web/view.php?key=20260918029376660",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=866758",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2441916",
-  "https://www.betanews.net/article/view/beta202609190003"
+  "https://www.betanews.net/article/view/beta202609190003",
+  "https://www.newscj.com/news/articleView.html?idxno=3434036",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075856",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=710095",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=710286",
+  "http://www.newstomato.com/ReadNews.aspx?no=1314260&inflow=N",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2441918",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=866762",
+  "https://biz.heraldcorp.com/article/10879128",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724941"
  ],
- "last_run": "2026-09-19T12:31:05.815350+09:00",
+ "last_run": "2026-09-19T12:35:52.621486+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3151,15 +3151,6 @@
   ]
  ],
  "seen_titles": [
-  "\"성과급격차\"…비반도체노조,'이재용자택앞'집회",
-  "제논,GPU8장으로3970억파라미터AI에컴퓨터조작능력더했다",
-  "[메디컬인사이트154회]비슷하지만다른질환'부비동염과비염'",
-  "정부'비폭탄영광백수읍'특별재난지역선포...영광군,56억국비확보...",
-  "대구소마고,'글로벌교육'통했다…美실리콘밸리현장학습참가학생...",
-  "유네스코창의도시들이만든파빌리온",
-  "앤트로픽,생물학연구소설립…AI·로봇활용해실험추진",
-  "국힘청년조직,정부청년정책정조준…대출규제등6대요구",
-  "SOL미국AI소프트웨어,6개월수익률31.88%",
   "보안연구진,앤스로픽'클로드'로오픈AI해킹…내부코드접근노출",
   "경남,중국서1000억투자유치·786만달러수출길열었다",
   "벤틀리,첫전기SUV‘토르칼’공개임박",
@@ -6150,7 +6141,16 @@
   "[패트롤]전남광주통합특별시",
   "[공시]에코프로비엠임원,유증신주인수권101주확보",
   "친환경OLED효율과인재양성함께일군이종희교수의디스플레이공...",
-  "삼성이폴더블폰을디자인한8가지방법"
+  "삼성이폴더블폰을디자인한8가지방법",
+  "[아시안게임]한국사격,아시아정상도전…'파리올림픽황금세대'출...",
+  "SKTAI기반추석특별소통대응가동",
+  "KT노조의파격요구,대기업성과급가이드라인바꾸나",
+  "'실험하고끝내지않는다'제주도,스타트업'첫시장'된다",
+  "‘이익률1위’내준K반도체…중CXMT·미마이크론맹추격",
+  "MIT랭어연구실과워터스동시연결로넓힌충남대바이오연구산업접...",
+  "[공시]한울소재과학,한울반도체신주인수권매각",
+  "시진핑,건강이상설다시확산…“몸이안좋았다”무슨일?",
+  "호르무즈선그은韓…美는'대미투자·반도체'압박카드꺼냈다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
