@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260923000703",
-  "https://www.seoul.co.kr/news/economy/2026/09/23/20260923500133?wlog_tag3=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=03450566645583072&mediaCodeNo=257",
-  "https://biz.sbs.co.kr/article_hub/20000336418?division=NAVER",
-  "https://www.hankyung.com/article/202609233465i",
-  "https://news.tf.co.kr/read/economy/2369400.htm",
-  "https://www.ddaily.co.kr/page/view/2026092313264679073",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=129644",
   "http://www.bizwnews.com/news/articleView.html?idxno=147238",
   "http://coinreaders.com/259794",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003269955&CMPT_CD=P0010",
@@ -3000,9 +2992,17 @@
   "https://biz.heraldcorp.com/article/10882903",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065616908586191",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270111&CMPT_CD=P0010",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065616487781547"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065616487781547",
+  "https://www.kukinews.com/article/view/kuk202609230205",
+  "https://www.tokenpost.kr/news/breaking/412895",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2474170",
+  "https://www.mk.co.kr/article/12160669",
+  "https://www.fnnews.com/news/202609232143131971",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42056",
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=225690",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=743978"
  ],
- "last_run": "2026-09-23T21:50:55.061841+09:00",
+ "last_run": "2026-09-23T21:55:50.803244+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3187,14 +3187,6 @@
   ]
  ],
  "seen_titles": [
-  "현대차는자율주행,기아는로봇…신사업투자역할분담주목-삼성증권",
-  "[현장]“빳빳한새돈으로명절마음전해요”…고속道휴게소‘신권...",
-  "카카오모빌리티,추석연휴운전부담줄이기위한'스마트·알뜰이동팁...",
-  "HL로보틱스,삼성물산과자율주행주차로봇기반미래주거솔루션개발",
-  "나주영산강축제,마술부터블랙이글스에어쇼까지볼거리'풍성'",
-  "코스피,반도체훈풍에도상승폭축소…7100선서7050선으로",
-  "코그넥스,인텔서분사한리얼센스인수...머신비전넘어로봇으로확장",
-  "[스마트컨슈머]추석맞이프로모션던킨·적립혜택제공피자헛",
   "SKT,양자암호망'디지털트윈'개발…타사장비연동길도열었다",
   "[일본특징주]소프트뱅크,역대최대규모정크본드발행착수",
   "더그래프,서클아크메인넷데이터인프라지원…USDC·x402이어생태계...",
@@ -6186,7 +6178,15 @@
   "‘국장못믿겠다’돌아오지않는활력…거래대금연중최저치‘뚝’...",
   "고려아연,美10조'프로젝트크루서블'첫관문넘었다…핵심광물제련...",
   "GH,이천에18만㎡반도체소부장클러스터조성…2029년착공",
-  "반도체·선박이끌고간다…4분기수출도'청신호'"
+  "반도체·선박이끌고간다…4분기수출도'청신호'",
+  "시진핑,11년만에美국빈방문",
+  "EU3대감독당국,양자컴퓨터암호위협경고",
+  "[구리소식]구리시,경기도'2026년AI·데이터정책우수사례발표대...",
+  "김진앵커,AI로얼굴·목소리도용당했다“모두법적조치”",
+  "아마존,메타AI'뮤즈'막았다…AI에이전트주도권전쟁",
+  "LG전자걸그룹'에이아이돌',제대로돌리는매력?...AI워시콤보특징...",
+  "적한마리잡고수십레벨껑충…세가‘스튜피드네버다이즈’,‘초...",
+  "GS건설,용인기술연구소내사전검증센터개설…로봇검증체계"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
