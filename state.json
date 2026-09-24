@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=323216",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270105&CMPT_CD=P0010",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=209383",
-  "http://www.seouland.com/arti/economy/biznews/24367.html",
-  "https://www.tokenpost.kr/news/breaking/413241",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1409628",
-  "https://www.medigatenews.com/news/2569643839",
-  "https://www.ddaily.co.kr/page/view/2026092410552027066",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=867873",
   "https://www.econovill.com/news/articleView.html?idxno=751791",
   "http://www.seouland.com/arti/society/society_general/24350.html",
@@ -3000,9 +2992,17 @@
   "https://www.theguru.co.kr/news/article.html?no=107536",
   "https://www.fnnews.com/news/202609250359059431",
   "https://www.gukjenews.com/news/articleView.html?idxno=3704614",
-  "https://www.yna.co.kr/view/AKR20260923084700017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260923084700017?input=1195m",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=246569",
+  "https://www.sidae.com/article/2026092314510159395",
+  "http://www.srtimes.kr/news/articleView.html?idxno=213282",
+  "https://www.tenasia.co.kr/article/2026092554914",
+  "https://www.theguru.co.kr/news/article.html?no=107466",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50576",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6854032_37012.html",
+  "https://zdnet.co.kr/view/?no=20260922171552"
  ],
- "last_run": "2026-09-25T07:35:59.910985+09:00",
+ "last_run": "2026-09-25T07:40:52.912266+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3055,14 +3055,6 @@
   ]
  ],
  "seen_titles": [
-  "\"모두에게초능력을\"…메타,100gVR안경·AI기능초강화구축",
-  "전남광주통합특별시\"추석연휴남도자연·생태명소서힐링하세요\"",
-  "AI·숏폼넣고연휴에도24시간상담…증권사,비대면투자자잡기",
-  "삼성증권,초대형IB첫발행어음특판‘이틀반’만에1000억완판",
-  "[스냅드래곤서밋]지아드아스가르퀄컴본부장\"개인AI혁명,웨어러블...",
-  "시진핑,11년만에美국빈방문···24일트럼프와정상회담",
-  "[미중정상회담]무역휴전연장이어AI협의주목…대만문제는난제",
-  "[오늘일본은]日ANA여객기엔진이상으로긴급착륙…158명비상탈출·...",
   "오픈AIAI에이전트,호주정부보건사이트무단침투",
   "박찬대인천시장,SSG랜더스필드서시타자로올라...치매실종예방메시...",
   "태국콜드게임완파한류지현호,박재현존재감폭발",
@@ -6054,7 +6046,15 @@
   "글로벌완성차'휴머노이드대전'참전러시…'피지컬AI'시장정조준",
   "'덩샤오핑예언적중'희토류가美발목잡았다…美·日'산업의비타민...",
   "iM뱅크,전북은행·BNK경남은행과피지컬AI제조혁신·지역균형MOU체결",
-  "SKT,추석에도AI개발이어간다…차세대모델·서비스투트랙"
+  "SKT,추석에도AI개발이어간다…차세대모델·서비스투트랙",
+  "[정책브리핑]2026년09월23일수요일주요정책",
+  "정책실장없이'경제원톱'된이형일號…2기경제팀과제는",
+  "고려아연,'2026한국경영대상'2년연속수상…생태계보전·친환경경...",
+  "전회차1%대시청률고전중인데…추신수,드디어1:16콜드게임승리...",
+  "BMW헝가리공장,'3교대,24시간풀가동'전환…차세대전기차iX3수요...",
+  "[현장+]명품대신K뷰티체험…中관광객돌아온시내면세점'북적'",
+  "남산순환버스인도덮쳐‥기내보조배터리화재",
+  "기술전시넘어'돈되는AI'로…AI페스타,역대급사업기회연다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
