@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.chosun.com/economy/economy_general/2026/09/24/3LECUQH4H5HCJIAILEWTPCZAJY/",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671064",
-  "https://www.g-enews.com/view.php?ud=2026092310523795993084322ec9_1",
-  "https://www.ddaily.co.kr/page/view/2026092410020780058",
-  "https://www.ddaily.co.kr/page/view/2026092409515721835",
-  "https://www.ddaily.co.kr/page/view/2026092409575769018",
-  "https://www.kyeonggi.com/article/20260923580096",
-  "https://www.hani.co.kr/arti/culture/culture_general/1279374.html",
   "https://www.seoul.co.kr/news/economy/2026/09/23/20260923500315?wlog_tag3=naver",
   "https://www.sedaily.com/article/20094734",
   "https://www.kbmaeil.com/article/20260924500061",
@@ -3000,9 +2992,17 @@
   "https://www.ziksir.com/news/articleView.html?idxno=147364",
   "https://www.mhns.co.kr/news/articleView.html?idxno=761506",
   "https://www.econovill.com/news/articleView.html?idxno=751875",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260922.22004007083"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260922.22004007083",
+  "https://www.yna.co.kr/view/AKR20260924021000007?input=1195m",
+  "https://www.public25.com/news/articleView.html?idxno=55334",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363734",
+  "https://www.news2day.co.kr/article/20260925500005",
+  "http://www.inews24.com/view/2009065",
+  "https://www.ddaily.co.kr/page/view/2026092506200827511",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366045",
+  "https://www.newscj.com/news/articleView.html?idxno=3435467"
  ],
- "last_run": "2026-09-25T06:20:55.428259+09:00",
+ "last_run": "2026-09-25T06:25:48.204189+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3035,14 +3035,6 @@
   ]
  ],
  "seen_titles": [
-  "이재명대통령\"한국,추격경제넘어세계경제선도국가로도약\"…멕시...",
-  "\"차례상은홍동백서처럼\"…한가위에살펴볼ACEETF눈길",
-  "취업후재실직행렬…학자금유예30대최대",
-  "\"AI영상발전속도...4년전시속10마일이었다면지금은120마일\"",
-  "집값벽에막힌수요,중대형오피스텔‘아파텔’로몰린다",
-  "추석연휴여수·구례생태관정상운영…완도수목원일부무료개방",
-  "추석연휴이후'공모주홍수'...가뭄딛고막판러시",
-  "1조유니콘된뤼튼,IPO본격화…내년예심청구목표",
   "오피스·물류넘어AI·반도체…글로벌국부펀드韓투자‘진화’",
   "美연준연속금리인상가능성…월가“간단치않네”",
   "오픈AI‘불량에이전트’,호주정부에도침투…첫정부해킹사례",
@@ -6034,7 +6026,15 @@
   "제조현장파고드는피지컬AI…경남도,금융·기업연결속도",
   "경남도,피지컬AI제조현장확산나선다…정책금융까지연계",
   "[스냅드래곤서밋]리눅스라는욕망의바다",
-  "하정우AI전략위부위원장22일부산서강연"
+  "하정우AI전략위부위원장22일부산서강연",
+  "◇오늘의경기(25일)",
+  "[이슈분석]금융권,추석고객잡아라…'한가위이벤트'풍성",
+  "서해밑14조전기대동맥,뚫린다",
+  "뉴욕증시,국채금리급등속혼조…美·이란협상기대에낙폭축소",
+  "[스냅드래곤서밋2026]퀄컴,모듈러로AISW통합…스냅드래곤까지확...",
+  "[스냅드래곤서밋]\"맥스튜디오대항마나온다\"…퀄컴,PC용칩에최대...",
+  "[현장]한화M&S,첫주총서자본정비…'테크·라이프'독립경영본격화",
+  "[지역축제]부러진제비다리고쳐주니박씨물고와…남원도심60m'대..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
