@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.lawtv.kr/news/articleView.html?idxno=60991",
-  "http://www.seouleconews.com/news/articleView.html?idxno=93889",
-  "https://www.hani.co.kr/arti/area/yeongnam/1278811.html",
-  "https://www.ppss.kr/news/articleView.html?idxno=311834",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=761133",
-  "https://www.newscj.com/news/articleView.html?idxno=3434388",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=910976",
-  "https://www.nocutnews.co.kr/news/6581215",
-  "https://www.joongang.co.kr/article/25463598",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702002",
   "https://www.pressian.com/pages/articles/2026092110452397383",
   "https://www.ddaily.co.kr/page/view/2026092110245496337",
   "https://www.news1.kr/it-science/cc-newmedia/6297131",
@@ -3000,15 +2990,21 @@
   "https://www.ikbc.co.kr/article/view/kbc202609250033",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5221439",
   "http://www.rookie.co.kr/news/articleView.html?idxno=127288",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307529"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307529",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609250051&t=NN",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552245",
+  "https://news.jtbc.co.kr/article/NB12320036?influxDiv=NAVER",
+  "https://www.ytn.co.kr/_ln/0104_202609251807159555",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270389&CMPT_CD=P0010",
+  "https://www.munhwa.com/article/11619466",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552242",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/25/2026092590172.html",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744089",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5221441"
  ],
- "last_run": "2026-09-25T19:35:49.661389+09:00",
+ "last_run": "2026-09-25T19:41:22.771118+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-09-25T13:40:27.262511+09:00",
-   "학교 허문 출신 학벌 스펙은 정도 어느 현직들의"
-  ],
   [
    "2026-09-25T14:30:35.685078+09:00",
    "보낸다 구글 시험 4개 10월 1일 우주로 우주"
@@ -3063,16 +3059,6 @@
   ]
  ],
  "seen_titles": [
-  "취약계층210만명,통신비감면못받아...상반기놓친혜택만1,743억원",
-  "통신비감면,대상늘어도수혜는제자리…취약계층210만명빠졌다",
-  "부울경해역에해양사물인터넷구축…“어업인의생명과재산보호”",
-  "경찰,코인부터'휴대폰깡'까지…금융·사이버사기6만1482건적발",
-  "통신비감면대상인데몰랐다…210만명이놓친1743억원",
-  "취약계층210만명,통신비감면혜택놓쳐…\"제도개선해야\"",
-  "올해취약계층통신비감면사각지대210만명...놓친혜택1743억원",
-  "부울경해양수도권에'해양사물인터넷'구축한다",
-  "단속에도‘휴대폰깡’활개…분실보험까지악용해472대챙겼다",
-  "통신비감면사각지대여전...취약계층210만명혜택못받아",
   "영광백수읍특별재난지역지정…군,10억선제지원등복구총력",
   "통신비감면사각지대여전…취약계층미감면자5명중1명",
   "상반기210만명통신비감면못받아…미감면액1743억원",
@@ -6062,7 +6048,17 @@
   "SK는'넓은부지'·삼성은'속도전'…구체화하는'호남반도체투자'",
   "[뉴스추적]화려한의전빈약한성과…남은건단편적장면뿐",
   "\"3쿼터6점내준수비는인상적\"최악의전반→후반광란의추격전...수...",
-  "[그린칼럼]겉만화려했던미·중정상회담···'시한부휴전'속한국..."
+  "[그린칼럼]겉만화려했던미·중정상회담···'시한부휴전'속한국...",
+  "챗GPT'독주'속약진…국내AI앱2위굳히기",
+  "붉은색으로물든백악관…으르렁거리던미중정상‘밀착’",
+  "파격의전에도'빅딜'없었다…알맹이빠진미중정상회담",
+  "화려한'의전',모호한'합의'...미·중'빅딜'은?",
+  "국방부,광주군공항이전사업비'2016년산정치'사용",
+  "밀양나노산단분양률50%돌파…나노·수소미래산업육성",
+  "연휴출국비행기서화재…“물다갖다썼다”",
+  "[취재후Talk]지뢰현장조사,안하나못하나",
+  "메릴랜드州·경북도-IonQ-SDT-구미시,양자기술및공급망협력위해'맞...",
+  "\"차가알아서하겠지\"…연휴에크루즈·자율주행과신하다'쾅'"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
