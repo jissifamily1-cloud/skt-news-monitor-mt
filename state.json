@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260924039300007?input=1195m",
-  "https://www.nocutnews.co.kr/news/6583116",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170853",
-  "https://it.donga.com/109601/",
-  "https://www.tokenpost.kr/news/ai/412916",
-  "https://www.bbc.com/korean/articles/ck2094peqpveo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.insight.co.kr/news/575198",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317280",
-  "https://www.econovill.com/news/articleView.html?idxno=751820",
   "https://www.dt.co.kr/article/12085723",
   "https://www.cbci.co.kr/news/articleView.html?idxno=609549",
   "http://www.paxetv.com/news/articleView.html?idxno=282743",
@@ -3000,9 +2991,18 @@
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005926850",
   "https://www.eroun.net/news/articleView.html?idxno=90969",
   "https://www.raonnews.com/news/article.html?no=61402",
-  "https://www.etnews.com/20260925000017"
+  "https://www.etnews.com/20260925000017",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89687",
+  "https://www.joongang.co.kr/article/25464745",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550542",
+  "https://www.econovill.com/news/articleView.html?idxno=751782",
+  "https://www.segye.com/newsView/20260925505018?OutUrl=naver",
+  "https://www.newsway.co.kr/news/view?ud=2026092511270132504",
+  "http://www.jejunews.com/news/articleView.html?idxno=2227927",
+  "https://www.newspim.com/news/view/20260925000089",
+  "https://www.etnews.com/20260925000018"
  ],
- "last_run": "2026-09-25T11:25:49.186050+09:00",
+ "last_run": "2026-09-25T11:31:06.287864+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3195,15 +3195,6 @@
   ]
  ],
  "seen_titles": [
-  "[아시안게임]사격장국희-이종준,스키트혼성단체전은메달획득",
-  "'세계기록쏘고도'장국희·이종준,사격스키트혼성단체전은메달",
-  "AI반론에3명중1명판단바꿨다…日고베대실험",
-  "[르포]암스테르담수변에자리한여행플랫폼의심장…'부킹닷컴'본사...",
-  "아마존AI판매자도구,승인뒤업무실행까지확대",
-  "트럼프의'극히이례적'의전이보여준이번미-중정상회담의중요성",
-  "文정부때'85주불장'따라잡았다...서울아파트값,역대최장상승과...",
-  "코트라,아시아·북미수출시장다변화…스마트팜·K소비재·AI공급망...",
-  "서울아파트값85주연속상승…역대최장기록과동률",
   "“강남3구내렸지만”…치솟는서울아파트값,85주째상승",
   "[서학!스타]아이온큐·엔비디아손잡았다…슈퍼리온256,NVAQC첫현장...",
   "코레일,독일서'AI정비'동맹맺었다",
@@ -6194,7 +6185,16 @@
   "연소득'1,200만원이하'자영업사업장4년새43%증가",
   "대구시,추석후친환경차1691대추가보급…177억원투입",
   "中브랜드유럽자동차시장점유율11.7%...역대최고",
-  "日알박,후공정용첨단패키지장비개발돌입…2028년AI반도체시장..."
+  "日알박,후공정용첨단패키지장비개발돌입…2028년AI반도체시장...",
+  "SKT,추석연휴맞아'가족로밍'부터영화·외식할인까지…T멤버십혜...",
+  "‘대형투수’소형준,AG야구한일전선발출격",
+  "\"AI거물총출동\"…美中정상만찬,中기업은배제",
+  "[스냅드래곤서밋]모듈러,한국AIG3히든카드",
+  "“삼전·SK하닉예전만못한이유있었다”…서학개미,美주식순매수로...",
+  "짧은추석에도바쁜총수들…해외출장·경영구상'분주'",
+  "[창간81주년]항공·해상교통망요충지…제주,MRO'최적지'",
+  "美빅테크·월가총출동한시진핑국빈만찬…中대표단기업인은'0명'",
+  "네덜란드총리“ASML추가수출규제막겠다”…미국과합의가능성시..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
