@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725528",
-  "https://www.mydaily.co.kr/page/view/2026092212405021903",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489898",
-  "https://www.nspna.com/news/?newsid=829558",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=359494",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=359496",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81325",
-  "https://www.slist.kr/news/articleView.html?idxno=768345",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489847",
   "https://www.ekn.kr/web/view.php?key=20260923021438388",
   "https://www.newspim.com/news/view/20260923000083",
@@ -3000,9 +2992,17 @@
   "https://www.kukinews.com/article/view/kuk202609250027",
   "https://www.tokenpost.kr/news/breaking/413994",
   "https://www.ytn.co.kr/_ln/0102_202609251613378024",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/25/2026092590096.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/25/2026092590096.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770033&plink=ORI&cooper=NAVER",
+  "https://www.tvreport.co.kr/entertainment/article/1078214/",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550562",
+  "https://www.tokenpost.kr/news/breaking/413996",
+  "https://www.m-economynews.com/news/article.html?no=71058",
+  "https://www.vegannews.co.kr/news/article.html?no=387699",
+  "https://view.asiae.co.kr/article/2026092516245470294",
+  "https://biz.sbs.co.kr/article_hub/20000336719?division=NAVER"
  ],
- "last_run": "2026-09-25T16:25:51.066752+09:00",
+ "last_run": "2026-09-25T16:31:06.571464+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3091,14 +3091,6 @@
   ]
  ],
  "seen_titles": [
-  "수천억과징금에국감소환까지…기업'보안민낯'정조준",
-  "통신3사,추석맞이납품대금3175억원지급…전년比364억원↓",
-  "통신망투자기대감커지자5G주강세…기판·광통신도매수온기",
-  "KB증권,옵티미즘·시큐리타이즈와토큰증권맞손",
-  "LG유플러스,소도몰과소상공인상품수요예측솔루션실증...AX지원MO...",
-  "SKT·KISTI,디지털트윈기반양자암호통신망연동기술개발",
-  "우리넷,전송장비표준PTN전환후'M/S1위'",
-  "매드포갈릭,추석연휴'그랑데이'매일운영...프리미엄세트추가30%할...",
   "엔비디아가불붙인'양자컴'…국내관련주줄줄이급등",
   "[똑똑한추석]매드포갈릭,던킨,BBQ,스타벅스,요기요,오비맥주카스",
   "[모닝리포트]\"우리넷,AI시대양자암호수요확대\"",
@@ -6090,7 +6082,15 @@
   "세종시,NH농협·하나은행과지역성장펀드조성추진",
   "백악관,오픈AI·앤트로픽최신모델영국제공보류요청",
   "미국채30년물금리22년만에최고...국채매도세확산",
-  "\"추석에도한남동농성\"…삼성DX노조,이재용자택앞차례상"
+  "\"추석에도한남동농성\"…삼성DX노조,이재용자택앞차례상",
+  "챗GPT다음은클로드…국내AI앱2위굳혀",
+  "'조영남♥'서은혜,임신축하쏟아졌는데…父\"초음파사진=AI이미지\"...",
+  "美트럼프\"반도체미국서만들어라\"…정작HBM은삼성전자·SK하이닉스...",
+  "로라클,20배금롱전량청산…누적손실125만달러",
+  "K-윤활기유,하반기도'맑음'...반사이익넘어공급망대안으로",
+  "배터리잔량과성능상태는서로다른정보",
+  "EU,영국에중국산자동차관세인상촉구",
+  "FT\"EU,영국에中자동차관세인상촉구\"보도"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
