@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868067",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=89014",
-  "http://coinreaders.com/260124",
-  "https://www.sedaily.com/article/20094954",
-  "https://www.mediapen.com/news/view/1126040",
-  "https://www.mk.co.kr/article/12161340",
-  "https://www.the-today.com/news/articleView.html?idxno=90731",
-  "https://view.asiae.co.kr/article/2026092514443986061",
   "http://coinreaders.com/260122",
   "https://www.yna.co.kr/view/AKR20260925030400075?input=1195m",
   "https://www.thelec.kr/news/articleView.html?idxno=62774",
@@ -3000,15 +2992,19 @@
   "https://www.sedaily.com/article/20095040",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2442963",
   "https://www.the-today.com/news/articleView.html?idxno=90764",
-  "https://www.hankyung.com/article/202609266145i"
+  "https://www.hankyung.com/article/202609266145i",
+  "http://www.bizwnews.com/news/articleView.html?idxno=147020",
+  "https://www.g-enews.com/view.php?ud=202609261216575488923c501012_1",
+  "http://www.newstomato.com/ReadNews.aspx?no=1314760&inflow=N",
+  "http://www.newskr.kr/news/articleView.html?idxno=106668",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154859",
+  "https://www.ablenews.co.kr/news/articleView.html?idxno=233457",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671854",
+  "https://www.newsis.com/view/NISX20260926_0003803749"
  ],
- "last_run": "2026-09-26T12:25:54.490999+09:00",
+ "last_run": "2026-09-26T12:31:10.058966+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-09-26T06:25:23.529410+09:00",
-   "협상 반도체주 상승 강세 뉴욕증시 기대에 이란"
-  ],
   [
    "2026-09-26T06:30:34.650793+09:00",
    "반도체처럼 따로 배터리도 오나 시대 생산 설계"
@@ -3168,17 +3164,13 @@
   [
    "2026-09-26T12:10:24.120848+09:00",
    "반등 투자 커지자 경계해야 쏠림 국내 설비투자도"
+  ],
+  [
+   "2026-09-26T12:30:32.092763+09:00",
+   "4830억원 5년간 투입 기술 충북도 다각화"
   ]
  ],
  "seen_titles": [
-  "이원택지사\"선순환형피지컬AI산업생태계구축\"",
-  "전남광주특별시,반도체·지역현안속도…통합성과확산과제",
-  "AMD615달러돌파…26년만에주식분할나올까?",
-  "NYT도BBC도...“진전없었던미중회담...내용빈약”",
-  "미증시반등에서학개미'귀환'…주식보유액2000억달러육박",
-  "“굵직한핵심현안공동발표전무”…미중정상회담,화려한의전속...",
-  "시진핑中주석,트럼프美대통령과회담…\"양국이공존의길걷도록해...",
-  "고가산불방지ICT플랫폼…잦은오류에유명무실?",
   "마이크론목표가1,300달러로상향!D램가격60%넘게뛰었다",
   "\"영화계심장서韓작품을\"…할리우드서제1회LA한국영화제개막",
   "메타,키링형AI기기'뮤즈참'발표",
@@ -6170,7 +6162,15 @@
   "美는‘AI비서’별천지,‘뮤즈’가대역전노린다[트럼프스톡커]",
   "국경불법물품차단위한한멕시코세관공조",
   "AI입은산업디자인…中제조업스마트전환가속",
-  "대출심사파고드는핀테크…2금융권과잇달아'동맹'"
+  "대출심사파고드는핀테크…2금융권과잇달아'동맹'",
+  "SK텔레콤,공공AI·빅데이터혁신위한'그랜데이터퍼블릭데이2026'개...",
+  "솔리다임,내년美상장나서나…투자은행과IPO제안회의진행",
+  "SK하이닉스솔리다임,내년미상장추진…몸값204조원거론",
+  "SK하이닉스손자회사도미증시상장하나",
+  "美·中,무역휴전2개월'연장'",
+  "장애인보조기기소모품의지속적보장과지역형평성을위한과제",
+  "이대통령부부,‘랜덤댄스플레이’현장깜짝방문…K팝팬들과소...",
+  "충북도,5년간이차전지4830억원투입…기술다각화"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
