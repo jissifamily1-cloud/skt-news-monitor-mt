@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://kjmbc.co.kr/NewsArticle/1538483",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=716860",
-  "https://news.jtbc.co.kr/article/NB12320030?influxDiv=NAVER",
-  "https://www.hankyung.com/article/2026092560537",
-  "https://www.nytimes.com/2026/09/25/business/dealbook/trump-xi-tech-ceos-state-dinner.html?partner=naver",
-  "https://www.sportschosun.com/baseball/2026-09-25/202609250100170750011223",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=127287",
-  "https://www.starnewskorea.com/sports/2026/09/25/2026092518463276141",
-  "http://www.osen.co.kr/article/G1112882040",
   "https://m.sports.naver.com/general/article/065/0000301999",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609250055&t=NN",
   "https://www.venturesquare.net/1116236/",
@@ -3000,9 +2991,18 @@
   "https://www.sportsworldi.com/newsView/20260926506148",
   "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html?partner=naver",
   "https://www.dailian.co.kr/news/view/1694178/?sc=Naver",
-  "https://www.kukinews.com/article/view/kuk202609260026"
+  "https://www.kukinews.com/article/view/kuk202609260026",
+  "https://www.sedaily.com/article/20094846",
+  "https://www.tokenpost.kr/news/breaking/414461",
+  "https://zdnet.co.kr/view/?no=20260926114927",
+  "https://www.bloter.net/news/articleView.html?idxno=674126",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259035",
+  "https://www.ytn.co.kr/_ln/0104_202609261659351885",
+  "https://www.yna.co.kr/view/AKR20260926036100009?input=1195m",
+  "https://www.dailian.co.kr/news/view/1694602/?sc=Naver",
+  "https://view.asiae.co.kr/article/2026092614330245877"
  ],
- "last_run": "2026-09-26T17:01:11.250707+09:00",
+ "last_run": "2026-09-26T17:05:48.944547+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3103,15 +3103,6 @@
   ]
  ],
  "seen_titles": [
-  "전남광주교육청반도체실습'미니팹'구축",
-  "이천시·GH,18만㎡반도체소부장클러스터추진",
-  "승객이물붓자승무원은담갔다…이륙직전'아찔한화재'",
-  "백악관,오픈AI·앤트로픽에\"英사전검증에응하지말라\"",
-  "Trump,XiandtheTechMoguls",
-  "'이럴수가'韓진짜굴욕의순간나오나…0:3→0:5더멀어졌다[나고야...",
-  "'높았다'기대모은日리바운드왕출신정통센터1옵션존무니...더블...",
-  "'너무방심했나'소형준이어조병현도무너졌다...4점차극복가능할...",
-  "‘참사엄습’韓대표마무리듀오도무너졌다,日사회인에6회추가실...",
   "[화보]안양정관장,팬과함께한26-27시즌출정식",
   "'고환율·고유가·고금리'3高폭탄에도\"강력한방어\"…내년영업익2배...",
   "플래티어,금융AI도‘답변’넘어업무실행으로…에이전틱AI‘엑스...",
@@ -6102,7 +6093,16 @@
   "국내50m실내소총사격장한곳도없는데,빛난김지은의동메달…‘...",
   "TheEzraKleinShow:JensenHuangThinksA.I.AlarmismHasGoneTooFar",
   "AI배우가생각하는'AI규제론'은?\"램프에지니다시넣는것\"",
-  "오픈AI에이전트‘해킹’파장…호주정부웹사이트곳곳이표적"
+  "오픈AI에이전트‘해킹’파장…호주정부웹사이트곳곳이표적",
+  "“공모주대세는피지컬AI”…빅웨이브·브릴스에‘10조뭉칫돈’모...",
+  "미중정상회담,AI대화지속합의…8개성과보도",
+  "미·중정상회담뒤…미의회서AI안전협정요구",
+  "[AI대전환리딩전략]신일전자,초격차모터기술력으로시장재편",
+  "[AI로또③]서양점성술로로또번호를뽑아봤다···하늘에는로또...",
+  "백악관\"미중,AI대화채널구축합의...국제수로통행료반대\"",
+  "미항소법원\"국방부의앤트로픽블랙리스트지정은적법\"",
+  "시진핑,美국빈방문마치고베이징귀국…트럼프와현안논의[미중정...",
+  "SNS이용자10명중8명\"AI로만들었다면밝혀야\""
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
