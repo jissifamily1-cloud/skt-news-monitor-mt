@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260925000103",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2317284",
-  "https://www.hani.co.kr/arti/international/america/1279458.html",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=311555",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4108645",
-  "https://www.ddaily.co.kr/page/view/2026092513140255813",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318263",
-  "http://www.metroseoul.co.kr/article/20260924500063",
   "https://www.techm.kr/news/articleView.html?idxno=155579",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=89009",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170726",
@@ -3000,9 +2992,17 @@
   "https://www.newsis.com/view/NISX20260920_0003797197",
   "https://zdnet.co.kr/view/?no=20260925174205",
   "https://zdnet.co.kr/view/?no=20260926093516",
-  "https://www.joongang.co.kr/article/25464855"
+  "https://www.joongang.co.kr/article/25464855",
+  "https://slownews.kr/166960",
+  "https://www.edaily.co.kr/News/Read?newsId=01882726645583728&mediaCodeNo=257",
+  "https://www.techm.kr/news/articleView.html?idxno=155574",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490362",
+  "https://www.dt.co.kr/article/12085834",
+  "https://www.mt.co.kr/future/2026/09/26/2026092311410947919",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=881802",
+  "https://www.etnews.com/20260922000236"
  ],
- "last_run": "2026-09-26T11:06:27.953837+09:00",
+ "last_run": "2026-09-26T11:10:52.903853+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3172,17 +3172,13 @@
   [
    "2026-09-26T11:05:54.977385+09:00",
    "1년새 20대 스마트폰세대의 구매 늘었다"
+  ],
+  [
+   "2026-09-26T11:10:25.911243+09:00",
+   "공급망 장비 낮은 국산화율 위기"
   ]
  ],
  "seen_titles": [
-  "[2026AG]사격,남자50m소총3자세단체전서동메달…2회연속입상",
-  "SK텔레콤,양자암호·공공AI기술고도화…고객신뢰지표도직접만든다",
-  "트럼프면전서대만독립‘반대’요구한시진핑…“의전화려,성과는...",
-  "'주관식'수능,취지는알겠는데채점은누가어떻게하나요?",
-  "미중정상회담개최…정상간우호확인과분야별다각적협력방안논...",
-  "서울시,추석에도복지안전망가동…취약어르신4만2000명안부확인",
-  "성장률올라도자영업은한숨...연소득1200만원이하사업장838만개",
-  "몸집줄이는LG헬로비전…LG유플러스합병수순밟나",
   "메타,AI승부처'안경'으로옮긴다…'뮤즈'앞세워애플에도전장",
   "유가·국채금리출렁…뉴욕증시혼조마감",
   "추석상여금투자법…ETF자산배분전략추천3選",
@@ -6174,7 +6170,15 @@
   "\"中가전,저가공세한계도달\"…국내가전업계,본격반격나선다",
   "‘손가락으로걸어다니는’자율로봇손나왔다",
   "메타,AI에이전트뮤즈신기능체험자모집…신청도AI에게",
-  "스마트폰세대의첫차…20대전기차구매1년새130%늘었다"
+  "스마트폰세대의첫차…20대전기차구매1년새130%늘었다",
+  "피감기관800곳,국정감사증인누가나오나.",
+  "이마트프로모션AI로바꾼코르카…이젠기업AX공략",
+  "[스냅드래곤서밋]3일간의'에이전틱AI장정'마무리...퀄컴,AI주도권...",
+  "AI반도체성능극대화기대감…유리기판관련주전반에매수온기확...",
+  "“우린2차대전동맹”…트럼프·시진핑맞장구에비상걸린다카이치",
+  "K-뉴스페이스의꿈쏘아올린다…누리호5차발사주목받는이유",
+  "\"선물세트배송주소지입력\"URL눌렀다낭패…추석'스미싱'주의보",
+  "[ET시선]낮은반도체장비국산화율…'공급망위기'다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
