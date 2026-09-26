@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.delighti.co.kr/news/articleView.html?idxno=122404",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157485",
-  "https://www.viva100.com/article/20260923500602",
-  "https://www.newsis.com/view/NISX20260923_0003802275",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253344",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=240163",
-  "https://www.onews.tv/news/articleView.html?idxno=287865",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277288",
-  "https://www.ajunews.com/view/20260923135829705",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=867468",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702778",
   "https://www.businessplus.kr/news/articleView.html?idxno=117291",
@@ -3000,9 +2991,18 @@
   "https://www.theguru.co.kr/news/article.html?no=107565",
   "http://www.inews24.com/view/2009076",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270517&CMPT_CD=P0010",
-  "https://www.mt.co.kr/society/2026/09/26/2026092617430422200"
+  "https://www.mt.co.kr/society/2026/09/26/2026092617430422200",
+  "http://www.osen.co.kr/article/G1112882398",
+  "http://www.osen.co.kr/article/G1112882396",
+  "http://www.osen.co.kr/article/G1112882397",
+  "http://www.osen.co.kr/article/G1112882387",
+  "https://www.mydaily.co.kr/page/view/2026092617512845300",
+  "https://www.sportschosun.com/baseball/2026-09-26/202609260100174090011482",
+  "http://www.dailyesports.com/view.php?ud=202609261746415002b91e133c1f_27",
+  "https://www.edaily.co.kr/News/Read?newsId=02204166645584056&mediaCodeNo=257",
+  "https://www.ajunews.com/view/20260926092621678"
  ],
- "last_run": "2026-09-26T18:01:18.500952+09:00",
+ "last_run": "2026-09-26T18:05:47.689903+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3080,18 +3080,13 @@
   [
    "2026-09-26T18:00:40.838361+09:00",
    "이직한 법원 50대 영업비밀 실형 핵심 들고 선고"
+  ],
+  [
+   "2026-09-26T18:05:20.659901+09:00",
+   "반토막 오라클 경고음 통보에 잇따라 불가항력 AI버블 투자"
   ]
  ],
  "seen_titles": [
-  "SKT,추석연휴해외가족여행부터국내T멤버십까지다양한혜택마련",
-  "SKT,추석맞아가족로밍·T멤버십혜택강화",
-  "SKT“추석연휴,가족여행부터일상속즐거움까지다양한혜택제공...",
-  "초대형골목놀이에K귀신까지…서울랜드의색다른추석",
-  "SKT,추석맞아'가족로밍'·T멤버십혜택소개",
-  "\"통신의미래역할은?\"…SKT,사람과AI잇는'연결허브'로자리매김",
-  "SKT,추석연휴로밍·멤버십혜택마련",
-  "추석맞이'T멤버십'대방출…SKT의가족여행·영화·외식혜택",
-  "SKT,추석연휴'T멤버십'혜택…로밍·여행·문화생활할인",
   "SKT,KISTI와양자암호통신망연동기술개발",
   "SKT,추석연휴'로밍·여행·외식'혜택강화",
   "땅스부대찌개,SKTT멤버십'티나는쿠폰'제휴할인",
@@ -6082,7 +6077,16 @@
   "[통신리뷰]LG유플러스,소상공인맞춤형AX솔루션개발나선다(9월4주...",
   "[스냅드래곤서밋2026]퀄컴\"인식중심AI,생성형AI를거쳐에이전틱...",
   "한국형히어로,40주년맞은'우뢰매'를기억하나요?",
-  "반도체핵심영업비밀들고이직한50대…법원,실형선고"
+  "반도체핵심영업비밀들고이직한50대…법원,실형선고",
+  "[사진]키움김웅빈투런포,'넘어갔다고'",
+  "[사진]키움김웅빈,'고영표상대로달아나는투런포'",
+  "[사진]김웅빈에게투런포내준고영표",
+  "[사진]투런포허용에굳어버린KT선발고영표",
+  "[MD포토]데이비슨'선두타자안타'",
+  "[포토]고영표,3회까지3실점째",
+  "[AG]40대배재민-연제길-이광노대전격투서日꺾고金획득",
+  "얽히고설킨'AI조절론'…미·중대립에국제공조도'글쎄'",
+  "오라클'불가항력'통보에오픈AI투자반토막...AI버블경고음잇따라"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
