@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260924141044LkU",
-  "https://www.chosun.com/economy/money/2026/09/27/7B7IGMIGIVHJ5OPWU2MATOA3A4/",
-  "https://view.asiae.co.kr/article/2026092308585757280",
-  "https://www.hankyung.com/article/202609218289i",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=70547",
-  "https://www.munhwa.com/article/11619496",
-  "https://www.edaily.co.kr/News/Read?newsId=01161126645584384&mediaCodeNo=257",
-  "https://www.newsis.com/view/NISX20260927_0003803977",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6774",
-  "https://www.newsway.co.kr/news/view?ud=2026092217025451403",
   "https://www.hani.co.kr/arti/area/capital/1279544.html",
   "https://www.hankyung.com/article/2026092664736",
   "https://www.mt.co.kr/tech/2026/09/27/2026092216555580640",
@@ -3000,9 +2990,19 @@
   "https://www.incheonilbo.com/news/articleView.html?idxno=1332884",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8672113",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1332886",
-  "https://www.sentv.co.kr/article/view/sentv202609230161"
+  "https://www.sentv.co.kr/article/view/sentv202609230161",
+  "http://www.ujeil.com/news/articleView.html?idxno=392671",
+  "http://www.ujeil.com/news/articleView.html?idxno=392667",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2303632",
+  "http://www.ujeil.com/news/articleView.html?idxno=392648",
+  "https://www.cstimes.com/news/articleView.html?idxno=721985",
+  "http://www.ujeil.com/news/articleView.html?idxno=392641",
+  "https://www.segye.com/newsView/20260927508481?OutUrl=naver",
+  "https://www.koreadaily.com/article/20260925170851275",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725710",
+  "http://www.ujeil.com/news/articleView.html?idxno=392642"
  ],
- "last_run": "2026-09-27T18:50:48.130672+09:00",
+ "last_run": "2026-09-27T18:55:46.483991+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3303,16 +3303,6 @@
   ]
  ],
  "seen_titles": [
-  "목대균KCGI자산운용대표“최근조정은반도체재평가과정…韓제조...",
-  "[칩톡]AI반도체,이제는'빛의속도'경쟁…삼성·SK도뛰어든CPO",
-  "상반기'191%'대박낸펀드매니저\"반도체,아직놓을때아냐\"",
-  "재계총수들,추석연휴해외서경영행보",
-  "“63만·500만간다”삼전·닉스장밋빛전망속추석후상승장기대감...",
-  "30년이넘은경기도'분도론'불씨…\"특별한보상'이전부아냐",
-  "'행정통합의역설'지역갈등분출하는전남광주특별시",
-  "[증시프리즘]7천피되찾은코스피…개미는아직'본전찾기'싸움중",
-  "추석끝나면'실적의시간'…3분기성적표기대반우려반",
-  "“오늘은무슨빵을해주나”…갓구운빵으로익어가는산골의돌봄",
   "7000선회복한코스피…PCE물가지수·마이크론실적주목[주간전망]",
   "5번째'꿈'미리보는누리호(종합)",
   "821조원예산·162조원미래기금…연말재정심사최대변수[4분기경제...",
@@ -6302,7 +6292,17 @@
   "[도정100일,길을묻다]\"협치·규제·재정\"…전직부지사4인민선9기...",
   "올해세수예상보다50조원이상늘어날듯",
   "경기집값상승률,반년만에서울추월",
-  "‘규제개혁부장관’자처한이소영…중기부,정책변화예고"
+  "‘규제개혁부장관’자처한이소영…중기부,정책변화예고",
+  "'울산제조AI컴퓨팅센터'구축완료",
+  "놀면서진로찾는'학생창의누리관'개관",
+  "책장이무대가되고,독서가창작이되는공간",
+  "울산과학관,중고생'과학실험교실'운영…첨단기자재활용",
+  "안민석교육감\"스마트폰대신독서·예체능\"…OECD서경기미래교육3대...",
+  "\"AI시대,숙련기술이새일자리기회…정부·기업이함께인재양성나...",
+  "85주째오른서울아파트…무주택자,사기도버티기도어렵다",
+  "텀블러리지총격범과챗GPT대화공개…BC주법무장관\"충격\"",
+  "외국인美주식순매수9420억달러…사상최대",
+  "고려아연,친환경경영성과인정받았다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
