@@ -1,19 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12320512?influxDiv=NAVER",
-  "https://www.busan.com/view/busan/view.php?code=2026092915482162648",
-  "https://www.yna.co.kr/view/AKR20260929130600004?input=1195m",
-  "https://www.sedaily.com/article/20096118",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703586",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16227380",
-  "http://www.segyebiz.com/newsView/20260929513732?OutUrl=naver",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855066",
-  "https://www.hankookilbo.com/news/article/A2026092913570005547?did=NA",
-  "https://byline.network/?p=9004111222621543",
-  "https://www.naeil.com/news/read/603711",
-  "https://www.yna.co.kr/view/AKR20260929069651064?input=1195m",
-  "https://www.safetynews.co.kr/news/articleView.html?idxno=250771",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=209695",
   "https://www.jjan.kr/article/20260929500269",
   "https://www.topstarnews.net/news/articleView.html?idxno=16227383",
@@ -3000,67 +2987,24 @@
   "https://www.mbceg.co.kr/post/140581",
   "https://www.etnews.com/20260929000354",
   "https://www.ajunews.com/view/20260929203328796",
-  "https://www.mk.co.kr/article/12164165"
+  "https://www.mk.co.kr/article/12164165",
+  "https://www.dkilbo.com/news/articleView.html?idxno=555741",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5012550",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=717172",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444967",
+  "https://www.cstimes.com/news/articleView.html?idxno=722281",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=665465",
+  "https://www.g-enews.com/view.php?ud=20260929203512249ea13369bfa_1",
+  "https://www.dkilbo.com/news/articleView.html?idxno=555731",
+  "https://www.donga.com/news/Politics/article/all/20260929/134755676/1",
+  "https://www.dkilbo.com/news/articleView.html?idxno=555711",
+  "https://www.dkilbo.com/news/articleView.html?idxno=555722",
+  "https://www.busan.com/view/busan/view.php?code=2026092920302269171",
+  "https://www.khan.co.kr/article/202609292041035"
  ],
- "last_run": "2026-09-29T20:40:59.808572+09:00",
+ "last_run": "2026-09-29T20:46:01.914821+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-09-29T14:40:30.474922+09:00",
-   "승부수 전기차가 아이오닉 쏘나타급 현대차 2400만원 공략"
-  ],
-  [
-   "2026-09-29T14:40:30.474922+09:00",
-   "웨어러블 엔젤로보틱스 연구용 공개 피지컬"
-  ],
-  [
-   "2026-09-29T14:40:30.474922+09:00",
-   "메타 반도체ETF 뮤즈 수익률 고공행진 투심 깨운"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "발언하는 문경은 감독 수원"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "포즈 취하는 수원"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "선지원 초기 협력사에 비용"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "경고등 쇼크 쏠림 빚투 국채 옥죈 33조 금융당국"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "대표이사 하는 인사말 감사 곽노정 사장"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "파트너 금리 실적 주목 변동성에도 대응 정필승 증시 10월"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "해법 안전 찾는 모델 안전장치 빅테크 취소"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "엔비디아처럼 월드랩스 AMD 제국 인수 페이페이 야심"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "에스엠벡셀 완성차 소재 수행 프로젝트 유럽"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "유럽 면세박람회 월드 공략 인지도 중남미 TFWA 담배"
-  ],
-  [
-   "2026-09-29T14:45:27.826473+09:00",
-   "술기 전수 교육거점 로봇내시경 척추수술 글로벌"
-  ],
   [
    "2026-09-29T14:55:22.323051+09:00",
    "문경은 하트 강성욱 만드는 문정현"
@@ -3607,19 +3551,6 @@
   ]
  ],
  "seen_titles": [
-  "李대통령“메가프로젝트,산업단지·정주여건,묶어추진해야”",
-  "'20년전이건희가받은상'젠슨황도받았다…삼성,뉴욕타임스퀘어...",
-  "전재수·박홍배·이성권,부산발전위해만난다",
-  "반기문\"국제질서재편…한반도비핵화목표분명히해야\"",
-  "李대통령“메가프로젝트성패,투자아닌국민삶”…‘정주형산업도...",
-  "세미파이브,美팹리스와AI추론가속기개발계약...700억규모",
-  "SFA반도체주가,9월29일10,550원0.19%하락",
-  "[기고]고금리는‘겨울’이아니라‘기후’다",
-  "李대통령\"메가프로젝트,산단·정주여건처음부터묶어추진해야\"",
-  "삼성113조투자이어···아산시,협력기업유치전시동",
-  "송경희위원장“에이전틱AI시대,기업이개인정보·권한지속관리해...",
-  "로엔서지컬“신장결석수술로봇자메닉스,누적수술200례돌파”",
-  "충북10월축제총출동…먹거리·역사·K뷰티다모였다(종합)",
   "로봇점검작업중대재해발생…어떻게막나",
   "현대차그룹,실리콘밸리서글로벌테크인재확보전…AI·로보틱스사업...",
   "[오목대]전북피지컬AI의이름을묻다",
@@ -6606,7 +6537,20 @@
   "수소저장운송클러스터첫삽…AI데이터센터와시너지본격화",
   "AIDC전용요금제'오리무중'…“구체적로드맵제시해야”",
   "국민연금,7월증시조정에평가액182조↓…연초수익률은14.8%",
-  "보스반도체,Arm피지컬AI생태계합류..고객맞춤형반도체개발박차"
+  "보스반도체,Arm피지컬AI생태계합류..고객맞춤형반도체개발박차",
+  "포항시,경북도창업도시조성공동협력",
+  "SK온,美배터리자회사2조채무인수추진",
+  "한국남부발전,15분침수·24시간관제로DR센터배터리화재차단",
+  "LG화학,폭스바겐과차세대·친환경모빌리티등미래차소재개발협력",
+  "인하대GTEP사업단,일본·독일박람회서中企해외마케팅지원",
+  "[기자수첩]일본넘은한국가전,중국에밀리지않으려면",
+  "이대통령“광주군공항이전늦다”…반도체클러스터조성속도전",
+  "대구시,자율주행으로간선·산단화물잇는실증사업본격착수",
+  "“北문제나오면비비꼬는정부…대북송금얘기나올수밖에”[황형준...",
+  "구미아이온큐공급망'양자제조'750억원양자파운드리구상승부수",
+  "케이메디허브,AI신약개발허브도약",
+  "이대통령\"광주군공항이전,2028년은늦다…최대한당기도록\"",
+  "이재용·최태원,뉴욕서“젠슨황축하”"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
