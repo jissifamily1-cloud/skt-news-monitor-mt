@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026100209352434917",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711997",
-  "https://www.thepowernews.co.kr/view.php?ud=20261002092707431de3f0aa1be_7",
-  "http://www.joseilbo.com/news/news_read.php?uid=576741&class=18",
-  "https://www.etoday.co.kr/news/view/2631865",
-  "https://www.etoday.co.kr/news/view/2631864",
-  "https://www.seoulfn.com/news/articleView.html?idxno=639218",
-  "https://biz.chosun.com/policy/policy_sub/2026/10/02/VLHPSJZQCZDDXBSSCU4GLOXVMQ/",
-  "https://thetracker.co.kr/View.aspx?No=4249705",
   "https://www.newspim.com/news/view/20261002000178",
   "https://www.news1.kr/economy/trend/6308440",
   "https://www.ziksir.com/news/articleView.html?idxno=148146",
@@ -3000,9 +2991,18 @@
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=912978",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=44199",
   "https://www.boannews.com/news/articleView.html?idxno=146188",
-  "https://www.mediapen.com/news/view/1127772"
+  "https://www.mediapen.com/news/view/1127772",
+  "http://www.spochoo.com/news/articleView.html?idxno=130731",
+  "https://www.mydaily.co.kr/page/view/2026100320210181545",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315619&inflow=N",
+  "https://www.donga.com/news/Society/article/all/20261002/134776767/2",
+  "https://biz.chosun.com/international/international_general/2026/10/03/VTKPUNYCUZF3VFMTWFBEN73LOY/",
+  "https://www.hankyung.com/article/2026100203896",
+  "https://www.sedaily.com/article/20097957",
+  "https://www.yna.co.kr/view/AKR20261003047000504?input=1195m",
+  "http://www.ggmedinews.com/news/articleView.html?idxno=6895"
  ],
- "last_run": "2026-10-03T20:31:13.014807+09:00",
+ "last_run": "2026-10-03T20:35:53.234469+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3039,15 +3039,6 @@
   ]
  ],
  "seen_titles": [
-  "9월소비자물가2.9%올라두달만에2%대,석유류14.8%상승",
-  "NH농협캐피탈,대안정보활용차담대특화평가모형구축",
-  "[외환]달러강세에1,360원위로…4.10원↑",
-  "9월소비자물가2.9%상승···두달만에2%대복귀",
-  "9월소비자물가2.9%상승…석유류14.8%오르며고공행진",
-  "2%대로내려온물가,안심은이르다…한은“10월다시3%안팎”",
-  "NH농협캐피탈,머신러닝기반자동차담보대출신용평가모형출시",
-  "한은\"10월물가도3%안팎…기저효과감안하면오름세다소확대\"",
-  "물가2.9%로내려왔지만…정부“석유최고가격제없었다면3.5%”",
   "9월물가상승률2.9%…항공료·여행비·내구재,인플레이션견인",
   "9월물가2.9%로두달만에2%대…석유류14.8%·가공식품2.1%↑(종합2보...",
   "9월물가둔화는'통신비착시'…정부\"연2.6%예의주시중\"(종합2보)",
@@ -6038,7 +6029,16 @@
   "서산시립도서관,독서의달독서문화프로그램성료",
   "신복위,24년간297만명채무조정…\"다시설기회는국민권리\"",
   "[은행이뚫린다]잇단침해사고에금융위,4일금융업권긴급점검회의...",
-  "올림픽대표팀김은중호,호주에2-1승리…하정우선제골-윤도영결승골"
+  "올림픽대표팀김은중호,호주에2-1승리…하정우선제골-윤도영결승골",
+  "완투형투수멸종위기시대,완봉승인간문화재고영표가또해냈다......",
+  "'1위포기하지않는다'결승타된3점포디아스…삼성,두산4연승막아...",
+  "김여정\"중거리전략미사일발사훈련…타격피할방법없다\"",
+  "“어색한데계속보게돼”AI드라마10만명이‘좋아요’[트렌디깅]",
+  "北김여정“오늘중거리전략미사일훈련…적들목표놓쳐,타격피할...",
+  "\"이신호보이면위험\"…서학개미떨게한'시나리오'뭐길래[분석+]",
+  "北김여정“중거리전략미사일발사훈련...타격피할방법없어”",
+  "北\"오늘중거리전략미사일훈련…한·일탐지제한\"",
+  "[건강100세를위하여]자궁근종환자5년새20%증가…가임기,자궁보..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
