@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.news1.kr/photos/8142640",
-  "https://www.news1.kr/photos/8142639",
-  "https://www.newsis.com/view/NISX20261005_0003814246",
-  "https://www.newsis.com/view/NISX20261005_0003814236",
-  "https://www.news1.kr/it-science/cc-newmedia/6310360",
-  "https://www.news1.kr/it-science/cc-newmedia/6310354",
-  "https://www.news1.kr/photos/8142651",
-  "https://www.news1.kr/photos/8142642",
-  "https://view.asiae.co.kr/article/2026100510163942407",
-  "https://view.asiae.co.kr/article/2026100510075662987",
   "https://www.news2day.co.kr/article/20261004500040",
   "https://www.news2day.co.kr/article/20261005500002",
   "https://www.mt.co.kr/politics/2026/10/05/2026100509070434189",
@@ -3000,9 +2990,19 @@
   "https://www.segye.com/newsView/20261005510463?OutUrl=naver",
   "https://www.polinews.co.kr/news/articleView.html?idxno=744907",
   "https://www.yna.co.kr/view/AKR20261003038500007?input=1195m",
-  "https://www.sportschosun.com/football/2026-10-03/202610030100022530001308"
+  "https://www.sportschosun.com/football/2026-10-03/202610030100022530001308",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16238383",
+  "https://www.suwonilbo.kr/view.html?id=L2610051920496b53",
+  "https://www.newspim.com/news/view/20261005000120",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376244",
+  "https://en.yna.co.kr/view/AEN20261005004600320?input=2106m",
+  "https://view.asiae.co.kr/article/2026100518281418414",
+  "https://www.hankyung.com/article/2026100538547",
+  "http://www.kjdaily.com/article.php?aid=1791196114688260019",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492709",
+  "https://www.dt.co.kr/article/12087486"
  ],
- "last_run": "2026-10-05T19:35:50.576887+09:00",
+ "last_run": "2026-10-05T19:40:58.784346+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3259,16 +3259,6 @@
   ]
  ],
  "seen_titles": [
-  "이강석대우건설대표취임…\"내실바탕으로새로운미래에도전\"",
-  "[인사]㈜한화,신규임원10명승진···분할후첫정기임원인사",
-  "1977년지은옥천분소새집짓는다…33억들여신청사착공",
-  "보안에수백억쏟고도우회로덩그러니…은행들,AI해킹에무력했던...",
-  "오픈AI올트먼“AI혜택위해위험감수해야”",
-  "\"첨단의료기기는여전히기회\"원주의료기기진흥원,인도네시아공략",
-  "대우건설이강석대표이사취임…\"미래사업발굴·전략적M&A추진\"",
-  "'3대핵심방향'제시...대우건설'이강석체제'공식출범",
-  "이강석대우건설대표취임…내실다지고해외·AI미래사업넓힌다",
-  "가을궁궐,조선의시간과마주하다",
   "변압기만웃는게아니다…AIDC가다시매긴‘K기술몸값’",
   "“청년주택놓쳤는데,이제잘찾을거같아요”SH부스찾은20대[헤럴...",
   "뉴욕증시,9월FOMC의사록ㆍ국채금리주목[뉴욕인사이트]",
@@ -6258,7 +6248,17 @@
   "“단풍놀이기차표가진짜공짜?”…열차운임100%돌려받고떠나는...",
   "현대로템,철도·수소인프라로사업다변화…종합모빌리티구축",
   "'윤도영PK결승골'김은중호,호주원정평가전서2-1승리",
-  "'코리안메시발끝살아있네'천재윤도영원맨쇼,환상마르세유턴→파..."
+  "'코리안메시발끝살아있네'천재윤도영원맨쇼,환상마르세유턴→파...",
+  "젤렌스키北포로공개대응,신중58.0%·44.7%(여론조사꽃)",
+  "KT위즈,정규시즌우승에100만관중돌파…염태영“역사적인날”",
+  "[프로야구]폭염·AG뚫고...1236만명역대최다관중신기록",
+  "'투-타완벽한조화'ktwiz,5년만에정규시즌우승하며한국시리즈직...",
+  "AMDCEOtovisitS.Koreathisweekforpartnerships",
+  "출범100일민선9기함평군정…미래산업·농업경쟁력속도올린다",
+  "日다카이치\"한국은중요한이웃…안보·경제협력더강화\"",
+  "미래대응기금시대,지방재정도먼저준비해야/이현",
+  "코스닥살아나자레버리지날았다...미래·키움·삼성등ETF1~5위싹쓸이",
+  "삼성전기,AI·車MLCC‘쌍끌이’…시장굳히기나선다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
