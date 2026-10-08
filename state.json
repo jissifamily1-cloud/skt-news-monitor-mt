@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261008_0003819771",
-  "https://www.sedaily.com/article/20099738",
-  "https://www.hani.co.kr/arti/economy/marketing/1281548.html",
-  "https://www.hankyung.com/article/202610080434g",
-  "https://www.hankookilbo.com/news/article/A2026100814080004972?did=NA",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279310",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077620",
-  "https://www.news2day.co.kr/article/20261008500322",
   "https://www.kgnews.co.kr/news/article.html?no=914469",
   "https://www.pressian.com/pages/articles/2026100817403423710",
   "https://www.newsis.com/view/NISX20261008_0003819676",
@@ -3000,9 +2992,17 @@
   "https://www.newsis.com/view/NISX20261009_0003820018",
   "https://www.news2day.co.kr/article/20261008500336",
   "https://www.etoday.co.kr/news/view/2634133",
-  "https://www.yna.co.kr/view/AKR20261008163800003?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261008163800003?input=1195m",
+  "https://www.dailian.co.kr/news/view/1699700/?sc=Naver",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493925",
+  "https://www.segye.com/newsView/20261008510584?OutUrl=naver",
+  "https://www.g-enews.com/view.php?ud=2026100820591564310c8c1c064d_1",
+  "https://www.hani.co.kr/arti/international/china/1281482.html",
+  "https://www.banronbodo.com/news/articleView.html?idxno=33131",
+  "https://www.tvreport.co.kr/entertainment/article/1081519/",
+  "https://magazine.hankyung.com/business/article/202610092279b"
  ],
- "last_run": "2026-10-09T06:35:52.439518+09:00",
+ "last_run": "2026-10-09T06:40:57.329646+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3036,17 +3036,13 @@
   [
    "2026-10-09T06:35:18.427968+09:00",
    "꿈의 바통이을까 달성한 SK하이닉스로 메모리 영업익"
+  ],
+  [
+   "2026-10-09T06:40:24.445945+09:00",
+   "군공항 광주 클러스터 최태원 호남 점검 방문"
   ]
  ],
  "seen_titles": [
-  "SKT,‘토큰게이트웨이’띄운다…AI인재‘프런티어’전진배치",
-  "[올댓차이나]中증시,연휴후반도체주매도에하락마감…창업판3.1...",
-  "[글로벌핫스톡]中반도체투자수혜…백성계통과기수주급증",
-  "LG엔솔,3분기보조금빼고도흑자…북미배터리공장재가동",
-  "[단독]요금제손보면뭐하나…휴대폰가격올라'효과반감'",
-  "한글날기념'혜자로운'폰트에한글사용굿즈·AI말모이까지",
-  "케이블TV업계,방통위상대'방송통신발전기금분담금'법적소송",
-  "LG유플러스찾아가는매장디지털격차줄인다",
   "[현장]AI는이제'실행'경쟁…'AIFesta2026'가보니",
   "남양주시,‘지역기업AI·DX혁신컨퍼런스’개최…지·산·학협력박...",
   "정무위국감장서'레버리지ETF'공방…野\"청와대가주범\"",
@@ -6038,7 +6034,15 @@
   "우크라버스정류장에러유도폭탄떨어져30명사망",
   "BYD코리아,씨라이언6전국연비챌린지...10일부터진행",
   "뉴욕증시,반도체약세에S&P500·나스닥하락",
-  "'꿈의영업익'달성한K-메모리…SK하이닉스로바통이을까"
+  "'꿈의영업익'달성한K-메모리…SK하이닉스로바통이을까",
+  "美증시,유가급등에AI반도체까지휘청…나스닥1.3%하락",
+  "[주간코스닥외국인]주성엔지니어링·이오테크닉스담았다…리노공업...",
+  "“짜장면한그릇,배달좀…”아빠몰래전화건9살딸,3분뒤도착...",
+  "\"메타매각무산딛고5억달러수혈\"…中마누스,팀재구축",
+  "미국,중AI기업투자미신고첫제재…투자액의2배‘벌금’",
+  "[주간미디어동향]이언주MBC보도국장임명동의통과外",
+  "김태진,\"세상에서로그아웃하고싶어\"…차유리산산조각→방전에'패...",
+  "최태원,광주군공항첫방문…호남반도체클러스터점검"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
