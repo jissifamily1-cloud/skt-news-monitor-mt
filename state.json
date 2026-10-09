@@ -1,22 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273739&CMPT_CD=P0010",
-  "https://www.nbntv.kr/news/articleView.html?idxno=340929",
-  "https://www.ccreview.co.kr/news/articleView.html?idxno=359386",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000020988&cp=nv",
-  "http://www.paxetv.com/news/articleView.html?idxno=283692",
-  "https://biz.heraldcorp.com/article/10897117",
-  "https://www.mt.co.kr/stock/2026/10/08/2026100814583240839",
-  "https://www.etoday.co.kr/news/view/2633942",
-  "http://www.newsmaker.or.kr/news/articleView.html?idxno=183849",
-  "http://www.newsmaker.or.kr/news/articleView.html?idxno=183851",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=231408",
-  "https://view.asiae.co.kr/article/2026100813480574972",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16953",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712967",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712966",
-  "https://www.newspim.com/news/view/20261008000802",
   "https://www.nocutnews.co.kr/news/6588972",
   "https://imnews.imbc.com/news/2026/world/article/6856719_36925.html",
   "https://www.g-enews.com/view.php?ud=2026100820230277050c8c1c064d_1",
@@ -3000,23 +2984,27 @@
   "https://www.mk.co.kr/article/12172429",
   "https://www.newsis.com/view/NISX20261009_0003820227",
   "https://www.sedaily.com/article/20099932",
-  "https://www.mk.co.kr/article/12172452"
+  "https://www.mk.co.kr/article/12172452",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012192",
+  "https://www.sportsworldi.com/newsView/20261009507151",
+  "https://www.kgnews.co.kr/news/article.html?no=914501",
+  "https://news.ifm.kr/news/articleView.html?idxno=481254",
+  "https://www.mk.co.kr/article/12172457",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745343",
+  "https://www.hankyung.com/article/2026100928671",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727285",
+  "http://www.gjdream.com/news/articleView.html?idxno=673330",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445504",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42245",
+  "https://www.mk.co.kr/article/12172464",
+  "https://www.hankyung.com/article/2026100928621",
+  "https://www.hankyung.com/article/2026100928681",
+  "https://www.hankyung.com/article/2026100928691",
+  "https://www.hankyung.com/article/2026100928651"
  ],
- "last_run": "2026-10-09T17:35:56.295195+09:00",
+ "last_run": "2026-10-09T17:41:04.745830+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-10-09T11:40:22.304814+09:00",
-   "총리와 만세삼창하는 참석자들"
-  ],
-  [
-   "2026-10-09T11:40:22.304814+09:00",
-   "국무총리 국민의례하는"
-  ],
-  [
-   "2026-10-09T11:40:22.304814+09:00",
-   "총리 축사하는"
-  ],
   [
    "2026-10-09T12:00:40.159759+09:00",
    "재무와 압박 EU 관세 중국산 통화 부총리"
@@ -3140,25 +3128,21 @@
   [
    "2026-10-09T17:35:17.985599+09:00",
    "반도체값 품귀 소재까지 뛴다"
+  ],
+  [
+   "2026-10-09T17:40:25.534280+09:00",
+   "추론 해고된 오픈AI서 과정 감시해야 연구원"
+  ],
+  [
+   "2026-10-09T17:40:25.534280+09:00",
+   "러시 발행 담보 덜고 AI투자 확대 자금조달 빅테크 부담 회사채"
+  ],
+  [
+   "2026-10-09T17:40:25.534280+09:00",
+   "유럽 돌파 누적판매 50만대 현대차"
   ]
  ],
  "seen_titles": [
-  "한미일포함15개국,전기차등中과잉생산공동대응",
-  "취임100일‘시민소통’콘서트…성수석이천시장“현장에서답찾아...",
-  "KAIST-독일드레스덴공과대,차세대메모리작동원리규명…'도메인...",
-  "KCC건설,'향남역그로브스위첸'견본주택개관…933가구분양",
-  "‘출범100일’민형배호“통합의힘으로더큰미래연다”",
-  "미국등14개국·EU,‘제조업과잉생산대응’협의체구성",
-  "[중앙시평]그래도최소안전판은필요하다…‘미·중AI핫라인’",
-  "월드옥타,APEC·혁신도시中선전서글로벌공동번영모색",
-  "[사설]삼성전자분기영업익107조…혁신DNA지켜나가길",
-  "노을따라休~고요가쌓이고근심이저문다",
-  "상품교역전망3.9%로상향…AI상품이증가분47%차지",
-  "[성남민선9기공약대해부③]신상진,오리역제4테크노밸리속도",
-  "[오산민선9기공약대해부③]조용호시장,철길로여는교통도시오...",
-  "[시론]11대1이말해주지않는것",
-  "[고영경의마켓나우]7.8%성장베트남으로반도체가가는까닭은",
-  "[증시프리즘]외국인·기관\"조선·방산·바이오담았다\"…핵심종목순...",
   "[더페어돋보기]\"3분기어닝시즌개막\"…반도체눈높이하향속조선·...",
   "장세일군수,민선9기100일맞아...6대군정방침과미래성장비전제...",
   "트럼프,합의에미온적...유가'쑥'·뉴욕증시'뚝'",
@@ -6142,7 +6126,23 @@
   "\"1100억투자해1조수익\"…회장님은주식고수",
   "\"남들은당신에게관심없다\"…전문의가밝힌‘프로예민러’생존법",
   "“호남반도체가장빠른속도로”…최태원,광주부지직접점검",
-  "소재까지품귀…반도체값더뛴다"
+  "소재까지품귀…반도체값더뛴다",
+  "\"우~\"최다안타경쟁중인데고의4구→사직구장야유폭발!그래도204안...",
+  "‘204vs204’…레이예스-최원준,안타왕경쟁끝까지간다",
+  "전국교원2만명국회앞집회…\"아동학대관련법개정·정치기본권보...",
+  "최태원SK회장\"용인12년앞당겨도부족…광주반도체공장,전력늦어...",
+  "AI호황이이란戰충격압도…WTO,무역성장률2배상향",
+  "LG엔솔,보조금없이3391억흑자···'진짜실력'인가,일회성반등인...",
+  "\"AI성장성에균열\"vs\"계산방식차이일뿐\"",
+  "\"삼전닉스처럼성과급달라\"…마이크론대만노조99%파업찬성",
+  "최태원\"호남반도체,전력·용수늦어도먼저착공\"",
+  "최태원SK회장,전남광주반도체부지방문…\"최대한빠른속도로건설...",
+  "최태원회장,\"광주반도체공장최대한빠른속도로건설\"...조성준비상...",
+  "[단독]“1100억투자해1.2조먹었습니다”…남의회사로대박낸회장님",
+  "최태원SK회장\"호남반도체,수요있으면더크게짓겠다\"",
+  "빅테크,반도체담보자금조달러시…회사채발행부담덜고AI투자확대",
+  "오픈AI서해고된연구원…\"AI추론과정감시해야\"",
+  "현대차,유럽전기차누적판매50만대돌파"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
