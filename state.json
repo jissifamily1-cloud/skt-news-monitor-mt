@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438485",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=406973",
-  "https://www.newsis.com/view/NISI20261009_0021482523",
-  "https://www.newsis.com/view/NISI20261009_0021482531",
-  "https://www.newsis.com/view/NISI20261009_0021482532",
-  "https://www.yna.co.kr/view/PYH20261009026000013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261009026100013?input=1196m",
-  "https://www.newsis.com/view/NISI20261009_0021482528",
   "https://www.newsis.com/view/NISI20261009_0021482530",
   "https://www.newsis.com/view/NISI20261009_0021482515",
   "https://www.newsis.com/view/NISI20261009_0021482529",
@@ -3000,9 +2992,17 @@
   "http://www.joseilbo.com/news/news_read.php?uid=577106&class=53",
   "https://www.newspim.com/news/view/20261009000071",
   "https://www.g-enews.com/view.php?ud=202610092242463259fda4f5ab74_1",
-  "https://tk.newdaily.co.kr/site/data/html/2026/10/09/2026100900045.html"
+  "https://tk.newdaily.co.kr/site/data/html/2026/10/09/2026100900045.html",
+  "https://www.mediapen.com/news/view/1129020",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96808",
+  "https://www.koreadaily.com/article/20261009145233576",
+  "https://www.newstnt.com/news/articleView.html?idxno=722147",
+  "https://www.mt.co.kr/tech/2026/10/08/2026100821243595232",
+  "https://zdnet.co.kr/view/?no=20261009111208",
+  "https://www.edaily.co.kr/News/Read?newsId=01666246645611608&mediaCodeNo=257",
+  "https://zdnet.co.kr/view/?no=20261010065253"
  ],
- "last_run": "2026-10-10T06:50:47.162988+09:00",
+ "last_run": "2026-10-10T06:56:00.029217+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3020,17 +3020,17 @@
   [
    "2026-10-10T06:05:18.272226+09:00",
    "화장품 파는 1조6000억원 스타트업 김성운 창업자의 팔다가"
+  ],
+  [
+   "2026-10-10T06:55:18.885681+09:00",
+   "주가는 확인된 내줘 230달러 수출로 대만 강력한 수요"
+  ],
+  [
+   "2026-10-10T06:55:18.885681+09:00",
+   "신한은행 김종철 제도 방미통위원장 CI 유출에 갱신"
   ]
  ],
  "seen_titles": [
-  "금융권해외발해킹,18건중16건공격자누군지도몰라",
-  "삼성전자영업익107조인데코스피2.62%하락…왜?",
-  "AI기업들빚내서칩산다…스페이스X·브로드컴대규모자금조달",
-  "경북도,AI돌봄지원로봇현장안착점검...아동돌봄부담덜어낸다",
-  "삼성전자3분기영업익100조돌파…주주환원‘110조’시대",
-  "펀드모집3배늘었는데IPO는제자리…세컨더리시장키운다",
-  "AI가터뜨린‘보안인력난’…상반기채용수요2배껑충",
-  "“삼전실적피크아웃?아직멀었다”내년영업익630조전망",
   "티엘비,고부가메모리모듈확대…환율부담에도이익성장",
   "금융권해외발해킹90%는공격자못밝혀...IP추적한계",
   "AI로빨라진해킹…방어속도가관건",
@@ -6022,7 +6022,15 @@
   "고금리·AI우려에도뉴욕증시‘동반상승’...모더나14%·팔란티어5%...",
   "[호주특징주]엔비디아지원퍼머스,50억달러IPO철회…AI투자'옥석...",
   "미법무부,중국테크기업연계도메인압수…해킹인프라무력화",
-  "경북도,‘가속기기술’첨단산업경쟁력강화"
+  "경북도,‘가속기기술’첨단산업경쟁력강화",
+  "[美증시특징주]루멘텀,CEO\"2029년까지완전매진\"발언에급등…광통...",
+  "뉴욕증시,기술주반등·에너지공급합의에상승…나스닥0.64%↑",
+  "허리케인‘이사이아스’3등급으로강화…조지아비상대응돌입",
+  "성균관대·강북삼성병원연구팀,혈액기반생체나이가속화,50세미만...",
+  "신한은행CI유출에…김종철방미통위원장\"재사용막는제도개선\"",
+  "애플,‘스마트홈허브’베일벗나…13일공개유력",
+  "[TODAY엔비디아]강력한대만수출로확인된AI수요…주가는230달러내줘",
+  "김종철방미통위원장,신한은행CI유출에\"갱신제도추진”"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
