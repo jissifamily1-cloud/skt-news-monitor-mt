@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713133",
-  "https://www.aitimes.com/news/articleView.html?idxno=216099",
-  "https://ysmbc.co.kr/NewsArticle/1540326",
-  "https://www.thelec.kr/news/articleView.html?idxno=63509",
-  "http://topclass.chosun.com/news/articleView.html?idxno=36915",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16242591",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=745326",
-  "https://www.ytn.co.kr/_ln/0104_202610091714097508",
   "https://biz.chosun.com/sports/sports_general/2026/10/09/YLISNDF3NFGOTAMJCI6UKX2R4I/",
   "https://www.starnewskorea.com/sports/2026/10/09/2026100910540734865",
   "https://www.hankookilbo.com/news/article/A2026100917120005516?did=NA",
@@ -3000,9 +2992,17 @@
   "https://www.chosun.com/economy/economy_general/2026/10/10/MFSHA4R36JFX5CAVKBOYOUR3R4/",
   "https://www.yna.co.kr/view/PYH20261010023800013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261010023700013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261010022900013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20261010022900013?input=1196m",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012284",
+  "https://kr.aving.net/news/articleView.html?idxno=1815254",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037074",
+  "https://theviewers.co.kr/View.aspx?No=4256019",
+  "https://www.wikitree.co.kr/articles/1165154",
+  "https://www.tokenpost.kr/news/cryptocurrency/420793",
+  "http://www.footballist.co.kr/news/articleView.html?idxno=215682",
+  "https://www.wikitree.co.kr/articles/1165149"
  ],
- "last_run": "2026-10-10T13:40:49.417824+09:00",
+ "last_run": "2026-10-10T13:45:57.344976+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3091,14 +3091,6 @@
   ]
  ],
  "seen_titles": [
-  "최태원SK그룹회장,광주반도체공장핵심기반시설현지확인",
-  "아마존,'파이어OS'버리고안드로이드태블릿첫출시…프리미엄시장...",
-  "순천시,이차전지와우주·방위산업연계",
-  "아마존,고급안드로이드태블릿으로갤탭‧아이패드맞불",
-  "이번주넷플릭스뭐보지?/<나를충전해줘><닥터X:하얀마피아의시...",
-  "루시최상엽,넷플릭스'나를충전해줘'OST'Turningpages'가창",
-  "한은\"일반인용CBDC도입계획없다\"…'프로젝트한강'감시논란선긋...",
-  "\"화장실청소도척척\"...가정집누비는휴머노이드로봇",
   "KIA,NC꺾고3위굳히기…LG는롯데에1-9완패",
   "'레이예스204안타'롯데고춧가루에KIA가웃었다!LG는1-9충격패→이...",
   "NC꺾은KIA3위확정에성큼…LG는롯데에발목",
@@ -6090,7 +6082,15 @@
   "페이커기념우표나온다...우표첩등10종발행",
   "소감밝히는페이커",
   "기념우표발행소감밝히는페이커",
-  "페이커기념우표증정식"
+  "페이커기념우표증정식",
+  "레이예스고의4구에빗발친야유,김태형감독\"염감독그런스타일아...",
+  "손끝의감각을현장밖으로...인피니크,뉴욕서힘반사원격조종로봇...",
+  "민주당안성시지역위원회,'SK반도체방류수대책위원회'출범",
+  "[애널픽]AI에이전트타격가시화...네이버·카카오목표가↓",
+  "빨리맞혀보세요…캐시워크돈버는퀴즈'10월10일'정답은?",
+  "이더리움2만5000~5만달러전망…톰리,토큰화결제역할강조",
+  "수준높은박건하표수원FC'변형스리백'...'박철우10번활용등'풀백...",
+  "이대통령·한총리,대구마트천장붕괴사고에“인명구조에총력”..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
