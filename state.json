@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.chosun.com/international/us/2026/10/09/VGRQMDBZMRA35ADHWYRX63CWCU/",
-  "https://www.g-enews.com/view.php?ud=2026100823202726862bd56fbc3c_1",
-  "https://kjmbc.co.kr/NewsArticle/1540318",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261009154200dWt",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005935458",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96795",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790521&plink=ORI&cooper=NAVER",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96796",
-  "https://www.news1.kr/society/court-prosecution/6315307",
   "https://www.ekn.kr/web/view.php?key=20261009026214198",
   "https://www.joongang.co.kr/article/25468447",
   "https://www.mk.co.kr/article/12172323",
@@ -3000,9 +2991,18 @@
   "https://www.wikitree.co.kr/articles/1165122",
   "https://www.topstarnews.net/news/articleView.html?idxno=16242991",
   "https://zdnet.co.kr/view/?no=20261009182503",
-  "https://biz.heraldcorp.com/article/10898113"
+  "https://biz.heraldcorp.com/article/10898113",
+  "https://biz.sbs.co.kr/article_hub/20000339163?division=NAVER",
+  "https://www.tokenpost.kr/news/market/420748",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494067",
+  "https://www.hankyung.com/article/2026101033507",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=614024",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871490",
+  "http://www.cctimes.kr/news/articleView.html?idxno=931196",
+  "https://news.jtbc.co.kr/article/NB12322299?influxDiv=NAVER",
+  "https://ent.sbs.co.kr/news/article.do?article_id=E10010323159&plink=ORI&cooper=NAVER"
  ],
- "last_run": "2026-10-10T10:15:50.255534+09:00",
+ "last_run": "2026-10-10T10:20:59.427071+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3135,15 +3135,6 @@
   ]
  ],
  "seen_titles": [
-  "광주찾은최태원SK회장\"용수·전력공급지연돼도최단속도착공\"",
-  "[현장연결]최태원SK회장,호남권반도체부지첫방문",
-  "최태원\"호남반도체가장빠른속도로짓겠다…규모는용인의3분의2\"",
-  "최태원,호남반도체클러스터속도전…\"건설비아끼지않겠다\"",
-  "[바로이뉴스]\"백마디말보다눈으로봐야\"…\"용인의3분의2사이즈계...",
-  "누리호탑재'대전샛-1'6차례만에교신성공…주요기능정상확인",
-  "대법,'23명사망'아리셀참사20일선고…항소심서징역15년→4년감형",
-  "[패트롤]인천시-인천시의회-인천시교육청-인천테크노파크",
-  "예상보다27조원적은오픈AI연매출…낙관론제동에AI주하락",
   "'AI딸깍'판치는시대…고생하는인간이살아남는다",
   "86개국무역관이예측한2027년韓무역의미래",
   "한글날100주년축하이어져…野“정치권언어돌아봐야”신경전도",
@@ -6134,7 +6125,16 @@
   "\"적당히일했을뿐인데30억\"…5년뒤퇴사꿈꾸는사내부부의정체",
   "노수산나,넷플릭스'나를충전해줘'서서작가동기강주희로묘한긴...",
   "\"애플,27일OLED터치맥북프로·아이패드미니공개\"",
-  "“새학년개학전에내려가야하는데”…법무부·성평등부세종이전내..."
+  "“새학년개학전에내려가야하는데”…법무부·성평등부세종이전내...",
+  "앤트로픽,클로드에반복적으로욕설하면이용자차단한다",
+  "스노우플레이크7.42%상승…AI종목강세에뉴욕증시동반상승",
+  "비트코인해킹·분실100%보장?...베인캐피털손잡은공룡플랫폼의섬...",
+  "\"삼성전자성과급7.5억\"잭팟…\"서민탈출\"온라인글화제",
+  "주성엔지니어링월요일흐름은?…6.46%상승,장중27만8500원까지올라",
+  "조정식의장\"크로아티아와방산·에너지·인프라협력확대\"",
+  "신용한지사,중국선전서'충북투자세일즈'",
+  "'연애박사'두번째OST'Halfofmyheart'발매…마가렛글래스피가창",
+  "[31stBIFF]주지훈\"'킹덤',넷플릭스뭔지도모를때선택…출연료도..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
