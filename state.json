@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261009066400054?input=1196m",
-  "https://www.xportsnews.com/article/2205996",
-  "https://www.sportschosun.com/baseball/2026-10-09/202610090100061600003954",
-  "https://sports.khan.co.kr/article/202610091649003?pt=nv",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/09/2026100900061.html",
-  "https://www.fnnews.com/news/202610091644073430",
-  "https://news.tf.co.kr/read/economy/2374688.htm",
-  "https://www.seoultimes.news/news/article.html?no=2000100709",
-  "https://www.econovill.com/news/articleView.html?idxno=753161",
   "http://www.popcornnews.net/news/articleView.html?idxno=135495",
   "https://www.yna.co.kr/view/PYH20261009066900054?input=1196m",
   "https://www.yna.co.kr/view/PYH20261009067000054?input=1196m",
@@ -3000,9 +2991,18 @@
   "https://www.yna.co.kr/view/AKR20261010025600075?input=1195m",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478645",
   "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=56036",
-  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1781610"
+  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1781610",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=85853",
+  "https://kidd.co.kr/news/247673",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791067&plink=ORI&cooper=NAVER",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=129966",
+  "https://www.jemin.com/news/articleView.html?idxno=844115",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=312866",
+  "https://www.newscj.com/news/articleView.html?idxno=3439158",
+  "https://www.newspim.com/news/view/20261009000143",
+  "https://www.edaily.co.kr/News/Read?newsId=02791286645611280&mediaCodeNo=257"
  ],
- "last_run": "2026-10-10T12:35:55.309138+09:00",
+ "last_run": "2026-10-10T12:40:57.458280+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3131,15 +3131,6 @@
   ]
  ],
  "seen_titles": [
-  "반도체산단예정부지찾은최태원·민형배",
-  "KIA웃고LG울었다→'레이예스204안타'롯데,LG에9-1대승거두며4연...",
-  "LG침몰!'2안타'물타선→문보경결정적실책까지…'김민성은퇴식+전...",
-  "‘배스30점’KT,소노맹추격뿌리치고시즌2승",
-  "최태원\"호남반도체,용수·전력늦어도공사먼저…용인3분의2규...",
-  "광주찾은최태원,경영진에주문\"서남권반도체최대한속도감있게...",
-  "최태원SK회장,광주부지찾아\"호남반도체클러스터속도감있게추...",
-  "SK최태원,전남광주반도체부지찾아…“용인과공장병행건설할수...",
-  "SK하이닉스광주팹용인의2/3규모…최태원회장\"용수·전력늦어도...",
   "SK그룹최태원회장,\"호남권반도체클러스터속도감있게추진할것\"....",
   "군공항탄약고부지찾은최태원·민형배",
   "현장서이야기나누는최태원·민형배",
@@ -6130,7 +6121,16 @@
   "LA서만나는K-컬처의모든것…체험·소비형공간'LA:ON'개소",
   "[증시동향]美S&P500·나스닥최고치경신했는데국내증시는침체",
   "성장양극화의그늘,취약업종기업대출리스크",
-  "젠레스존제로에붕괴스타레일카프카,로빈나온다"
+  "젠레스존제로에붕괴스타레일카프카,로빈나온다",
+  "[초점]일본기업해킹피해확산…JR동일본609만건·스카이티켓1464만...",
+  "사이버공격타깃된중소기업…아태지역10곳중8곳뚫렸다",
+  "'연쇄해킹'활용된'아르텍스'결국공개중단",
+  "'호남반도체'직접챙긴최태원…\"가장빠르게짓겠다\"",
+  "아이온큐,양자컴퓨터연결속도획기적개선…초당1,000회얽힘구현",
+  "[인터뷰]상명대서지용\"캐피탈사보험판매허용해소비자선택권넓혀...",
+  "전남광주,직업계고113명산업기사취득…취업연계교육확대",
+  "\"인도금리인상,환율방어및자본유출억제효과내기어려워\"",
+  "주지훈\"'킹덤'?넷플릭스뭔지모를때출연료깎아출연\"[BIFF]"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
