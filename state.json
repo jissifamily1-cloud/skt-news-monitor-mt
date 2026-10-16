@@ -1,11 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.news1.kr/photos/8163007",
-  "https://www.news1.kr/photos/8163009",
-  "https://www.news1.kr/photos/8163010",
-  "https://www.news1.kr/photos/8163008",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=87691",
   "https://www.mk.co.kr/article/12177819",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=45535",
   "https://www.newsgn.com/news/articleView.html?idxno=579313",
@@ -3000,23 +2995,16 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4439712",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=360088",
   "https://www.newsis.com/view/NISX20261016_0003829753",
-  "https://www.munhwa.com/article/11624117"
+  "https://www.munhwa.com/article/11624117",
+  "http://weekly.chosun.com/news/articleView.html?idxno=56261",
+  "https://www.ekn.kr/web/view.php?key=20261016020249889",
+  "https://www.newsis.com/view/NISX20261016_0003829748",
+  "https://www.yna.co.kr/view/PYH20261016190600013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261016190500013?input=1196m"
  ],
- "last_run": "2026-10-16T20:30:57.342189+09:00",
+ "last_run": "2026-10-16T20:35:48.100108+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-10-16T14:35:19.575426+09:00",
-   "AI로 닷츠 시대 줄일 있는 왔다 책임자"
-  ],
-  [
-   "2026-10-16T14:35:19.575426+09:00",
-   "처리수 안성 100인 주민들 19일 방류 고삼 반발 기자회견"
-  ],
-  [
-   "2026-10-16T14:35:19.575426+09:00",
-   "혜택 수출 세제 수익성 부담 줄인다 BYD"
-  ],
   [
    "2026-10-16T14:40:25.348289+09:00",
    "안전 올트먼은 규제 강화 해법 중국과 협력 놓고 황은 젠슨"
@@ -3260,13 +3248,13 @@
   [
    "2026-10-16T20:25:18.530249+09:00",
    "가장 기업은 1위 구직자가 관심 있는 삼성전자 어디일까"
+  ],
+  [
+   "2026-10-16T20:35:20.458337+09:00",
+   "방문한 국무총리 치매안심센터"
   ]
  ],
  "seen_titles": [
-  "[프로필]박동일산업부신임차관…요직거친산업정책전문가",
-  "[이시각핫뉴스]장례도중관속에서깨어난과테말라15살소녀外",
-  "美,中원료규제에LFP양극재국산화속도…K-배터리공급망재편",
-  "올트먼은\"규제강화\",젠슨황은\"중국과협력\"…AI안전해법놓고이...",
   "아이티센씨티에스,AI데이터센터사업확대…롯데이노베이트와협력",
   "한성숙국무총리,대전서구청통합돌봄간담회참석",
   "통합돌봄간담회발언하는한성숙국무총리",
@@ -6262,7 +6250,11 @@
   "LG엔솔·LG디스플레이,지연공시로불성실공시법인지정예고",
   "충주시,하늘길드론‧로봇배송가동",
   "한총리\"지역따라돌봄서비스차이안돼…통합돌봄빈틈없도록지...",
-  "李대통령“공개국무회의가국무위원들말막기위한것?”’…“허위..."
+  "李대통령“공개국무회의가국무위원들말막기위한것?”’…“허위...",
+  "2028총선'정부견제'47%vs'정부지원'34%…무당층은3배차이",
+  "“中D램공습”에던진삼전닉스...월가는‘양산능력’따졌다",
+  "MH머트리얼즈·한국재료연구원,차세대영구자석개발협약체결",
+  "치매안심센터방문한한성숙국무총리"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
