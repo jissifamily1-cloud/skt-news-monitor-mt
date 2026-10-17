@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.newsmaker.or.kr/news/articleView.html?idxno=184279",
-  "http://www.hellodd.com/news/articleView.html?idxno=113518",
-  "https://www.donga.com/news/Economy/article/all/20261016/134856439/2",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193361",
-  "https://www.newsis.com/view/NISX20261016_0003829621",
-  "https://www.news1.kr/world/northeast-asia/6322958",
-  "https://www.yeongnam.com/web/view.php?key=20261016020414873",
-  "https://www.betanews.net/article/view/beta202610160134",
   "https://biz.sbs.co.kr/article_hub/20000340506?division=NAVER",
   "https://www.ajunews.com/view/20261016180138575",
   "https://www.news1.kr/politics/assembly/6322955",
@@ -3000,9 +2992,17 @@
   "http://www.breaknews.com/1243691",
   "http://www.breaknews.com/1243701",
   "http://www.osen.co.kr/article/G1112893939",
-  "http://www.breaknews.com/1243683"
+  "http://www.breaknews.com/1243683",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261017112601ucr",
+  "https://www.todaykorea.co.kr/news/articleView.html?idxno=407286",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=873771",
+  "http://www.newsprime.co.kr/news/article.html?no=751345",
+  "http://www.economytalk.kr/news/articleView.html?idxno=424707",
+  "https://www.greened.kr/news/articleView.html?idxno=352320",
+  "http://www.newsprime.co.kr/news/article.html?no=751343",
+  "https://www.ajunews.com/view/20261017110401008"
  ],
- "last_run": "2026-10-17T11:25:53.202755+09:00",
+ "last_run": "2026-10-17T11:31:00.280575+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3136,17 +3136,13 @@
   [
    "2026-10-17T10:45:21.580072+09:00",
    "기부 후원자로 백악관 애플 연회장에 4400억"
+  ],
+  [
+   "2026-10-17T11:30:33.158697+09:00",
+   "터널도 어린이보호구역 카카오 강남서 택시 달렸다"
   ]
  ],
  "seen_titles": [
-  "日언론,'한일경제공동체'구상조명…\"긍정적이지만과제도\"",
-  "[올댓차이나]中증시,저가매수세에도혼조마감…창업판0.39%↓",
-  "[공동락의금리산책]세계금융시장'충격'...멀어지는금리정점",
-  "무리한과세에납세자사망까지…대구국세청'부당과세'도마[2026국감...",
-  "한국타이어,‘레드닷디자인어워드’최우수상2관왕달성..디자인경...",
-  "줄어든中미세먼지에맑아진韓가을하늘",
-  "휴리엇로보틱스·코파스,물류자동화MOU…로봇과자동창고연계",
-  "[머그인사이트]16살소녀건드린로봇,경찰이'성적괴롭힘'대신'성...",
   "한성숙국무총리,대전서구찾아통합돌봄사업현장점검",
   "전남테크노파크개최통합채용박람회성료…532명면접·15명현장채용",
   "경남테크노파크,'2026TheNEXTAI'서제조혁신이끌AI·SW인재양성...",
@@ -6138,7 +6134,15 @@
   "AI·첨단기술입은‘대한민국통합의학박람회’장흥서화려한개막",
   "전남광주특별시교육청,‘2026학년도자율형공립고2.0워크숍’개최",
   "송재희,GD가탄사이버트럭1억6천만원구매..\"나보다차를좋아해\"[...",
-  "한성숙국무총리,대전서구찾아의료·요양통합돌봄현장점검"
+  "한성숙국무총리,대전서구찾아의료·요양통합돌봄현장점검",
+  "2026KBO골든글러브후보79명확정…12월8일시상식",
+  "\"언제이렇게떨어졌지\"···환율,1331원2년만에'최저'",
+  "김동구전북도의원\"전북의미래먹거리,실행력으로증명해야\"",
+  "[해외시황]뉴욕증시,AI부채우려·유가급등에'하락'…나스닥2.15%↓",
+  "[주목e-주주]삼성·헬릭스vs블랙록·MSvs스타게이트…\"AI인프라3대메...",
+  "\"수천명몰려도서버안멈췄다\"…파크골프예약대란,'보이스파크'가...",
+  "[家보다]아크메르동탄\"6성급호텔이따로없네\"개관첫날부터대기...",
+  "[르포]카카오자율주행택시,어린이보호구역·터널도달렸다…강남서..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
