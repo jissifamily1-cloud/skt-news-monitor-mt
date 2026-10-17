@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496068",
-  "https://www.naeil.com/news/read/605433",
-  "https://www.naeil.com/news/read/605431",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439735",
-  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043709",
-  "https://www.dongponews.net/news/articleView.html?idxno=61089",
-  "https://www.jemin.com/news/articleView.html?idxno=844677",
-  "https://www.ngonews.kr/news/articleView.html?idxno=240764",
-  "https://www.newsis.com/view/NISX20261016_0003829508",
   "http://www.osen.co.kr/article/G1112893905",
   "https://www.yna.co.kr/view/AKR20261016115500051?input=1195m",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=62932",
@@ -3000,9 +2991,18 @@
   "https://www.g-enews.com/view.php?ud=202610180728144539e250e8e188_1",
   "https://www.theguru.co.kr/news/article.html?no=108384",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610180006&t=NN",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496160"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496160",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881798",
+  "https://www.newsis.com/view/NISX20261018_0003830186",
+  "https://www.yna.co.kr/view/AKR20261016063400054?input=1195m",
+  "https://zdnet.co.kr/view/?no=20261018075331",
+  "https://www.dt.co.kr/article/12089591",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881805",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881806",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881804",
+  "https://www.gpkorea.com/news/articleView.html?idxno=147628"
  ],
- "last_run": "2026-10-18T07:50:52.373733+09:00",
+ "last_run": "2026-10-18T07:55:43.084672+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3059,15 +3059,6 @@
   ]
  ],
  "seen_titles": [
-  "미국열연강판값1년새52%급등…유럽의1.5배·중국의3배",
-  "광운대,중국칭다오3개대학과교육협력확대",
-  "한성대,인공지능설계프로그램지원받아",
-  "한은\"美중간선거민주당상·하원장악시금리·주가·달러↓\"",
-  "'NAMs'OECD표준화조준…식약처,동물실험대체시험법개발박차",
-  "[현장]월드옥타회원들,광저우서비즈니스넘어우정쌓아",
-  "KIA김도영·LG오스틴,가을야구거포맞대결…준플레이오프승부가를...",
-  "다시꿈틀대는MBC좌파노조의차별과박해...\"하려면해라.결의를다잡...",
-  "과방위국감서'이진숙제척'두고또충돌…여\"셀프감사\"야\"비상식...",
   "노희찬♥최미소,배우부부된다..3일연속깜짝결혼발표[핫피플]",
   "전기차수요급증…부산시보조금추가신청10분만에마감",
   "'아이폰듀오'드디어사전예약시작…통신3사,보상·할인총공세",
@@ -6058,7 +6049,16 @@
   "K2흑표,세계10대전차4위...실전배치전차중엔사실상최정상",
   "[로봇온사이트]'4개냐5개냐'로봇손가락,글로벌표준어디로?",
   "\"국민노후자금어쩌나\"…100일만에182조원'증발'",
-  "대규모손실속에서도바닥다지기?…국민연금,저가매수나선종목은"
+  "대규모손실속에서도바닥다지기?…국민연금,저가매수나선종목은",
+  "반도체와AI로활짝핀한국경제,40년만에잠재성장률상승세",
+  "제주카지노산업미래는…AI전환·복합관광전략논의",
+  "백승주·윤난실전남광주부시장\"시민의선택,성과로증명\"",
+  "OTT웨이브,국내복귀'윤이나'18홀밀착중계",
+  "“서버용메모리中공세에도가격하락제한적”",
+  "AI와반도체위기에흔들리는한국증시,반등가능성은?",
+  "국민연금182조손실충격,삼성전자·SK하이닉스하락에투자자'촉각'",
+  "국민소득4만달러시대,가계소득증가체감은언제쯤?",
+  "\"1156마력포르쉐보다1.4억비싸다\"…888마력벤틀리의자신감"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
