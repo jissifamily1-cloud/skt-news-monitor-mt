@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://kr.aving.net/news/articleView.html?idxno=1815610",
-  "https://newscham.net/130058/",
-  "https://www.hankyung.com/article/2026101671291",
-  "https://www.livesnews.com/news/article.html?no=65062",
-  "https://www.news1.kr/world/asia-australia/6322966",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=873692",
-  "http://www.ikld.kr/news/articleView.html?idxno=342409",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=509073",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53726",
   "https://www.ytn.co.kr/_ln/0104_202610161824299573",
   "http://www.incheonin.com/news/articleView.html?idxno=121529",
   "https://www.bloter.net/news/articleView.html?idxno=675908",
@@ -3000,9 +2991,18 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=873775",
   "https://www.betanews.net/article/view/beta202610160134",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496087",
-  "https://www.tokenpost.kr/news/tech/423615"
+  "https://www.tokenpost.kr/news/tech/423615",
+  "https://www.sidae.com/article/2026101618124096000",
+  "https://www.sportschosun.com/baseball/2026-10-17/202610170100107050006914",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3724020",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445864",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276094&CMPT_CD=P0010",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4112917",
+  "https://www.sportsseoul.com/news/read/1641864",
+  "http://www.celuvmedia.com/article.php?aid=1792123426529344006",
+  "http://www.newstomato.com/ReadNews.aspx?no=1317032&inflow=N"
  ],
- "last_run": "2026-10-17T11:45:55.648813+09:00",
+ "last_run": "2026-10-17T11:50:58.887514+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3143,15 +3143,6 @@
   ]
  ],
  "seen_titles": [
-  "조현준“AI병목해결할핵심파트너로”…효성중공업,수출용초고압...",
-  "9월외국인증권투자자금200억달러순유출,8개월연속자금이탈",
-  "생성형AI가추천하는보험사달랐다…어린이보험현대해상·실손삼성...",
-  "[중국증시-마감]AI기업자사주매입·호실적전망에반등",
-  "놀유니버스,‘월요라이브’확장…에피톤프로젝트신곡최초공개",
-  "中,AI·바이오·태양광등'수출통제기술'적용확대한다",
-  "코스피,반등에성공했지만…추세적상승엔신중론",
-  "수면환경을이해하고개인화하는AI웨어러블로진화한“디비비츠포...",
-  "中CXMT'4F²'D램개발발표에시장우려확산…월가\"영향크지않을...",
   "크랜베리·인터엠,중기부음향위험감지AI기술개발과제선정",
   "AI기반QA자동화플랫폼'베리젠'개발사테스티파이,'2026경기스타...",
   "이상일용인시장,진주와자매결연…반도체·우주항공상생협력나선다",
@@ -6142,7 +6133,16 @@
   "[신간]AI는어떻게기업의무기가되는가등",
   "[현장]시놀로지솔루션데이2026개최...오피스스위트부터에이전틱...",
   "[부동산포커스]동탄집값들쑤신'반도체머니'…분당찍고군포까지",
-  "로봇산업‘레고시대’진단…부품·안전기준재구축"
+  "로봇산업‘레고시대’진단…부품·안전기준재구축",
+  "2028년총선'정부견제론'우세…야당47%vs여당34%",
+  "[오피셜]벌써골든글러브투표시작했다고?…투표준PO기간으로당긴...",
+  "예산군,\"정책아이디어발표틀깼다\"…보고서대신무대오른다",
+  "한국마사회,'말사진·AI이미지공모전'진행…작품과함께'사연'제...",
+  "중국,AI모델·에이전트기술수출제한한다",
+  "해운협회부산본부-부산지역산업진흥원,선사AX기술실증협력",
+  "[리뷰]하이퍼카의노하우를그대로계승한단하나의존재-캐딜락V-...",
+  "장동윤♥김승윤결혼→제31회부국제폐막→'부실복무'송민호,1심판...",
+  "이대통령,부천소방관순직에\"희생잊지않겠다\"…처우개선약속"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
