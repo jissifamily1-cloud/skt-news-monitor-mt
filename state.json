@@ -1,17 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202610180005",
-  "https://www.chosun.com/economy/tech_it/2026/10/18/MJEZP5TJU5GQROKSWXTFRGBXBE/",
-  "https://economist.co.kr/article/view/ecn202610130053",
-  "https://www.mk.co.kr/article/12178647",
-  "https://www.sedaily.com/article/20102839",
-  "https://biz.chosun.com/distribution/food/2026/10/18/NBH3DXSTFFCOZCFPRIBF34VLYQ/",
-  "https://www.etnews.com/20261018000025",
-  "https://www.donga.com/news/Economy/article/all/20261016/134856496/1",
-  "https://www.ddaily.co.kr/page/view/2026101809091712450",
-  "https://www.mt.co.kr/tech/2026/10/18/2026101809425225170",
-  "https://www.mediapen.com/news/view/1130703",
   "https://www.news1.kr/industry/general-industry/6323445",
   "http://www.4th.kr/news/articleView.html?idxno=2119935",
   "https://www.businessplus.kr/news/articleView.html?idxno=118328",
@@ -3000,9 +2989,20 @@
   "https://www.sentv.co.kr/article/view/sentv202610170012",
   "https://www.gnnews.co.kr/news/articleView.html?idxno=647617",
   "https://www.edaily.co.kr/News/Read?newsId=04942966645613576&mediaCodeNo=257",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261019.22022005034"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261019.22022005034",
+  "https://www.vegannews.co.kr/news/article.html?no=394079",
+  "https://www.mk.co.kr/article/12179101",
+  "https://www.irobotnews.com/news/articleView.html?idxno=49049",
+  "https://www.news1.kr/local/gyeonggi/6323782",
+  "https://www.irobotnews.com/news/articleView.html?idxno=49018",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/18/2026101890090.html",
+  "https://www.irobotnews.com/news/articleView.html?idxno=49045",
+  "https://www.irobotnews.com/news/articleView.html?idxno=49044",
+  "https://www.irobotnews.com/news/articleView.html?idxno=49048",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=367472",
+  "https://zdnet.co.kr/view/?no=20261018190505"
  ],
- "last_run": "2026-10-18T19:30:55.752412+09:00",
+ "last_run": "2026-10-18T19:35:46.604783+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3240,20 +3240,13 @@
   [
    "2026-10-18T19:25:18.454872+09:00",
    "하락 기대 인생이 주가 부러움 직원들은 달겠다 쏟아졌는데"
+  ],
+  [
+   "2026-10-18T19:35:18.124884+09:00",
+   "애플 스튜디오 LG디스플레이 겨냥 2029년 양산 목표 추정 플립 OLED"
   ]
  ],
  "seen_titles": [
-  "“AI가면적관리”…LG전자,가습·공기청정기‘퓨리케어하이드로타...",
-  "[르포]31년화산송이가빚은청정원수,초당21병‘콸콸’…스마트...",
-  "제조업경기반등기대꺾였다…4분기도'흐림'",
-  "최태원회장\"20대돌아가면일단창업하겠다\"...인류문제해결강조",
-  "최태원,'한일경제연대'또제안…\"6조달러시장형성가능\"",
-  "[금값시세]금시세18k",
-  "[충남에듀있슈]충남교육청,서울·세종·경북과AI서논술형평가공동...",
-  "“포토샵·워드까지AI로복제”…SW산업흔드는‘AI역설계’",
-  "'차석용매직'의숫자뒤에는사람이있었다[새로나온책]",
-  "“가습과공기청정동시에”…LG전자,퓨리케어하이드로타워맥스출시",
-  "AI가대신하는일상…줄어드는움직임,허리는괜찮을까",
   "[르포]한라산자연정수‘제주삼다수’만드는L5스마트팩토리",
   "LG전자,가습·공기청정기'퓨리케어하이드로타워맥스'출시…AI기능...",
   "[현장]무라벨넘어‘플라스틱제로’향해…제주삼다수의친환경전환",
@@ -6242,7 +6235,18 @@
   "코스피급락에반대매매3000억…채권으로돈몰렸다",
   "경남과학고유니스트영재학교전환신청",
   "카톡'브랜드메시지'는새발의피…경실련\"광고스팸문자전수조사해...",
-  "[도청도설]“난짜장”"
+  "[도청도설]“난짜장”",
+  "육일씨엔에쓰,로봇·피지컬AI사업목적추가안상정",
+  "“장부뒤지던회계사,이젠‘AI감사’지휘자로”",
+  "美세이프월드,로봇안전테스트시뮬레이션기술로164억원유치",
+  "육군항공사령부,이천기지개방…시누크비행체험도",
+  "日푸에리솜니아,4족보행로봇·드론결합한인프라점검시스템출시",
+  "[따져보니]8년새소방관28명순직…안전대책·예산은'제자리'",
+  "中긱플러스,유럽패션기업에물류로봇1600대공급",
+  "中국경지역신장서도\"휴머노이드는돈되는아이템\"",
+  "日참케어요양원운영사,도넛로보틱스휴머노이드에투자",
+  "[현장]트레블로지강남역삼,360실규모로개관…한국거점으로확장",
+  "\"LG디스플레이,2029년플립OLED양산목표\"...애플스튜디오겨냥추정"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
