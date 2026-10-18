@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "http://www.bizwnews.com/news/articleView.html?idxno=149158",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439780",
-  "https://www.viva100.com/article/20261018500170",
-  "https://www.segye.com/newsView/20261016512046?OutUrl=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=01308726645614232&mediaCodeNo=257",
-  "https://www.ajunews.com/view/20261018095431287",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439781",
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=112305",
   "https://www.kukinews.com/article/view/kuk202610180005",
   "https://www.chosun.com/economy/tech_it/2026/10/18/MJEZP5TJU5GQROKSWXTFRGBXBE/",
   "https://economist.co.kr/article/view/ecn202610130053",
@@ -3000,9 +2992,17 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/10/18/2026101890082.html",
   "https://www.newsis.com/view/NISX20261018_0003830631",
   "https://www.ekn.kr/web/view.php?key=20261018021577713",
-  "https://www.hankyung.com/article/2026101889487"
+  "https://www.hankyung.com/article/2026101889487",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=873820",
+  "https://www.lecturernews.com/news/articleView.html?idxno=212157",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4113034",
+  "https://www.ekn.kr/web/view.php?key=20261018029247761",
+  "https://www.sentv.co.kr/article/view/sentv202610170012",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=647617",
+  "https://www.edaily.co.kr/News/Read?newsId=04942966645613576&mediaCodeNo=257",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261019.22022005034"
  ],
- "last_run": "2026-10-18T19:25:46.563527+09:00",
+ "last_run": "2026-10-18T19:30:55.752412+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3243,14 +3243,6 @@
   ]
  ],
  "seen_titles": [
-  "김도영\"제주이름으로세계시장개척…삼다수'제2의창업'나선다\"",
-  "[D-피플라운지]“수출은10배,신사업은재검토”…제주삼다수새수장...",
-  "김도영제주개발공사신임사장“삼다수수출3년내10배확대…中·...",
-  "LG유플러스,순직소방관추모마라톤에2천300명참여",
-  "[인터뷰]김도영신임제주개발공사사장\"삼다수수출3년내10만톤으...",
-  "달러-원환율1340원대로뚝…엔화는19년만에최저",
-  "\"입고와동시에360도AI스캔\"…HS효성더클래스,'젠트리비클디텍터'...",
-  "LG전자,AI로습도·공기질관리하는'하이드로타워맥스'출시",
   "“AI가면적관리”…LG전자,가습·공기청정기‘퓨리케어하이드로타...",
   "[르포]31년화산송이가빚은청정원수,초당21병‘콸콸’…스마트...",
   "제조업경기반등기대꺾였다…4분기도'흐림'",
@@ -6242,7 +6234,15 @@
   "'리밸런싱유예'국민연금,손실액182조원추산…'연금고갈'우려",
   "러,\"우크라하루드론1000개쏴\"…상트페테르부르그석유시설불",
   "강원도,미래차산업생태계구축속도…강릉ITS세계총회서성과알린...",
-  "\"인생이달겠다\"부러움쏟아졌는데…반도체직원들은주가하락기대?"
+  "\"인생이달겠다\"부러움쏟아졌는데…반도체직원들은주가하락기대?",
+  "SKT,장애청소년AI대회개최...27년째디지털동행",
+  "성균관대학교권민혜교수팀,AI연산비용3분의1로줄이고로봇제어...",
+  "비수도권최대'대구국제식품산업전'성료…1천92억원상담성과",
+  "공장대신연구개발…수원경제자유구역,반도체R&D허브로승부",
+  "코스피급락에반대매매3000억…채권으로돈몰렸다",
+  "경남과학고유니스트영재학교전환신청",
+  "카톡'브랜드메시지'는새발의피…경실련\"광고스팸문자전수조사해...",
+  "[도청도설]“난짜장”"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
