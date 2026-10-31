@@ -1,20 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3442713",
-  "https://www.bloter.net/news/articleView.html?idxno=676441",
-  "https://www.news1.kr/it-science/internet-platform/6330507",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5031505",
-  "https://www.ppss.kr/news/articleView.html?idxno=317124",
-  "http://www.inews24.com/view/2018537",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709688",
-  "https://www.fnnews.com/news/202610231854086239",
-  "https://www.newspim.com/news/view/20261023001234",
-  "https://sateconomy.co.kr/news/view/1065598650553714",
-  "http://worknworld.kctu.org/news/articleView.html?idxno=510169",
-  "https://www.newsis.com/view/NISX20261023_0003839190",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300348.html",
-  "https://www.sentv.co.kr/article/view/sentv202610230166",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498020",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=50003",
   "http://www.yonhapnewstv.co.kr/news/AKR20261023180222Bot",
@@ -3000,9 +2986,23 @@
   "https://www.nc.press/news/articleView.html?idxno=629923",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=338114",
   "https://www.gamemeca.com/mv.php?inflow=naver&gid=1782732",
-  "https://www.cnbizm.com/news/articleView.html?idxno=319953"
+  "https://www.cnbizm.com/news/articleView.html?idxno=319953",
+  "http://www.stoo.com/article.php?aid=109639686109",
+  "https://sports.khan.co.kr/article/202610311629003?pt=nv",
+  "https://www.yna.co.kr/view/AKR20261031038100007?input=1195m",
+  "https://basketkorea.com/news/newsview.php?ncode=1065597732543405",
+  "https://view.asiae.co.kr/article/2026103116334254851",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3738433",
+  "https://biz.chosun.com/stock/analysis-prospect/2026/10/31/HVND64KQCJBYTDHERU3XCTG66M/",
+  "https://www.etnews.com/20261031000028",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3738329",
+  "https://www.ddaily.co.kr/page/view/2026103114270573798",
+  "https://www.greened.kr/news/articleView.html?idxno=353554",
+  "https://www.munhwa.com/article/11627749",
+  "https://www.asiatime.co.kr/article/20261031500012",
+  "https://www.news1.kr/industry/general-industry/6338659"
  ],
- "last_run": "2026-10-31T16:31:05.801905+09:00",
+ "last_run": "2026-10-31T16:35:51.694733+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3112,23 +3112,13 @@
   [
    "2026-10-31T16:15:26.471484+09:00",
    "정관장"
+  ],
+  [
+   "2026-10-31T16:35:22.348766+09:00",
+   "삼성 챗GPT 올트먼 SK와 협력 AIDC 회동 잇단 모색"
   ]
  ],
  "seen_titles": [
-  "KT,의료AX세미나개최…병원별맞춤형AX도입전략제시",
-  "CJ·SK판깔았는데…'K-OTT'합병마지막관문KT의셈법은?",
-  "KT,'의료AX세미나'개최…\"진료현장맞춤형표준화모델로혁신선도...",
-  "[IT뒷담화]계속되는통신사해킹후폭풍···국감서KT·LGU+추가제재...",
-  "LGU+해킹은폐의혹…홍범식\"사법판단나오면합당한책임\"[2026국감...",
-  "[2026국감]프런티어AI기록부실공방…PHP보안·통신사책임론도",
-  "[2026국감]LGU+홍범식\"해킹은폐확인되면책임\"…위약금면제'확답...",
-  "LGU+홍범식대표\"해킹은폐사실이면책임\"",
-  "'프런티어AI'투명성공방…배경훈\"공개자료최선다해제공\"(종합)",
-  "해킹의혹에고개숙인LG유플러스…고객보상은'수사후'",
-  "홍범식LG유플러스CEO,\"해킹은폐확인땐책임질것\"",
-  "[종합]PHP취약점부터5G·AIDC까지⋯과방위,ICT현안집중점검",
-  "[2026국감]PHP보안부터LGU+해킹은폐의혹까지…AI정책도도마",
-  "LGU+위약금면제놓고여야압박…홍범식\"사법당국판단따를것\"",
   "'국감출석'홍범식LGU+대표\"해킹은폐확인되면합당한책임\"",
   "[국감]홍범식LGU+대표“해킹은폐확인되면합당한책임”…위약금...",
   "[2026공파공투]LG유플러스비정규직노동자1,200여명총파업결의대회...",
@@ -6114,7 +6104,21 @@
   "'다큐프라임'생각외주준아이들…교실덮친'인지적항복'",
   "노상원과'롯데리아계엄모의'전원1심무죄,경향신문\"납득어렵다\"",
   "쥐와셰프의대결,비대칭생존게임'랫게임'정식출시",
-  "[포토]관악구,31일관악산으뜸공원일원에서제9회관악도시농업축..."
+  "[포토]관악구,31일관악산으뜸공원일원에서제9회관악도시농업축...",
+  "'루이스킹34점폭발'KCC,DB꺾고7연패탈출…KT는정관장제압",
+  "19점차를뒤집은KT,정관장꺾고5연패탈출!…KCC도DB잡고7연패벗어...",
+  "프로농구'디펜딩챔피언'KCC,DB잡고마침내7연패탈출",
+  "코트로돌아온라숀토마스,그의퍼포먼스는?",
+  "올트먼이삼성사장단에선물한30만원대'AI키보드'뭐길래",
+  "충남교육청,평가관리센터설치…미래형학생평가체제구축",
+  "코스피가‘AI거품론’에휘청인이유는…‘가격호황’의그늘",
+  "네이버vs번개장터,'日중고직구'정면승부",
+  "박수현지사,청소년디지털격차해소위해걷기대회참가",
+  "삼성,샘올트먼과AI미래전략논의…전사적AX가속",
+  "美반도체7.2%급락·SOXL25%폭락…외국인1.6조매도한삼성·하이닉스...",
+  "“10배불려준다기에…”홍준표,주식투자로1억3000만원날린사연",
+  "“창의에꿈트다”…경북창의과학한마당,70여개부스열기속에포항...",
+  "'챗GPT'올트먼,삼성·SK와잇단회동…반도체·AIDC협력모색(종합)"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
