@@ -1,13 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000078324",
-  "https://biz.sbs.co.kr/article_hub/20000343414?division=NAVER",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500197",
-  "https://www.lecturernews.com/news/articleView.html?idxno=212818",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172991",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172789",
-  "https://www.segye.com/newsView/20261030509205?OutUrl=naver",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1729950",
   "https://biz.heraldcorp.com/article/10921158",
   "https://www.imaeil.com/page/view/2026103108300256560",
@@ -3000,9 +2993,16 @@
   "https://www.g-enews.com/view.php?ud=2026103121591086630c8c1c064d_1",
   "https://www.news1.kr/local/gwangju-jeonnam/6337458",
   "https://www.yna.co.kr/view/AKR20261031047500003?input=1195m",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3738595"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3738595",
+  "https://www.starnewskorea.com/star/2026/11/01/2026103116082747381",
+  "https://www.nc.press/news/articleView.html?idxno=629940",
+  "https://www.news1.kr/finance/general-finance/6338387",
+  "https://www.newspim.com/news/view/20261030000855",
+  "https://www.ikbc.co.kr/article/view/kbc202611010002",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173233",
+  "https://www.yna.co.kr/view/AKR20261031030900008?input=1195m"
  ],
- "last_run": "2026-11-01T06:20:57.554322+09:00",
+ "last_run": "2026-11-01T06:25:55.126106+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3036,16 +3036,17 @@
   [
    "2026-11-01T06:10:25.318798+09:00",
    "메모리 추격 경쟁 삼성 수성 국면 호황 HBM4"
+  ],
+  [
+   "2026-11-01T06:25:20.105441+09:00",
+   "삼성그룹 메모리반도체"
+  ],
+  [
+   "2026-11-01T06:25:20.105441+09:00",
+   "체급 분류체계로 바이오 10배 시총 업종별"
   ]
  ],
  "seen_titles": [
-  "\"일본인점점가난해져\"…디플레탈출성공했지만착잡한이유[도쿄나...",
-  "[오늘의경제뉴스]금융권덮친AI활용해킹공포...보안업계는뒤에서...",
-  "'아이폰듀오·맥북프로'가격폭등이유따로있다…갑질하다협력사...",
-  "[영상]AI가바꾸는교실의미래!‘2026강원에듀테크박람회’성황리...",
-  "다이나모배포·검증절차공개…엔비디아($NVDA)AICR활용",
-  "[알쓸다정]\"25달러면됩니다\"…AI가거든크리덴셜스터핑,금융권을뒤...",
-  "아파트값추월한서울전세가격상승률…서초빼고다올라",
   "[다음주경제]소비자물가얼마나올랐을까…9월국제수지도발표",
   "테슬라전기차도어안전성도마…국내사망사고2년째미해결",
   "도요타,혼다,닛산'中좋은시절끝났다'",
@@ -6038,7 +6039,14 @@
   "\"전기차,전력망갉아먹는괴물서유연성자산으로\"…'DC초고속허브'...",
   "광주글로벌모터스노사갈등일단락됐지만…'2교대·후속모델'과제",
   "국산하이브리드차EU수출연10만대…수입제한움직임촉각",
-  "백일섭,고최불암빈소찾아추모…\"전혀생각지도못했다\""
+  "백일섭,고최불암빈소찾아추모…\"전혀생각지도못했다\"",
+  "[단독]'활동재개'김수현,드디어결론..광고주28억소송내년1월선...",
+  "[전통N]AI가읽은산조,사람이빚은음악...김명옥'토리의진화III'가...",
+  "4대은행장인선레이스…신한·하나'속도'·우리'연임'·KB'세대교체...",
+  "[GAM]AI설비투자회수논리에새쟁점…'제본스역설'이안통한다?",
+  "중산층10명중4명,벌이줄었다…코로나이후최고비율",
+  "삼성그룹·메모리반도체[이주의상장ETF]",
+  "새분류체계로본업종별체급…반도체-바이오시총10배차"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
