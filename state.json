@@ -1,18 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=94076",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268463",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018256",
-  "https://sports.donga.com/sports/article/all/20261107/134982810/1",
-  "http://www.osen.co.kr/article/G1112905689",
-  "https://www.newspim.com/news/view/20261106001306",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377281",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6943066",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=285278",
-  "https://www.starnewskorea.com/sports/2026/11/07/2026110621494417575",
-  "https://www.newspim.com/news/view/20261106001282",
-  "https://www.starnewskorea.com/sports/2026/11/07/2026110610454868887",
   "https://www.mydaily.co.kr/page/view/2026110618485623677",
   "https://www.maniareport.com/view.php?ud=20261107030254669691b55a0d56_19",
   "https://www.mydaily.co.kr/page/view/2026110701181569672",
@@ -3000,9 +2988,21 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730803",
   "https://www.dt.co.kr/article/12093641",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/07/2026110790017.html",
-  "https://www.munhwa.com/article/11629513"
+  "https://www.munhwa.com/article/11629513",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261105.99099001622",
+  "http://www.4th.kr/news/articleView.html?idxno=2121362",
+  "http://coinreaders.com/268254",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502052",
+  "https://www.theguru.co.kr/news/article.html?no=109405",
+  "https://www.newscj.com/news/articleView.html?idxno=3446717",
+  "https://www.jemin.com/news/articleView.html?idxno=846384",
+  "https://www.tokenpost.kr/news/policy/434374",
+  "https://www.khan.co.kr/article/202611071109001",
+  "http://coinreaders.com/268253",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=369151",
+  "https://www.sedaily.com/article/20111091"
  ],
- "last_run": "2026-11-07T11:10:56.005741+09:00",
+ "last_run": "2026-11-07T11:15:52.413633+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3176,21 +3176,13 @@
   [
    "2026-11-07T11:05:17.678139+09:00",
    "조합 한국서 중국산 왜건 통할까"
+  ],
+  [
+   "2026-11-07T11:15:23.684899+09:00",
+   "배꼽 구멍 진화중 단일공 하나로 수술 로봇수술"
   ]
  ],
  "seen_titles": [
-  "AI로체감통신품질잡는다…SKT,부산불꽃축제통신망사전점검",
-  "SK바이오팜3분기영업익1163억·65.9%↑···분기최대실적",
-  "삼성에이런감독또있었나…깜짝이벤트에'KS혈투'선수단사기충천...",
-  "불펜총력전가능한KS4차전…로건vs장찬희,버틸것인가몰아붙일것...",
-  "“삼성떠났지만애정은더커졌다”방출된日투수의특별한라팍방...",
-  "[KS포커스]빈공시달리는'팀타율1위'KT...장성우DH·회심의대타...",
-  "'2026가을야구가장빛나는역투'삼성후라도,플레이오프관통해한국...",
-  "200억도안아깝다…제대로못뛰어도경기지배하는구자욱[스한이슈人...",
-  "[안병익의노포기행]추워질수록생각나는대구탕,광장시장'은성횟집...",
-  "'어린시절영웅'이승엽의'우승해라'격려→구자욱감동\"평생존경할...",
-  "[스타inKS3]불펜데이앞둔삼성살렸다…후라도의3차전역투가특별했...",
-  "\"감독2년보다코치1년이더큰깨달음이었다\"日서돌아온국민타자...",
   "'이승엽깜짝'삼성레전드는왜두산시절부터그렇게감탄했나…\"구자...",
   "'200만달러줘도아깝지않아'삼성,후라도와다년계약해야...그보다...",
   "“KS안본다,너무아쉬울것같아서”김도영과이심전심…KIA수달동...",
@@ -6178,7 +6170,19 @@
   "테슬라사이버트럭,판매부진끝단종수순…사이버캡생산전환",
   "美공화당도빅테크와‘거리두기’움직임…새전략마련들어간실리콘...",
   "\"한시대의끝\"머스크도아쉬워했다…사이버트럭결국단종수순",
-  "삼성·SK‘반도체잭팟’…경기지자체세수최대12배폭증"
+  "삼성·SK‘반도체잭팟’…경기지자체세수최대12배폭증",
+  "국립부경대인공지능연구소,ISPACS2026우수논문상수상",
+  "블루쓰나미에막힌AI데이터센터,\"우주로사막으로\"",
+  "수노,MIDI파일로작곡시작…적어둔멜로디를AI음악으로",
+  "AI·빅데이터가상자산강보합…제타체인·디라이브2%대'훨훨'",
+  "'5조가치'한전,글로벌유틸리티브랜드6계단'점프'…가스공사17위",
+  "美민주당'트럼프밀착'기업조사추진…애플·메타등거론",
+  "알파벳,퀄컴주식300만주확보AI...데이터센터시장서새로운연결고...",
+  "애플·메타조사준비…미민주당,머스크기업도검토",
+  "100억달러먼저내라며…‘미국중간선거후폭풍’한국원전투자어쩌...",
+  "도널드해리슨스페이스X이사사임…알파벳(GOOGL)지분가치740억달러",
+  "테슬라,사이버트럭단계적생산종료…\"사이버캡생산공간확보\"",
+  "[지금,명의]“단일공로봇수술진화중…배꼽2㎝구멍하나로암수술..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
