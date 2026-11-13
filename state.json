@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.hankyung.com/article/2026111358651",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284860&CMPT_CD=P0010",
-  "https://www.hankookilbo.com/news/article/A2026111316540004932?did=NA",
-  "https://weekly.donga.com/3/all/11/6458287/1",
-  "https://www.mk.co.kr/article/12208191",
-  "https://www.news1.kr/entertain/celebrity-topic/6353753",
-  "https://www.aitimes.com/news/articleView.html?idxno=217361",
-  "http://coinreaders.com/270026",
-  "https://www.tokenpost.kr/news/cryptocurrency/437776",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=887150",
   "https://www.ytn.co.kr/_ln/0104_202611131802285315",
   "https://www.tokenpost.kr/news/market/437778",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284813&CMPT_CD=P0010",
@@ -3000,9 +2990,19 @@
   "https://www.joongang.co.kr/article/25478450",
   "http://www.joseilbo.com/news/news_read.php?uid=579621&class=32",
   "https://www.yna.co.kr/view/AKR20261114009551072?input=1195m",
-  "https://www.etoday.co.kr/news/view/2648133"
+  "https://www.etoday.co.kr/news/view/2648133",
+  "https://www.jemin.com/news/articleView.html?idxno=847239",
+  "https://magazine.hankyung.com/business/article/202611046586b",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94166",
+  "https://www.ytn.co.kr/_ln/0104_202611140719041986",
+  "https://www.ddaily.co.kr/page/view/2026111407214894934",
+  "https://econotimes.com/OpenAI-Names-Sandhya-Devanathan-to-Lead-Southeast-Asia-and-Australia-1776452",
+  "https://www.g-enews.com/view.php?ud=20261113095254751c3b051da3b_1",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94167",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140002&t=NN",
+  "https://www.news1.kr/politics/president/6353731"
  ],
- "last_run": "2026-11-14T07:20:49.129815+09:00",
+ "last_run": "2026-11-14T07:25:46.882025+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3115,16 +3115,6 @@
   ]
  ],
  "seen_titles": [
-  "비트코인'젠슨황쇼크'…3개월만에1억원붕괴",
-  "과학자를위해깔린레드카펫,AI버블시대중국의질문",
-  "\"소설·영화처럼게임도'어떤이야기인가'가중요하다\"",
-  "‘반짝’돌아왔던외국인,나흘만에‘팔자’전환…5500넘보던코스...",
-  "‘연차보다직무역량’시앤피컨설팅·KOSA,IT표준임금모델토크쇼성...",
-  "김수현광고계약분쟁에法\"모델료11억반환\"…변호인\"즉시항소\"",
-  "앤트로픽,제조업용'클로드'출시…오픈AI와산업별AI시장경쟁확대",
-  "비트코인(BTC)5만7,000달러아래로?...코웬\"트럼프임기중더떨어진...",
-  "[사토시인덱스]24시간상위트레이더롱비중6%밑으로…비트코인포...",
-  "배경훈부총리\"젠슨황사임,그러나협력은계속된다\"",
   "미법무\"앨리스황'중국간첩'여부아직결론못내려\"",
   "엔비디아2382만주보유…제인스트리트,전분기보다101.8%증가",
   "용인시,죽능일반산단개발실시계획승인",
@@ -6114,7 +6104,17 @@
   "젠슨황사임에현대차자율주행‘촉각’…네이버·LG도변수",
   "당정\"지방주도성장,최선다하겠다…내년엔더와닿도록\"",
   "뉴욕증시,다우지수만0.1%상승…엔비디아2%↓,하락지속(종합)",
-  "엔비디아2%대하락에뉴욕증시혼조⋯나스닥0.91%↓[종합]"
+  "엔비디아2%대하락에뉴욕증시혼조⋯나스닥0.91%↓[종합]",
+  "엔비디아떠난젠슨황,위기대응위해거물로펌찾았다.",
+  "여전히인텔보다AMD를좋아하는이유[돈되는해외주식]",
+  "[분석]젠슨황퇴진…AI투자·미중칩갈등·韓반도체에파장",
+  "MS사무용서비스이틀째장애...\"기술적문제해결\"",
+  "우버운전자수천명운전면허정보유출…파이어웍스AI해킹여파",
+  "OpenAINamesSandhyaDevanathantoLeadSoutheastAsiaandAustralia",
+  "[사설]젠슨황없는엔비디아…한국영향은",
+  "[뉴욕증시마감]엔비디아發기술주매도…나스닥0.91%↓",
+  "\"이때다싶어쓸어담았다\"…불륜파문에도개미는'줍줍'",
+  "잇단강력범죄에李다시\"신속시행\"…靑후속대책에쏠린눈"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
