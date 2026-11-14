@@ -1,13 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.koreabiomed.com/news/articleView.html?idxno=33825",
-  "https://www.kmaeil.com/news/articleView.html?idxno=657942",
-  "https://econotimes.com/Ampt-Says-Battery-Converter-Is-in-Partner-Pilots-for-AI-Data-Centers-1775561",
-  "https://econotimes.com/OpenAI-Shifts-ChatGPT-Business-Push-to-Discovery-After-Discontinuing-Checkout-Initiative-1775520",
-  "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html?partner=naver",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611101035444360107588",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611090957513480103696",
   "https://www.tokenpost.kr/news/ai/436794",
   "https://www.g-enews.com/view.php?ud=2026111118410833330c8c1c064d_1",
   "https://www.ddaily.co.kr/page/view/2026111113330627501",
@@ -3000,9 +2993,16 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019848",
   "https://www.wikitree.co.kr/articles/1174613",
   "https://www.newsian.co.kr/news/articleView.html?idxno=101272",
-  "https://www.yna.co.kr/view/AKR20261114041600001?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261114041600001?input=1195m",
+  "https://www.munhwa.com/article/11631285",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845990&plink=ORI&cooper=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712927",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/14/2026111490066.html",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504080",
+  "https://www.yna.co.kr/view/AKR20261114042700001?input=1195m",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230869"
  ],
- "last_run": "2026-11-14T17:45:47.439733+09:00",
+ "last_run": "2026-11-14T17:50:48.954855+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3111,13 +3111,6 @@
   ]
  ],
  "seen_titles": [
-  "Samsung,OpenAIpushconnectedhealthcareinUSasKoreafacesdatabar",
-  "[문인찬의新技術論]NewTechnologyParadigm#3",
-  "AmptSaysBatteryConverterIsinPartnerPilotsforAIDataCenters",
-  "OpenAIShiftsChatGPTBusinessPushtoDiscoveryAfterDiscontinuing",
-  "UnitedAirlinesBlocksA.I.AgentsFromBookingFlightsonCustomers’",
-  "[더벨][GP블라인드펀드줌인]노앤파트너스,과기공·수은연속선정…...",
-  "[더벨]'OLED소재사업화베팅'H&Q·헬리오스,일본큐럭스투자완료",
   "지오스타,AI검색15개넘는언어로8주만에개발",
   "\"매출은美10분의1불과\"…딥시크등中AI군단,'초저비용컴퓨팅'...",
   "[인터뷰]라민로앤AMD부사장\"쿠다독점은옛말…SW가AI가치좌우\"",
@@ -6110,7 +6103,14 @@
   "1지찬+3주원+6현민+DH안재석출격…한국,운명의대만전라인업공개!...",
   "[건강꿀팁]수능전날스마트폰사용줄이기가족공지문장,'충전기'...",
   "AI시대세무사시험수석합격자논란의역설?",
-  "국힘\"특검의결시국무위원들도감옥갈것\"…부산서규탄집회"
+  "국힘\"특검의결시국무위원들도감옥갈것\"…부산서규탄집회",
+  "[속보]트럼프,반도체규제풀어주며엔비디아‘풀매수’",
+  "규제풀기직전엔비디아주식매입…'이해충돌논란'휩싸인트럼프",
+  "“트럼프,작년에AI칩수출통제풀며엔비디아주식사들여”",
+  "[속보]\"트럼프,지난해엔비디아주식사고AI칩수출통제완화\"",
+  "지엠비코리아,전기차열관리시장공략…글로벌부품사도약시동",
+  "기후시민회의시민참여단,'정부정책권고안70건'확정",
+  "가디언\"트럼프,지난해AI칩규제풀기전엔비디아주식매수\""
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
