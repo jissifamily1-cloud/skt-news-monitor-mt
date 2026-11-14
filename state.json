@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390119.html",
-  "https://www.mt.co.kr/politics/2026/11/13/2026111310171253084",
-  "https://www.sisaweek.com/news/articleView.html?idxno=238960",
-  "https://www.jasm.co.kr/news/view/325206/?sc=Naver",
-  "https://www.news1.kr/politics/president/6353048",
-  "https://www.sisaweek.com/news/articleView.html?idxno=238959",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261113001034448",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16275596",
-  "https://zdnet.co.kr/view/?no=20261113103153",
   "https://www.topstarnews.net/news/articleView.html?idxno=16275591",
   "https://www.hidomin.com/news/articleView.html?idxno=729222",
   "https://www.topstarnews.net/news/articleView.html?idxno=16275587",
@@ -3000,27 +2991,20 @@
   "http://www.kjdaily.com/article.php?aid=1794625757692202276",
   "https://www.cnet.co.kr/view/?no=20261114120726",
   "https://www.imaeil.com/page/view/2026111411113346989",
-  "https://www.newsis.com/view/NISX20261114_0003868066"
+  "https://www.newsis.com/view/NISX20261114_0003868066",
+  "https://news.cpbc.co.kr/article/1177018?division=NAVER",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338414",
+  "http://www.osen.co.kr/article/G1112909855",
+  "https://www.jemin.com/news/articleView.html?idxno=847249",
+  "http://www.breaknews.com/1251001",
+  "https://www.g-enews.com/view.php?ud=202611141203439792fbbec65dfb_1",
+  "https://www.pennmike.com/news/articleView.html?idxno=131829",
+  "https://news.jtbc.co.kr/article/NB12328071?influxDiv=NAVER",
+  "https://www.g-enews.com/view.php?ud=2026111412095194922bd56fbc3c_1"
  ],
- "last_run": "2026-11-14T12:15:53.821745+09:00",
+ "last_run": "2026-11-14T12:20:48.501376+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-11-14T06:20:25.598648+09:00",
-   "스페이스X 들여 건설 67조원 계획 애리조나에도"
-  ],
-  [
-   "2026-11-14T06:20:25.598648+09:00",
-   "실패에 밀려 나스닥 기술주 반등"
-  ],
-  [
-   "2026-11-14T06:20:25.598648+09:00",
-   "뉴욕증시 마감 계속 하락세 혼조"
-  ],
-  [
-   "2026-11-14T06:20:25.598648+09:00",
-   "영향 지수 마감 나스닥 뉴욕 하락 증시"
-  ],
   [
    "2026-11-14T06:35:19.341308+09:00",
    "떠난 시험대 시장 투자 젠슨 협력 생태계"
@@ -3271,15 +3255,6 @@
   ]
  ],
  "seen_titles": [
-  "李지지율39%,2030은20%대…'부동산·재판회피'불만[갤럽]",
-  "李대통령지지율,다시30%대로'하락'…민주39%·국힘26%'격차↑'",
-  "[이재명지지율]한주만에30%대추락",
-  "이재명지지율39%로2%p하락…민주39%·국힘26%[한국갤럽]",
-  "李대통령지지율39%,민주39%·국힘26%…조작기소특검贊44%·反37%(종...",
-  "[정당지지율]민주당-국민의힘지지율격차'두자릿수'",
-  "이노메트리,비파괴검사기술과기정통부장관표창…배터리넘어TGV·...",
-  "조작기소특검찬성44%·반대37%…과거특검보다찬성낮고반대높아...",
-  "\"AX시대,공공행정혁신해법제시\"...'12회GIX2026'세종서성료",
   "한동훈복당반대40%·찬성29%…국민의힘지지층은찬성48%,보수층내...",
   "이대통령지지율39%로하락…민주·국힘13%p격차[한국갤럽]",
   "민주당·조국혁신당합당반대38%·찬성26%…민주당지지층도44%대4...",
@@ -6270,7 +6245,16 @@
   "코리아써키트·SFA반도체주가50%대상승…반도체관련주강세",
   "[리뷰]유그린맥플로우프로25W:보조배터리도수랭시대,무선충전발...",
   "김어준진행했던TBS에73억편성…방미통위원장,\"프로그램하나대봐...",
-  "젠슨황사퇴도화선된루비오메모…CIA보고보다'세게'썼다"
+  "젠슨황사퇴도화선된루비오메모…CIA보고보다'세게'썼다",
+  "[시사천국]부동산이서울민심흔든다…민주당에켜진경고등",
+  "LG헬로시청자투니버스못보게된다?…시청자는무슨죄",
+  "'류'류상욱,\"밴픽자신있어,LCK자존심지킬것\"",
+  "미국당국,바이낸스해킹자금1조6천억원대압류승인…북한연계조...",
+  "젠슨황사례로본,최고경영자가불륜에빠지는심리학적이유",
+  "어플라이드4분기매출13조9000억원신기록…월가는왜목표주가를낮...",
+  "'젠슨황스캔들'불똥맞은러트닉,경질위기…베선트도공개저격",
+  "젠슨황사임에정부긴급점검…\"GPU26만장공급지속추진\"",
+  "독일승용차시장서비야디선두도약…중국브랜드점유율6.4%"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
