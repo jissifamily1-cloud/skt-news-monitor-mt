@@ -1,16 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.newsinside.kr/news/articleView.html?idxno=5047335",
-  "https://www.hankyung.com/article/2026111359957",
-  "https://www.dailian.co.kr/news/view/1714901/?sc=Naver",
-  "https://www.christiantoday.co.kr/news/378622",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261113200929Jxw",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845363&plink=ORI&cooper=NAVER",
-  "https://www.tokenpost.kr/news/cryptocurrency/437843",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543720",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845362&plink=ORI&cooper=NAVER",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543719",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160305704007455",
   "https://www.edaily.co.kr/News/Read?newsId=03975366645645392&mediaCodeNo=257",
   "https://www.vegannews.co.kr/news/article.html?no=404568",
@@ -3000,9 +2990,19 @@
   "http://www.inews24.com/view/2026037",
   "https://www.etoday.co.kr/news/view/2648154",
   "https://www.mk.co.kr/article/12208814",
-  "https://www.sedaily.com/article/20114294"
+  "https://www.sedaily.com/article/20114294",
+  "https://www.sedaily.com/article/20114295",
+  "https://www.segye.com/newsView/20261114503331?OutUrl=naver",
+  "https://biz.heraldcorp.com/article/10936908",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000082590",
+  "https://www.aitimes.com/news/articleView.html?idxno=217399",
+  "https://biz.sbs.co.kr/article_hub/20000346391?division=NAVER",
+  "https://www.koreadaily.com/article/20261113171726094",
+  "https://www.tokenpost.kr/news/ai/438149",
+  "https://www.g-enews.com/view.php?ud=2026111410074365832bd56fbc3c_1",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6865524_37004.html"
  ],
- "last_run": "2026-11-14T10:16:00.726968+09:00",
+ "last_run": "2026-11-14T10:20:47.430483+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3247,16 +3247,6 @@
   ]
  ],
  "seen_titles": [
-  "미래에셋증권,LSEG와AI자산관리경쟁력강화업무협약",
-  "'AI안경'의혹나온세무사수석,변호사선임했다",
-  "AI가부른노래가멜론1위…인기아이돌도제쳤다",
-  "이란소수민족언어성경번역에AI활용…“18개월서12개월로”",
-  "[앵커리포트]젠슨황불명예퇴진…수장잃은엔비디아",
-  "\"난쓰레기\"자포자기…단2주만에씁쓸한추락",
-  "비트코인실현손실최근최고…6~7월약세장바닥수준근접",
-  "젠슨황떠난'깐부동맹'…AI생태계변화촉각",
-  "\"중국'칩팀'의공작요원\"…앨리스황의혹'눈덩이'",
-  "젠슨황충격여파…국내증시도'흔들'",
   "류기준경기도의원,고양화정고서반도체진로교육마련",
   "\"젠슨황떠난엔비디아,인재이탈우려\"…오픈AI·구글눈독들일듯",
   "사피엔반도체3분기영업익2억3600만원흑자전환",
@@ -6246,7 +6236,17 @@
   "젠슨황사퇴에韓정부도긴급대응⋯GPU·AI협력영향점검[종합]",
   "오픈AI,AI대리결제용‘챗GPT월렛’출시…글로벌카드3사와협력",
   "“젠슨황복직안하면스페이스X간다?”…엔비디아발칵뒤집은‘...",
-  "엔비디아,ArmCEO접촉설부인…“공식연락한후보없다”"
+  "엔비디아,ArmCEO접촉설부인…“공식연락한후보없다”",
+  "MS365장애24시간넘겨…사과에도온라인선‘MS364’조롱",
+  "택시서만난女에접근한유부남…연인행세로3700만원꿀꺽[사건수첩...",
+  "오픈AI,AI에이전트용‘챗GPT월렛’출시…비자·마스터등과협력[...",
+  "젠슨황떠난'깐부동맹'어디로…이재용·정의선,엔비디아새경영진...",
+  "스페이스X,영상생성AI'그록이매진'개발팀대부분해고...AI코딩에...",
+  "'젠슨황복귀촉구서한'가짜...엔비디아임원들연명조작",
+  "‘이해충돌꼬리표’낸시펠로시가명예의전당에?",
+  "1만1098명서명…엔비디아이사회에젠슨황복귀요구",
+  "CATL2027년교환망6000곳확대…니오추월도전",
+  "\"만점은불가능\"‥AI안경논란에시험신뢰도흔들"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
