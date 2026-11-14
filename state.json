@@ -1,18 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202611140107005369",
-  "https://www.newscj.com/news/articleView.html?idxno=3448635",
-  "https://www.newsis.com/view/NISX20261113_0003867302",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=626663",
-  "https://www.dt.co.kr/article/12094956",
-  "https://www.newsis.com/view/NISX20261113_0003867913",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=668120",
-  "https://www.nocutnews.co.kr/news/6606880",
-  "https://www.ziksir.com/news/articleView.html?idxno=153249",
-  "https://www.dt.co.kr/article/12095069",
-  "https://www.chosun.com/economy/tech_it/2026/11/14/RRGOXOHB3ZFPFLZBWS5WDSZ75Q/",
-  "https://www.chosun.com/economy/tech_it/2026/11/14/OZNXECDW4BCVBK7ZCOFGUWZ42I/",
   "https://imnews.imbc.com/replay/2026/nw2500/article/6865567_36989.html",
   "https://www.hankookilbo.com/news/article/A2026111314490001002?did=NA",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=94108",
@@ -3000,9 +2988,21 @@
   "http://www.ifs.or.kr/bbs/board.php?bo_table=news_board&wr_id=57579",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559974",
   "https://www.tfmedia.co.kr/news/article.html?no=208887",
-  "https://www.kbmaeil.com/article/20261114500215"
+  "https://www.kbmaeil.com/article/20261114500215",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261114185155oIn",
+  "https://www.tfmedia.co.kr/news/article.html?no=208888",
+  "https://www.g-enews.com/view.php?ud=20261114184342872431a5c2dd38_1",
+  "https://www.tokenpost.kr/news/ai/438291",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000082665",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559978",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559979",
+  "https://www.hankyung.com/article/2026111465357",
+  "https://www.mt.co.kr/economy/2026/11/14/2026111418323170416",
+  "https://www.newsis.com/view/NISX20261114_0003868222",
+  "https://www.sedaily.com/article/20114348",
+  "https://www.mk.co.kr/article/12208991"
  ],
- "last_run": "2026-11-14T18:50:50.595634+09:00",
+ "last_run": "2026-11-14T18:55:50.439196+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3088,21 +3088,13 @@
   [
    "2026-11-14T17:40:23.939931+09:00",
    "AI깐부 불륜 서학개미 인정 폭풍매수 4000억"
+  ],
+  [
+   "2026-11-14T18:55:19.328768+09:00",
+   "쓸쓸한 황의 바나나우유까지 달군 젠슨 퇴장 유통가 깐부회동"
   ]
  ],
  "seen_titles": [
-  "뉴욕증시,PPI4년만에최고수준상승에혼조출발...엔비디아3%넘게...",
-  "젠슨황떠난엔비디아…리더십공백에'흔들'",
-  "\"고점에물렸다고겁먹지마세요\"…삼전닉스반등의열쇠는?",
-  "[젠슨황불륜스캔들]33년일군엔비디아떠난테크거물의몰락…\"어...",
-  "[이상현의전자수첩]AI황제의스캔들,삼성·SK에어떻게불똥튀나",
-  "美재무,엔비디아칩유출의혹에상무부대응공개지적",
-  "[기자수첩]젠슨황의퇴장,한국AI의불안한미래",
-  "\"젠슨황내연녀,中반도체공작팀요원\"의혹제기",
-  "[산업직썰]'깐부'젠슨황없는엔비디아…K반도체,AI호황이어갈까",
-  "AI거품론·젠슨황충격에도…삼성전자,여전히‘50만전자’기대감",
-  "깐부를잃었다,위태로운AI동맹",
-  "둑터진대중반도체규제…美,수출우회로틀어막는다",
   "젠슨황퇴진후폭풍‥'깐부동맹'파장촉각",
   "[사설]젠슨황쇼크…AI지각변동과미중경쟁속기회잡길",
   "[더페어돋보기]반도체·이차전지업종실적컨센서스…AI수퍼사이클...",
@@ -6090,7 +6082,19 @@
   "美전문가들\"트럼프,전작권전환을주한미군철수수단으로봐\"",
   "美항공기올스톱…9·11때보다길었다",
   "한국,중국수입시장6개월째1위…첫'수출1조달러'달성눈앞",
-  "시민200명,기후정책70건제안…12월정부검토"
+  "시민200명,기후정책70건제안…12월정부검토",
+  "다시NC오빠된손아섭…\"성적으로얘기할게요\"",
+  "뉴욕증시,다우지수만0.1%상승…엔비디아2%↓,하락지속",
+  "'192만가입자'노란우산까지뚫렸다...중기·소상공인업계잇단개인정...",
+  "1조달러육박한미대형은행AI익스포저…연준은건전성평가",
+  "트럼프,AI반도체규정폐지전엔비디아주식대량매입논란",
+  "“젠슨황복귀안하면사직”…가짜서한도",
+  "‘젠슨황스캔들’에러트닉경질위기…베선트,공개저격",
+  "\"10년모은4억이와르르\"…'SK하닉몰빵'30대피눈물",
+  "중소벤처기업진흥공단,제20대박재호이사장취임",
+  "기후시민회의'시민참여단정책권고안'확정…한총리\"면밀히살필것...",
+  "“트럼프,작년에엔비디아주식사들인뒤AI칩수출통제완화”",
+  "‘깐부회동’에바나나우유까지…K유통가달군젠슨황의쓸쓸한퇴장"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
