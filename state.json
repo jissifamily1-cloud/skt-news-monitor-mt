@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=242868",
-  "https://www.venturesquare.net/1127837/",
-  "https://www.etnews.com/20261112000058",
-  "https://www.yna.co.kr/view/AKR20261112036300017?input=1195m",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1424380",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=300313",
-  "https://www.newspim.com/news/view/20261112000163",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254811",
   "https://www.pointe.co.kr/news/articleView.html?idxno=87609",
   "https://www.viva100.com/article/20261112500282",
   "https://www.insight.co.kr/news/581681",
@@ -3000,15 +2992,19 @@
   "https://biz.heraldcorp.com/article/10936995",
   "https://biz.sbs.co.kr/article_hub/20000346410?division=NAVER",
   "http://coinreaders.com/270221",
-  "https://www.mk.co.kr/article/12208849"
+  "https://www.mk.co.kr/article/12208849",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=369732",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16276411",
+  "https://www.livebiz.today/news/articleView.html?idxno=206522",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000082616",
+  "https://www.tokenpost.kr/news/ai/438208",
+  "https://www.jasm.co.kr/news/view/325293/?sc=Naver",
+  "https://www.kbmaeil.com/article/20261114500117",
+  "https://www.mk.co.kr/article/12208851"
  ],
- "last_run": "2026-11-14T13:15:54.312571+09:00",
+ "last_run": "2026-11-14T13:20:58.712079+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-11-14T07:15:27.048532+09:00",
-   "다우는 나스닥 약세에 상승 반도체주 뉴욕증시"
-  ],
   [
    "2026-11-14T07:35:20.456702+09:00",
    "민주당 논란 없다 손바닥 압승 집값 반도체벨트 젠슨 안심할"
@@ -3220,17 +3216,13 @@
   [
    "2026-11-14T13:05:19.346961+09:00",
    "15일까지 충전한다 포항 미래를 국제 엑스포"
+  ],
+  [
+   "2026-11-14T13:20:33.040418+09:00",
+   "사업 달렸다 6조 없이 돌아가"
   ]
  ],
  "seen_titles": [
-  "SKT,침해사고이후'성실성'평가하락폭90%회복",
-  "대전창조경제혁신센터·SK텔레콤,지역사회문제해결할소셜벤처5개사...",
-  "SKT,해킹사고이후성실평가90%회복…“보안개선성과고객체감해...",
-  "SKT해킹1년반…사고수습평가는회복,기업신뢰는진행형",
-  "SKT,침해사고후성실성고객평가…하락폭90%회복",
-  "SKT,침해사고후신뢰회복순항…성실성평가90%되찾아",
-  "폴라리스오피스,'오피스도우미'매출295%급증…클라우드로성장가속",
-  "SKT사이버침해사고후성실성평가90%회복…기업신뢰는64%",
   "SKT,'말'보다앞선보호조치통했다…침해사고이후성실성평가90%회...",
   "[통신업계소식]SKT,성실성평가서해킹사고직후하락폭의90%회복...",
   "통신3사,동반성장지수나란히'최우수'...SKT14년·KT12년·LG유플8년...",
@@ -6222,7 +6214,15 @@
   "“젠슨황,엔비디아임원진에‘앨리스황’관계거짓해명해와”",
   "젠슨황,엔비디아임원진에'앨리스와적절한관계'거짓말",
   "[AI승부처]앤트로픽상장첫날시총1.25~1.5조달러확률45%…하루새...",
-  "조현외교부장관“왕이‘한반도평화中국익부합’에동의”"
+  "조현외교부장관“왕이‘한반도평화中국익부합’에동의”",
+  "뉴욕증시,엔비디아여파에혼조마감…\"다우0.10%↑·나스닥0.91%↓\"",
+  "감스트,90만원AI안경직접실험…\"30분연습하면무조건된다\"",
+  "노후관제망과부하에4시간20분멈춰선美하늘길...국내항공사미주...",
+  "전남대\"막무가내창업은옛말\"…AI로사업성공전략짠다",
+  "최대7억달러청약한도공시한푸본생명,앤스로픽IPO추진",
+  "한국,中수입시장6개월째1위…사상첫수출1조달러눈앞",
+  "“연구개방성지키며국가전략기술보호”…POSTECH,연구안보전담조...",
+  "“엔비디아없이못돌아가”…中AI사업4.6조달렸다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
