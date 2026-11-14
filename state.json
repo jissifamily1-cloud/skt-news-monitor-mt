@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/436794",
-  "https://www.g-enews.com/view.php?ud=2026111118410833330c8c1c064d_1",
-  "https://www.ddaily.co.kr/page/view/2026111113330627501",
-  "https://www.tokenpost.kr/news/ai/436777",
-  "https://econotimes.com/Parloa-Joins-OpenAI-s-Early-Model-Testing-Program-as-Deal-Expands-1775406",
-  "https://www.tokenpost.kr/news/ai/436736",
-  "https://www.tokenpost.kr/news/ai/436631",
-  "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html?partner=naver",
   "https://econotimes.com/Binance-s-OpenAI-Perpetual-Lists-1-Billion-Estimated-Shares-for-Reference-1775259",
   "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html?partner=naver",
   "https://www.nytimes.com/2026/11/11/briefing/maine-ice-shooting.html?partner=naver",
@@ -3000,9 +2992,17 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/11/14/2026111490066.html",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504080",
   "https://www.yna.co.kr/view/AKR20261114042700001?input=1195m",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230869"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230869",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752089",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752094",
+  "http://www.breaknews.com/1251013",
+  "https://economist.co.kr/article/view/ecn202611140009",
+  "https://www.dailian.co.kr/news/view/1715000/?sc=Naver",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1106820",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752096",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284927&CMPT_CD=P0010"
  ],
- "last_run": "2026-11-14T17:50:48.954855+09:00",
+ "last_run": "2026-11-14T17:55:40.412873+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3111,14 +3111,6 @@
   ]
  ],
  "seen_titles": [
-  "지오스타,AI검색15개넘는언어로8주만에개발",
-  "\"매출은美10분의1불과\"…딥시크등中AI군단,'초저비용컴퓨팅'...",
-  "[인터뷰]라민로앤AMD부사장\"쿠다독점은옛말…SW가AI가치좌우\"",
-  "구글,최대1000개질문한번에판별하는제미나이API공개",
-  "ParloaJoinsOpenAI’sEarlyModelTestingProgramasDealExpands",
-  "오픈AI3분기매출100억달러첫돌파보도",
-  "코그니칩,55쪽명세칩초기설계10일걸렸다고밝혀",
-  "TechAlliesRallyBehindJensenHuang,CallingHimVitalinA.I.Race",
   "Binance’sOpenAIPerpetualLists1BillionEstimatedSharesforRefer",
   "Anthropic’sI.P.O.andtheClubbyBusinessofA.I.",
   "RedFlags",
@@ -6110,7 +6102,15 @@
   "[속보]\"트럼프,지난해엔비디아주식사고AI칩수출통제완화\"",
   "지엠비코리아,전기차열관리시장공략…글로벌부품사도약시동",
   "기후시민회의시민참여단,'정부정책권고안70건'확정",
-  "가디언\"트럼프,지난해AI칩규제풀기전엔비디아주식매수\""
+  "가디언\"트럼프,지난해AI칩규제풀기전엔비디아주식매수\"",
+  "KAI·PTDI,항공산업협력MOU3건체결…KF-21후속양산등협력",
+  "눈길대비'겨울채비'…제주도,15일부터제설종합상황실가동",
+  "세무사수석합격자,'AI안경'의혹\"말도안되는얘기\"..변호사선임",
+  "'모두의창업'이어'사장님퇴직금'노란우산도개인정보뚫렸다",
+  "불륜인데관계적절하다고…내연녀거짓말까지한젠슨황",
+  "용인처인성어울림센터서청소년축제…700여명참여",
+  "용인시,청소년축제'마음축제!어울림포유'개최…700여명참여",
+  "내가받은크리스마스선물이전쟁터에서는사람을죽인다"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
