@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16275591",
-  "https://www.hidomin.com/news/articleView.html?idxno=729222",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16275587",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16275583",
-  "https://www.news1.kr/politics/president/6353000",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16275571",
-  "https://www.mk.co.kr/article/12207771",
-  "https://www.edaily.co.kr/News/Read?newsId=02942166645645392&mediaCodeNo=257",
-  "https://www.seoultimes.news/news/article.html?no=2000102154",
   "https://www.newspim.com/news/view/20261113000263",
   "https://www.apnews.kr/news/articleView.html?idxno=3053095",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=56328",
@@ -3000,9 +2991,18 @@
   "https://www.g-enews.com/view.php?ud=202611141203439792fbbec65dfb_1",
   "https://www.pennmike.com/news/articleView.html?idxno=131829",
   "https://news.jtbc.co.kr/article/NB12328071?influxDiv=NAVER",
-  "https://www.g-enews.com/view.php?ud=2026111412095194922bd56fbc3c_1"
+  "https://www.g-enews.com/view.php?ud=2026111412095194922bd56fbc3c_1",
+  "http://www.sisacast.kr/news/articleView.html?idxno=101950",
+  "http://www.sisacast.kr/news/articleView.html?idxno=101948",
+  "https://www.betanews.net/article/view/beta202611140021",
+  "https://www.ekn.kr/web/view.php?key=20261114028239640",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3751774",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3751779",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/14/2026111490026.html",
+  "https://www.hidomin.com/news/articleView.html?idxno=729291",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/14/2026111490025.html"
  ],
- "last_run": "2026-11-14T12:20:48.501376+09:00",
+ "last_run": "2026-11-14T12:25:46.303162+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3255,15 +3255,6 @@
   ]
  ],
  "seen_titles": [
-  "한동훈복당반대40%·찬성29%…국민의힘지지층은찬성48%,보수층내...",
-  "이대통령지지율39%로하락…민주·국힘13%p격차[한국갤럽]",
-  "민주당·조국혁신당합당반대38%·찬성26%…민주당지지층도44%대4...",
-  "[정당지지율]민주당39%·국민의힘26%…민주당호감도는50%→38%,중도...",
-  "李대통령국정지지율,2%p하락한39%…민주39%·국힘26%[갤럽]",
-  "이재명대통령지지율39%·부정50%…부동산불만지속,도덕성비판1...",
-  "[속보]이대통령지지율39%…민주39%·국힘26%[한국갤럽]",
-  "이노메트리,비파괴검사기술과기정통부장관표창수상",
-  "KT,‘대한민국인터넷대상’국무총리상…AI·데이터활용안전관리성...",
   "이노메트리,비파괴검사기술과기정통부장관표창",
   "[AP미디어동향11월2주]라디오채널어벤저스'모디오'등장",
   "이노메트리,비파괴검사기술과기정통부장관표창···배터리넘어TG...",
@@ -6254,7 +6245,16 @@
   "어플라이드4분기매출13조9000억원신기록…월가는왜목표주가를낮...",
   "'젠슨황스캔들'불똥맞은러트닉,경질위기…베선트도공개저격",
   "젠슨황사임에정부긴급점검…\"GPU26만장공급지속추진\"",
-  "독일승용차시장서비야디선두도약…중국브랜드점유율6.4%"
+  "독일승용차시장서비야디선두도약…중국브랜드점유율6.4%",
+  "코레일,공공HRD콘테스트국무총리상·기관특별상수상",
+  "차바이오텍,3분기연결기준매출9016억기록…주요사업경쟁력강화",
+  "갤럭시S26사용자기다렸던'이기능'드디어나온다",
+  "“엔비디아아직도믿으세요?”…월가경고에도개미들‘폭풍매수’...",
+  "경북도,AI팩토리6개과제선정…국비396억확보",
+  "경북도,SMR국제자문위출범…글로벌원전협력본격화",
+  "젠슨황,불륜에거짓말까지?…\"앨리스황은보통의고객\"해명드러나",
+  "엔비디아임원진들'젠슨황복귀요구서한'은가짜였다",
+  "\"젠슨황후임에영국반도체기업ArmCEO접촉\"…엔비디아\"아직누구도..."
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
