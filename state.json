@@ -1,14 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.news1.kr/finance/market-exr/6364512",
-  "https://www.banronbodo.com/news/articleView.html?idxno=33429",
-  "https://biz.heraldcorp.com/article/10946965",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=159426",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507598",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=63471",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160287415509155",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452796",
   "https://biz.chosun.com/stock/stock_general/2026/11/24/FGAOGPZNV5BARNSVIIBT2YTJUU/",
   "https://www.bloter.net/news/articleView.html?idxno=679538",
   "https://www.sedaily.com/article/20118367",
@@ -3000,15 +2992,19 @@
   "https://www.ksmnews.co.kr/news/view.php?idx=630943",
   "https://www.kado.net/news/articleView.html?idxno=2087096",
   "https://www.edaily.co.kr/News/Read?newsId=04342726645649000&mediaCodeNo=257",
-  "https://www.donga.com/news/Society/article/all/20261124/135081542/1"
+  "https://www.donga.com/news/Society/article/all/20261124/135081542/1",
+  "https://www.mk.co.kr/article/12217484",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8813",
+  "https://www.wikitree.co.kr/articles/1177460",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16285106",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717782",
+  "https://www.fnnews.com/news/202611242006344771",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17513",
+  "http://journal.kobeta.com/?post_type=post&p=64554"
  ],
- "last_run": "2026-11-24T20:25:45.193210+09:00",
+ "last_run": "2026-11-24T20:30:53.049985+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-11-24T14:30:30.103446+09:00",
-   "한국반도체마이스터고 개최 수료식 hy 스쿨 미래"
-  ],
   [
    "2026-11-24T14:35:18.245305+09:00",
    "토스뱅크서 펀드 한투운용 판매 2종 나스닥"
@@ -3619,14 +3615,6 @@
   ]
  ],
  "seen_titles": [
-  "엔비디아·삼전發훈풍에로봇주'불기둥'…휴림로봇이틀째'上'[핫종목...",
-  "통신3사·네이버,AI에이전트응대거부...\"AI전화탓에다른고객상...",
-  "홍보비2兆썼지만…통신3사,제자리점유율에AI‘가속도’",
-  "SKT'AI케어',사회공헌우수사례선정…산업통상부장관상수상",
-  "[코스피지수선물옵션]삼성전자·한화에어로·효성중공업까지'불기둥...",
-  "KT,육군차세대지휘통제체계'KCCS-Army'에AI보탠다",
-  "종로구,한파특보발령땐구청사쉼터24시간문연다",
-  "GS건설허윤홍주택중심탈피박차,데이터센터·인프라사업다각화잰...",
   "하나證“SK텔레콤,현재주가앤트로픽보유·데이터센터가치반영하...",
   "한컴,공공기관에쌓인HWP문서까지HWPX로바꾼다",
   "과거국가시험의심사례까지철저조사...한총리“시대맞춰국가시험...",
@@ -6618,7 +6606,15 @@
   "경북도,식품산업고도화속도…K-푸드세계시장공략본격화",
   "[속보]정부,2031년까지31개기관세종으로…인권위는청사지어이전",
   "젠슨황,복귀후본사에서'샌드위치'나눔…\"배터지게먹자\"",
-  "吳“국무회의서‘조작기소’관련발언기회못얻어”…한성숙“매..."
+  "吳“국무회의서‘조작기소’관련발언기회못얻어”…한성숙“매...",
+  "“이통사가국민선정맛집?”…이유알고보니“그럴만하네”",
+  "[글로벌마켓뷰]대만은9%폭등,코스피는웃다말고…AI반도체강국...",
+  "AI보안연구쏟아지는거짓양성…비트코인코어유지관리자,수천건...",
+  "미국증시전망,젠슨황복귀선반영…차익실현경계",
+  "전쟁·물가·AI가뒤흔든美중간선거…중국의대미전략에영향미칠까",
+  "방미앞둔中,갈륨등대미수출통제유예2개월연장",
+  "기후적응재원3050억달러필요한데…국제사회지원은10분의1",
+  "방미통위등31개기관세종이전계획고시…내년1600명이전"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
