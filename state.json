@@ -1,12 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.news1.kr/society/education/6366840",
-  "https://www.itdaily.kr/news/articleView.html?idxno=243218",
-  "https://www.ytn.co.kr/_ln/0103_202611261030181151",
-  "https://www.greened.kr/news/articleView.html?idxno=355595",
-  "https://it.donga.com/110010/",
-  "https://www.tokenpost.kr/news/economy/444594",
   "https://www.globale.co.kr/news/articleView.html?idxno=41852",
   "https://weekly.donga.com/3/all/11/6478354/1",
   "https://www.businesspost.co.kr/BP?command=article_view&num=451587",
@@ -3000,15 +2994,17 @@
   "https://www.nytimes.com/2026/11/28/science/ai-math-physics-next.html?partner=naver",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725173",
   "https://biz.heraldcorp.com/article/10952028",
-  "https://biz.heraldcorp.com/article/10952026"
+  "https://biz.heraldcorp.com/article/10952026",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509204",
+  "https://www.kbmaeil.com/article/20261128500130",
+  "https://www.sedaily.com/article/20120154",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338786",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000562088",
+  "https://www.yna.co.kr/view/AKR20261128048700098?input=1195m"
  ],
- "last_run": "2026-11-28T19:05:41.899459+09:00",
+ "last_run": "2026-11-28T19:10:52.729290+09:00",
  "initialized": true,
  "recent_sigs": [
-  [
-   "2026-11-28T13:05:20.426151+09:00",
-   "시험대 이번엔 다를까 낙수효과 호황"
-  ],
   [
    "2026-11-28T13:15:31.546990+09:00",
    "2GW 한국을 글로벌 허태수 첫삽 허브로 GS"
@@ -3140,15 +3136,13 @@
   [
    "2026-11-28T18:10:33.182824+09:00",
    "신입 총리 달라 채용해 많이 하이닉스에 삼전"
+  ],
+  [
+   "2026-11-28T19:10:25.800408+09:00",
+   "벨기에서 무허가 구글 명령 건설 강행하다 중단"
   ]
  ],
  "seen_titles": [
-  "VC협회,스케일업팁스서밋개최",
-  "강원AX페스타원주서개막…AI데이터센터부터의료·바이오까지",
-  "QAI,IQM54큐비트양자컴퓨터도입…서울에민간하이브리드데이터센...",
-  "국민의힘행안위원들\"우상호·전재수선거법사건즉각송치하라\"",
-  "나이스평가정보,DYP다각화분석",
-  "美발전소건설러시…K전력기업,220조원'황금시장'열린다",
   "기보,K-기술금융세계로…중소기업상생도빛났다",
   "“대통령이경제적자해를했다”…저축까지관세인상핑계삼은트럼프",
   "벨기에,'하천수사용갈등'구글데이터센터에공사중단명령",
@@ -6142,7 +6136,13 @@
   "A.I.HasUpendedMath.IsPhysicsNext?",
   "한총리,삼전·하이닉스에“채용많이해달라”…청년간담회도",
   "中대체생산국강타한트럼프新관세…기업들“이럴바엔그냥中으로...",
-  "집밥물가오르는데배달비는‘0원’…美배달업계‘무료배달’전쟁..."
+  "집밥물가오르는데배달비는‘0원’…美배달업계‘무료배달’전쟁...",
+  "범용화학에서고부가소재로…국도화학,수익구조바꾸기나선다",
+  "이대통령,강릉서“천연물연구부터제품화까지지원”",
+  "조용히돈벌었다…올해무려37%뛴‘이업종’,AI가아니었다",
+  "[속보]시민이뽑은EBS사장최종후보3인신삼수정성욱추덕담",
+  "21세행시수석합격자“AI커닝,반드시들통날것”",
+  "구글,벨기에서무허가데이터센터건설강행하다중단명령"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
