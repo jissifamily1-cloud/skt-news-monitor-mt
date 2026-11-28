@@ -1,15 +1,6 @@
 {
  "_diag_getupdates": "{\"ok\":true,\"result\":[{\"update_id\":645760323,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760324,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,\"can_delete_stories\":true,\"can_manage_direct_messages\":true,\"is_anonymous\":false,\"can_manage_voice_chats\":true}}},{\"update_id\":645760325,\n\"my_chat_member\":{\"chat\":{\"id\":-1004415737314,\"title\":\"\\uc5c5\\uacc4 \\ub274\\uc2a4 \\ubaa8\\ub2c8\\ud130\\ub9c1\",\"type\":\"channel\"},\"from\":{\"id\":6544095032,\"is_bot\":false,\"first_name\":\"\\ud638\\uc900\",\"last_name\":\"\\uc9c0\",\"language_code\":\"ko\"},\"date\":1781594581,\"old_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"left\"},\"new_chat_member\":{\"user\":{\"id\":8564471186,\"is_bot\":true,\"first_name\":\"\\uc778\\uc0ac\\ubd80\\uace0 \\uc54c\\ub9ac\\ubbf8\",\"username\":\"skt_personnel_bot\"},\"status\":\"administrator\",\"can_be_edited\":false,\"can_manage_chat\":true,\"can_change_info\":true,\"can_post_messages\":true,\"can_edit_messages\":true,\"can_delete_messages\":true,\"can_invite_users\":true,\"can_restrict_members\":true,\"can_promote_members\":true,\"can_manage_video_chats\":true,\"can_post_stories\":true,\"can_edit_stories\":true,",
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=302782",
-  "http://www.4th.kr/news/articleView.html?idxno=2122559",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=886421",
-  "https://www.socialvalue.kr/news/view/1065576101589457",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211894",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=255235",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=802918",
-  "https://www.ngonews.kr/news/articleView.html?idxno=243979",
-  "https://www.koit.co.kr/news/articleView.html?idxno=210059",
   "https://www.seoul.co.kr/news/economy/industry/2026/11/24/20261124031002?wlog_tag3=naver",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.99099007105",
   "https://www.apnews.kr/news/articleView.html?idxno=3053446",
@@ -3000,9 +2991,18 @@
   "https://www.mtnews.net/news/articleView.html?idxno=26693",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725139",
   "https://www.newstnt.com/news/articleView.html?idxno=731078",
-  "https://magazine.hankyung.com/business/article/202611286043b"
+  "https://magazine.hankyung.com/business/article/202611286043b",
+  "https://www.newsgn.com/news/articleView.html?idxno=588437",
+  "https://www.newsgn.com/news/articleView.html?idxno=588434",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1733311",
+  "http://www.breaknews.com/1255001",
+  "http://www.breaknews.com/1255000",
+  "https://www.kbmaeil.com/article/20261128500077",
+  "https://www.lawissue.co.kr/view.php?ud=2026112814023315027b682bb492_12",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602531",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=319232"
  ],
- "last_run": "2026-11-28T14:31:01.944581+09:00",
+ "last_run": "2026-11-28T14:35:47.520649+09:00",
  "initialized": true,
  "recent_sigs": [
   [
@@ -3151,15 +3151,6 @@
   ]
  ],
  "seen_titles": [
-  "[현장]\"KT,계열사갉아먹고경영실패책임은떠넘겨\"",
-  "KT,6G핵심기술검증···\"데이터업로드용량5G대비최대4.9배향상...",
-  "피지컬AI시대,데이터업로드가통신경쟁력으로…KT·LG전자,5G대비...",
-  "KT·LG전자,5G보다데이터업로드용량4.9배확대6G기술검증",
-  "KT·LG전자,6G핵심기술로업로드용량최대4.9배확대검증",
-  "KT,LG전자와AI시대6G통신기술검증…업로드용량확대",
-  "식당태블릿에오른KT·티오더갈등",
-  "[ICT종합]HP코리아및SOOP소식외",
-  "\"KT출신들이경영실패해놓고책임규명없이합병추진\"",
   "과징금악재딛고'AX성과'증명나서···KT,연말홍보전총력",
   "KT,AX성과창출'잰걸음'...B2C·B2B·B2G전방위공세",
   "[기자수첩]박윤영KT대표에게요구되는쇄신",
@@ -6150,7 +6141,16 @@
   "GS,동해1.2GW급AI데이터센터착공…2029년준공·가동목표",
   "정부메가프로젝트첫GW급AI데이터센터,강원동해서착공",
   "충북교육청,'2026.AI·디지털기반교육혁신수업박람회(AI-ONEFESTIVAL)...",
-  "\"더뚫릴것도없다\"…올해개인정보유출신고만1019건'역대급비상'"
+  "\"더뚫릴것도없다\"…올해개인정보유출신고만1019건'역대급비상'",
+  "AI부정행위가바꾼대학별고사현장…가운까지등장",
+  "특수헬기·AI로험준한산악환경에서도소나무재선충병제거한다",
+  "AI株급락에도1410억달러베팅…뉴욕증시떠받치는美개미들",
+  "한국현실정국풍향...“먼바다에서형성되는정치적태풍과시대대전...",
+  "데이터디자인엔지니어링,룩셈부르크군에대드론방어시스템납품",
+  "케이메디허브등공공기관5곳,AI활용감사체계구축나선다",
+  "휴대폰검사·직장앞찾아가기...법원은'일상을옥죄는지배'보다상...",
+  "NYT\"美규제의역설\"…제재7년,화웨이는어떻게中AI의중심이됐나",
+  "EBS사장후보자6인압축"
  ],
  "press_names": {
   "kpenews.com": "한국정경신문",
